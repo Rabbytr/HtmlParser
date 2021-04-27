@@ -1,0 +1,826 @@
+
+<!DOCTYPE html>
+    <html lang="zh-CN" prefix="og: http://ogp.me/ns#" dir="ltr">
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+            <title lang="zh-CN">查看您在 App Store、iTunes Store 等平台上的购买历史记录 - Apple 支持</title>
+            <link rel="dns-prefetch" href="https://www.apple.com/" />
+            <link rel="preconnect" href="https://www.apple.com/" crossorigin />
+
+            
+            <link rel="canonical" href="https://support.apple.com/zh-cn/HT204088" />
+            
+                
+                    <link rel="alternate" hreflang="en-ie" href="https://support.apple.com/en-ie/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-kw" href="https://support.apple.com/ar-kw/HT204088">
+                
+                    <link rel="alternate" hreflang="en-il" href="https://support.apple.com/en-il/HT204088">
+                
+                    <link rel="alternate" hreflang="en-in" href="https://support.apple.com/en-in/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ae" href="https://support.apple.com/en-ae/HT204088">
+                
+                    <link rel="alternate" hreflang="en-za" href="https://support.apple.com/en-za/HT204088">
+                
+                    <link rel="alternate" hreflang="no-no" href="https://support.apple.com/no-no/HT204088">
+                
+                    <link rel="alternate" hreflang="en-al" href="https://support.apple.com/en-al/HT204088">
+                
+                    <link rel="alternate" hreflang="en-is" href="https://support.apple.com/en-is/HT204088">
+                
+                    <link rel="alternate" hreflang="el-gr" href="https://support.apple.com/el-gr/HT204088">
+                
+                    <link rel="alternate" hreflang="en-am" href="https://support.apple.com/en-am/HT204088">
+                
+                    <link rel="alternate" hreflang="nl-nl" href="https://support.apple.com/nl-nl/HT204088">
+                
+                    <link rel="alternate" hreflang="en-au" href="https://support.apple.com/en-au/HT204088">
+                
+                    <link rel="alternate" hreflang="he-il" href="https://support.apple.com/he-il/HT204088">
+                
+                    <link rel="alternate" hreflang="en-az" href="https://support.apple.com/en-az/HT204088">
+                
+                    <link rel="alternate" hreflang="hu-hu" href="https://support.apple.com/hu-hu/HT204088">
+                
+                    <link rel="alternate" hreflang="en-jo" href="https://support.apple.com/en-jo/HT204088">
+                
+                    <link rel="alternate" hreflang="en-bh" href="https://support.apple.com/en-bh/HT204088">
+                
+                    <link rel="alternate" hreflang="es-cl" href="https://support.apple.com/es-cl/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-sn" href="https://support.apple.com/fr-sn/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-ca" href="https://support.apple.com/fr-ca/HT204088">
+                
+                    <link rel="alternate" hreflang="es-co" href="https://support.apple.com/es-co/HT204088">
+                
+                    <link rel="alternate" hreflang="pl-pl" href="https://support.apple.com/pl-pl/HT204088">
+                
+                    <link rel="alternate" hreflang="en-bn" href="https://support.apple.com/en-bn/HT204088">
+                
+                    <link rel="alternate" hreflang="pt-pt" href="https://support.apple.com/pt-pt/HT204088">
+                
+                    <link rel="alternate" hreflang="en-sa" href="https://support.apple.com/en-sa/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-be" href="https://support.apple.com/fr-be/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-eg" href="https://support.apple.com/ar-eg/HT204088">
+                
+                    <link rel="alternate" hreflang="en-bw" href="https://support.apple.com/en-bw/HT204088">
+                
+                    <link rel="alternate" hreflang="en-sg" href="https://support.apple.com/en-sg/HT204088">
+                
+                    <link rel="alternate" hreflang="en-by" href="https://support.apple.com/en-by/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ke" href="https://support.apple.com/en-ke/HT204088">
+                
+                    <link rel="alternate" hreflang="hr-hr" href="https://support.apple.com/hr-hr/HT204088">
+                
+                    <link rel="alternate" hreflang="en-om" href="https://support.apple.com/en-om/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ge" href="https://support.apple.com/en-ge/HT204088">
+                
+                    <link rel="alternate" hreflang="zh-mo" href="https://support.apple.com/zh-mo/HT204088">
+                
+                    <link rel="alternate" hreflang="de-at" href="https://support.apple.com/de-at/HT204088">
+                
+                    <link rel="alternate" hreflang="en-gu" href="https://support.apple.com/en-gu/HT204088">
+                
+                    <link rel="alternate" hreflang="en-gw" href="https://support.apple.com/en-gw/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-gn" href="https://support.apple.com/fr-gn/HT204088">
+                
+                    <link rel="alternate" hreflang="bg-bg" href="https://support.apple.com/bg-bg/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-gq" href="https://support.apple.com/fr-gq/HT204088">
+                
+                    <link rel="alternate" hreflang="cs-cz" href="https://support.apple.com/cs-cz/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ph" href="https://support.apple.com/en-ph/HT204088">
+                
+                    <link rel="alternate" hreflang="zh-tw" href="https://support.apple.com/zh-tw/HT204088">
+                
+                    <link rel="alternate" hreflang="ko-kr" href="https://support.apple.com/ko-kr/HT204088">
+                
+                    <link rel="alternate" hreflang="en-hk" href="https://support.apple.com/en-hk/HT204088">
+                
+                    <link rel="alternate" hreflang="sk-sk" href="https://support.apple.com/sk-sk/HT204088">
+                
+                    <link rel="alternate" hreflang="ru-ru" href="https://support.apple.com/ru-ru/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-om" href="https://support.apple.com/ar-om/HT204088">
+                
+                    <link rel="alternate" hreflang="en-qa" href="https://support.apple.com/en-qa/HT204088">
+                
+                    <link rel="alternate" hreflang="sv-se" href="https://support.apple.com/sv-se/HT204088">
+                
+                    <link rel="alternate" hreflang="da-dk" href="https://support.apple.com/da-dk/HT204088">
+                
+                    <link rel="alternate" hreflang="uk-ua" href="https://support.apple.com/uk-ua/HT204088">
+                
+                    <link rel="alternate" hreflang="en-us" href="https://support.apple.com/en-us/HT204088">
+                
+                    <link rel="alternate" hreflang="en-mk" href="https://support.apple.com/en-mk/HT204088">
+                
+                    <link rel="alternate" hreflang="en-mn" href="https://support.apple.com/en-mn/HT204088">
+                
+                    <link rel="alternate" hreflang="lv-lv" href="https://support.apple.com/lv-lv/HT204088">
+                
+                    <link rel="alternate" hreflang="en-eg" href="https://support.apple.com/en-eg/HT204088">
+                
+                    <link rel="alternate" hreflang="en-mo" href="https://support.apple.com/en-mo/HT204088">
+                
+                    <link rel="alternate" hreflang="en-uz" href="https://support.apple.com/en-uz/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-ne" href="https://support.apple.com/fr-ne/HT204088">
+                
+                    <link rel="alternate" hreflang="en-mt" href="https://support.apple.com/en-mt/HT204088">
+                
+                    <link rel="alternate" hreflang="nl-be" href="https://support.apple.com/nl-be/HT204088">
+                
+                    <link rel="alternate" hreflang="zh-cn" href="https://support.apple.com/zh-cn/HT204088">
+                
+                    <link rel="alternate" hreflang="en-mz" href="https://support.apple.com/en-mz/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-ml" href="https://support.apple.com/fr-ml/HT204088">
+                
+                    <link rel="alternate" hreflang="en-my" href="https://support.apple.com/en-my/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-mu" href="https://support.apple.com/fr-mu/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ng" href="https://support.apple.com/en-ng/HT204088">
+                
+                    <link rel="alternate" hreflang="el-cy" href="https://support.apple.com/el-cy/HT204088">
+                
+                    <link rel="alternate" hreflang="en-vn" href="https://support.apple.com/en-vn/HT204088">
+                
+                    <link rel="alternate" hreflang="ja-jp" href="https://support.apple.com/ja-jp/HT204088">
+                
+                    <link rel="alternate" hreflang="de-ch" href="https://support.apple.com/de-ch/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-qa" href="https://support.apple.com/ar-qa/HT204088">
+                
+                    <link rel="alternate" hreflang="en-nz" href="https://support.apple.com/en-nz/HT204088">
+                
+                    <link rel="alternate" hreflang="ro-ro" href="https://support.apple.com/ro-ro/HT204088">
+                
+                    <link rel="alternate" hreflang="it-ch" href="https://support.apple.com/it-ch/HT204088">
+                
+                    <link rel="alternate" hreflang="tr-tr" href="https://support.apple.com/tr-tr/HT204088">
+                
+                    <link rel="alternate" hreflang="et-ee" href="https://support.apple.com/et-ee/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-fr" href="https://support.apple.com/fr-fr/HT204088">
+                
+                    <link rel="alternate" hreflang="en-gb" href="https://support.apple.com/en-gb/HT204088">
+                
+                    <link rel="alternate" hreflang="fi-fi" href="https://support.apple.com/fi-fi/HT204088">
+                
+                    <link rel="alternate" hreflang="en-kg" href="https://support.apple.com/en-kg/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ca" href="https://support.apple.com/en-ca/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-tn" href="https://support.apple.com/fr-tn/HT204088">
+                
+                    <link rel="alternate" hreflang="lt-lt" href="https://support.apple.com/lt-lt/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-ae" href="https://support.apple.com/ar-ae/HT204088">
+                
+                    <link rel="alternate" hreflang="sl-si" href="https://support.apple.com/sl-si/HT204088">
+                
+                    <link rel="alternate" hreflang="en-kw" href="https://support.apple.com/en-kw/HT204088">
+                
+                    <link rel="alternate" hreflang="en-kz" href="https://support.apple.com/en-kz/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-cf" href="https://support.apple.com/fr-cf/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-ci" href="https://support.apple.com/fr-ci/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-ch" href="https://support.apple.com/fr-ch/HT204088">
+                
+                    <link rel="alternate" hreflang="es-us" href="https://support.apple.com/es-us/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-cm" href="https://support.apple.com/fr-cm/HT204088">
+                
+                    <link rel="alternate" hreflang="en-lb" href="https://support.apple.com/en-lb/HT204088">
+                
+                    <link rel="alternate" hreflang="en-tj" href="https://support.apple.com/en-tj/HT204088">
+                
+                    <link rel="alternate" hreflang="en-tm" href="https://support.apple.com/en-tm/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-sa" href="https://support.apple.com/ar-sa/HT204088">
+                
+                    <link rel="alternate" hreflang="de-de" href="https://support.apple.com/de-de/HT204088">
+                
+                    <link rel="alternate" hreflang="en-lk" href="https://support.apple.com/en-lk/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-ma" href="https://support.apple.com/fr-ma/HT204088">
+                
+                    <link rel="alternate" hreflang="zh-hk" href="https://support.apple.com/zh-hk/HT204088">
+                
+                    <link rel="alternate" hreflang="pt-br" href="https://support.apple.com/pt-br/HT204088">
+                
+                    <link rel="alternate" hreflang="de-li" href="https://support.apple.com/de-li/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-bh" href="https://support.apple.com/ar-bh/HT204088">
+                
+                    <link rel="alternate" hreflang="es-es" href="https://support.apple.com/es-es/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-mg" href="https://support.apple.com/fr-mg/HT204088">
+                
+                    <link rel="alternate" hreflang="ar-jo" href="https://support.apple.com/ar-jo/HT204088">
+                
+                    <link rel="alternate" hreflang="es-mx" href="https://support.apple.com/es-mx/HT204088">
+                
+                    <link rel="alternate" hreflang="it-it" href="https://support.apple.com/it-it/HT204088">
+                
+                    <link rel="alternate" hreflang="en-ug" href="https://support.apple.com/en-ug/HT204088">
+                
+                    <link rel="alternate" hreflang="id-id" href="https://support.apple.com/id-id/HT204088">
+                
+                    <link rel="alternate" hreflang="de-lu" href="https://support.apple.com/de-lu/HT204088">
+                
+                    <link rel="alternate" hreflang="en-md" href="https://support.apple.com/en-md/HT204088">
+                
+                    <link rel="alternate" hreflang="fr-lu" href="https://support.apple.com/fr-lu/HT204088">
+                
+                    <link rel="alternate" hreflang="en-me" href="https://support.apple.com/en-me/HT204088">
+                
+                    <link rel="alternate" hreflang="th-th" href="https://support.apple.com/th-th/HT204088">
+                 
+                   
+
+            
+                <meta name="description" content="要查看您购买了哪些 App、音乐和其他内容，请查看您的购买历史记录。您还可以查看购买相应项目时所用的付款方式和设备。
+
+" />
+                <meta property="og:url" content="https://support.apple.com/zh-cn/HT204088" />
+                <meta property="og:title" content="查看您在 App Store、iTunes Store 等平台上的购买历史记录" />
+                <meta property="og:description" content="要查看您购买了哪些 App、音乐和其他内容，请查看您的购买历史记录。您还可以查看购买相应项目时所用的付款方式和设备。
+
+" />
+                <meta property="og:site_name" content="Apple Support" />
+                <meta property="og:locale" content="zh_CN" />
+                <meta property="og:type" content="article" />
+                <meta name="ac-gn-search-field[locale]" content="zh_CN" /> 
+
+                
+
+                <script type="application/ld+json">{ "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld","@id":"https://support.apple.com/zh-cn/HT204088","appid": "1583465330249689","title":"查看您在 App Store、iTun","pubDate":"2015-02-12T08:44:44","upDate":"2021-04-15T11:46:37"}</script>
+
+            
+
+            
+                <meta name="applicable-device" content="pc,mobile" />
+            
+
+            
+
+            
+                <link rel="stylesheet" href="https://support.apple.com/clientside/build/app-ht.css" type="text/css" /> 
+            
+                <link rel="stylesheet" href="https://www.apple.com/ac/globalfooter/3/zh_CN/styles/ac-globalfooter.built.css" type="text/css" /> 
+            
+                <link rel="stylesheet" href="https://www.apple.com/ac/globalnav/5/zh_CN/styles/ac-globalnav.built.css" type="text/css" /> 
+            
+                <link rel="stylesheet" href="//www.apple.com/wss/fonts?families&#x3D;:SF+Pro+SC,v1:200,300,400,500,600|SF+Pro,v1:200,300,400,500,600|SF+Pro+Icons,v1" type="text/css" /> 
+            
+            <script>
+ 
+    var _applemd = {
+        page: {
+            site_section: "kb",
+            content_type: "ht",
+            info_type: "task-using",
+            topics: "purchases",
+            in_house: "optz,2016fall_amp,stores,2016springitunes124,domain,campaign",
+            locale: "zh-cn",
+            
+            friendly_content: {
+                title: `查看您在 App Store、iTunes Store 等平台上的购买历史记录`,
+                publish_date: "04152021",
+                
+                    content_id: "HT204088",
+                    status: "unarchieved",
+                    version: "1.135"
+                
+            },
+            
+            
+             testandtarget:{
+                throttle:"0.0" 
+            },
+            
+        },
+         
+            product: {
+                list: ["acs::kb::productcategory::macos","acs::kb::productcategory::consumer software::itunes","acs::kb::productcategory::apple music","acs::kb::productcategory::ios::ios apps::app store","acs::kb::productcategory::consumer software::itunes::itunes store","acs::kb::productcategory::ios::ios apps::apple books::apple books","acs::kb::productcategory::apple id","acs::kb::productcategory::ios",]
+            }
+        
+    }
+
+</script>
+
+             
+                <script src="/clientside/build/nn.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    
+     var neighborInitData = {
+        appDataSchemaVersion: '2.0.0',
+        endpoint: 'https://supportmetrics.apple.com/content/services/stats'
+    }
+
+</script>
+            
+            <script>
+                var data = {
+                    showHelpFulfeedBack: true,
+                    id: "HT204088",
+                    locale: "zh_CN",
+                    podCookie: "cn~zh",
+                    urlLocale: "zh-cn",
+                    isPreview : false,
+                    productCategories : "PF32,PF6,PL334,PF23,PF12,13599999999,PP402,131629,PP431,PF26,PF4",
+                    source : "",
+                    channel : "HOWTO_ARTICLES",
+                    bizChatLink : "https://bcrw.apple.com/urn:biz:b15ed773-9eed-11e7-baa2-7b88b04daa8e",
+                    bizChatIntentId : "ContactApple",
+                    bizChatGroupId : "%7B%22domain%22:%20%22AC%22,%22origin%22:%20%22OLS%22,%22page%22:%20%22acs::kb::ht::ARTICLEID::contact%20apple%20for%20support%20and%20service%20(en-us)%22%7D",
+                    bizChatBody : "%3Cstrong%3EChat using Messages%3C/strong%3E %3Cbr%3E Have a question? Ask now.",
+                    bizChatSupportedCountries : "US",
+                    bizChatthrottleValue : 0.0,
+                    bypassBizChat: false,
+                    akamaiEdgeScapeURL: "https://support.apple.com/edge-sight",
+                    isNeighborJsEnabled: true,
+                    isOkapiEnabled: false,
+                    domain: "support.apple.com",
+                    dtmPageName: "acs.pageload",
+                    showRecommendation : false,
+                    recommendationThrottleValue : 0.0
+                }
+                window.appState = JSON.stringify(data);
+
+                document.cookie = 'POD=cn~zh; path=/; domain=.apple.com; expires='+new Date(Date.now() + (28 * 24 * 60 * 60 * 1000)).toGMTString();
+            </script>
+        </head>
+        <body class="ac-gn-current-support no-js"  itemscope itemtype="https://schema.org/TechArticle" >
+        
+        
+           
+
+
+
+
+
+            <meta name="ac-gn-store-key" content="S2A49YFKJF2JAT22K" /><meta name="ac-gn-search-action" content="https://support.apple.com/kb/index" /><meta name="ac-gn-search-input" content="q" /><meta name="ac-gn-search-field[src]" content="globalnav_support" /><meta name="ac-gn-search-field[type]" content="organic" /><meta name="ac-gn-search-field[page]" content="search" /><meta name="ac-gn-search-field[locale]" content="zh_CN" /><link onerror="headerCssFallback()" rel="stylesheet" type="text/css" href="https://www.apple.com/ac/globalnav/5/zh_CN/styles/ac-globalnav.built.css"><aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="zh-CN" dir="ltr" data-strings="{ 'exit': '退出商店', 'view': '{%STOREFRONT%}商店首页', 'segments': { 'smb': '企业商店首页', 'eduInd': '教育商店首页', 'other': '商店首页' } }"></aside><input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" /><nav id="ac-globalnav" class="no-js" role="navigation" aria-label="全部网站" data-hires="false" data-analytics-region="global nav" lang="zh-CN" dir="ltr" data-www-domain="www.apple.com.cn" data-store-locale="cn" data-store-root-path="/" data-store-api="https://www.apple.com.cn/shop/bag/status" data-search-locale="zh_CN" data-search-locale="zh_CN" data-search-suggestions-api="https://www.apple.com.cn/search-services/suggestions/" data-search-defaultlinks-api="https://www.apple.com.cn/search-services/suggestions/defaultlinks/"><div class="ac-gn-content"><ul class="ac-gn-header"><li class="ac-gn-item ac-gn-menuicon"><label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true"><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span></span><span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom"><span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span></span></label><a href="#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open"><span class="ac-gn-menuanchor-label">Global Nav 打开菜单</span></a><a href="#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close"><span class="ac-gn-menuanchor-label">Global Nav 关闭菜单</span></a></li><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com.cn/" data-analytics-title="apple home" id="ac-gn-firstfocus-small"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small"><div class="ac-gn-bag-wrapper"><a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com.cn/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="购物袋" data-string-badge="购物袋中的商品数量：件"><span class="ac-gn-link-text">购物袋</span></a><span class="ac-gn-bag-badge"><span class="ac-gn-bag-badge-separator"></span><span class="ac-gn-bag-badge-number"></span><span class="ac-gn-bag-badge-unit">+</span></span></div><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><div class="ac-gn-search-placeholder-container" role="search"><div class="ac-gn-search ac-gn-search-small"><a id="ac-gn-link-search-small" class="ac-gn-link" href="https://www.apple.com.cn/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="搜索支持"><div class="ac-gn-search-placeholder-bar"><div class="ac-gn-search-placeholder-input"><div class="ac-gn-search-placeholder-input-text" aria-hidden="true"><div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div><span class="ac-gn-search-placeholder">搜索支持</span></div></div><div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">取消</span></div></div></a></div></div><ul class="ac-gn-list"><li class="ac-gn-item ac-gn-apple"><a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com.cn/" data-analytics-title="apple home" id="ac-gn-firstfocus"><span class="ac-gn-link-text">Apple</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-mac"><a class="ac-gn-link ac-gn-link-mac" href="https://www.apple.com.cn/mac/" data-analytics-title="mac"><span class="ac-gn-link-text">Mac</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-ipad"><a class="ac-gn-link ac-gn-link-ipad" href="https://www.apple.com.cn/ipad/" data-analytics-title="ipad"><span class="ac-gn-link-text">iPad</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-iphone"><a class="ac-gn-link ac-gn-link-iphone" href="https://www.apple.com.cn/iphone/" data-analytics-title="iphone"><span class="ac-gn-link-text">iPhone</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-watch"><a class="ac-gn-link ac-gn-link-watch" href="https://www.apple.com.cn/watch/" data-analytics-title="watch"><span class="ac-gn-link-text">Watch</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-music"><a class="ac-gn-link ac-gn-link-music" href="https://www.apple.com.cn/music/" data-analytics-title="music"><span class="ac-gn-link-text">Music</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-support"><a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com/zh-cn" data-analytics-title="support"><span class="ac-gn-link-text">技术支持</span></a></li><li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search"><a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="https://www.apple.com.cn/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link aria-label="搜索支持"></a></li><li class="ac-gn-item ac-gn-bag" id="ac-gn-bag"><div class="ac-gn-bag-wrapper"><a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com.cn/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="购物袋" data-string-badge="购物袋中的商品数量：{%BAGITEMCOUNT%}件"><span class="ac-gn-link-text">购物袋</span></a><span class="ac-gn-bag-badge" aria-hidden="true"><span class="ac-gn-bag-badge-separator"></span><span class="ac-gn-bag-badge-number"></span><span class="ac-gn-bag-badge-unit">+</span></span></div><span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span></li></ul><aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search"><div class="ac-gn-searchview-content"><div class="ac-gn-searchview-bar"><div class="ac-gn-searchview-bar-wrapper"><form id="ac-gn-searchform" class="ac-gn-searchform" action="https://www.apple.com.cn/search" method="get"><div class="ac-gn-searchform-wrapper"><input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="搜索支持" placeholder="搜索支持" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions" /><input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" /><button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled aria-label="提交搜索"></button><button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled aria-label="清除搜索"><span class="ac-gn-searchform-reset-background"></span></button></div></form><button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="取消搜索"><span class="ac-gn-searchview-close-cancel" aria-hidden="true">取消</span></button></div></div><aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="快速链接" data-string-suggestions="搜索结果建议" data-string-noresults=""></aside></div><button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="取消搜索"><span class="ac-gn-searchview-close-wrapper"><span class="ac-gn-searchview-close-left"></span><span class="ac-gn-searchview-close-right"></span></span></button></aside><aside class="ac-gn-bagview" data-analytics-region="bag"><div class="ac-gn-bagview-scrim"><span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span></div><div class="ac-gn-bagview-content" id="ac-gn-bagview-content"></div></aside></div></nav><div class="ac-gn-blur"></div><div id="ac-gn-curtain" class="ac-gn-curtain"></div><div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+            <div id="app">
+                <div >
+                    <section class="section section-content">
+                        <div>
+                            <div class="column small-12 medium-12 large-12 large-centered text-center">
+                                <div class="main" role="main" id="howto-section">
+                                    <div id="content" >
+                                        
+                                        <h1  id="howto-title" itemprop='headline'>查看您在 App Store、iTunes Store 等平台上的购买历史记录</h1>
+                                        <div class="intro"><p>要查看您购买了哪些 App、音乐和其他内容，请查看您的购买历史记录。您还可以查看购买相应项目时所用的付款方式和设备。</p>
+
+</div>
+                                        
+
+                                        
+
+                                        <div itemprop='author' itemscope itemtype='http://schema.org/Organization'>
+                                            <meta itemprop='name' content='Apple' />
+                                        </div>
+
+                                        <div id="sections" itemprop="articleBody">
+                                            
+    
+        <div >
+    
+
+    
+            
+            <div  ><p>查看您从 App Store、iTunes Store、Apple Books 和 Apple TV App 所购项目的列表。</p>
+<p><a href="https://finance-app.itunes.apple.com/purchases" target="_blank"><span class="cta">显示购买历史记录</span></a></p>
+
+</div>
+            
+                
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"><br>
+要取消订阅或重新下载已购项目，您无需查看购买历史记录。 </p>
+<p><a href="https://support.apple.com/zh-cn/HT202039">取消订阅</a>。 </p>
+<p><a href="https://support.apple.com/zh-cn/HT201272">重新下载 App、音乐、影片等</a>。</p>
+
+</div>
+            
+        </div>
+
+
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"></p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="web">如何在网站上查看最近购买的项目</h2>
+            <div  ><ol >
+<li>前往 <a href="https://reportaproblem.apple.com/?s=6" target="_blank">reportaproblem.apple.com</a>。</li>
+<li>使用您的 Apple ID 和密码登录。 </li>
+<li>此时会显示最近所购项目的列表。如果您不确定所支付的费用项目，但知道确切的金额，请搜索金额。如果您购买的某个项目存在问题，请通过这个网站将问题报告给 Apple。</li>
+</ol>
+<p>要查看早期所购项目的收费，您可能需要在“<a href="#iOS">设置</a>”或 <a href="#computer">App Store</a> 中查看购买历史记录。</p>
+<p>了解<a href="#cannotfind">如果您没有看到要找的项目</a>或<a href="#unexpected">如果看到意外收费</a>该怎么做。</p>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"></p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="iOS">在 iPhone、iPad 或 iPod touch 上查看购买历史记录</h2>
+            <div  ><ol>
+<li>打开“设置”App。 </li>
+<li>轻点您的姓名，然后轻点“媒体与购买项目”。系统可能会要求您登录。</li>
+<li>轻点“购买记录”。<br>
+<img src="/library/content/dam/edam/applecare/images/zh_CN/appleid/ios14-iphone-11-pro-settings-apple-id-media-purchases-purchase-history-on-tap.jpg" width="350" alt="iPhone 上显示了“设置”中的“购买记录”菜单选项。"></li>
+<li>此时会显示您的购买记录。如果要查看 90 天之前的购买记录，请轻点“最近 90 天”，然后另选一个日期范围。</li>
+</ol>
+<p>了解<a href="#cannotfind">如果您没有看到要找的项目</a>或<a href="#unexpected">如果看到意外收费</a>该怎么做。</p>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"></p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="computer">在电脑上查看购买历史记录</h2>
+            <div  ><ol>
+<li>打开“音乐”App 或 iTunes。在屏幕顶部的菜单栏中，选取“帐户”，然后点按“查看我的帐户”。</li>
+<li>在“帐户信息”页面上，向下滚动到“购买历史记录”。在“最近购买项目”的旁边，点按“查看所有”。<br>
+<img src="/library/content/dam/edam/applecare/images/en_US/appleid/macos-big-sur-music-account-view-my-account-purchase-history.jpg" width="700" alt="Mac 显示了帐户信息页面的“购买记录”部分，其中的“显示全部”处于选中状态。"></li>
+<li>查找项目。可能需要等待片刻，您的购买历史记录才能显示出来。如果要查看 90 天之前的购买记录，请点按“过去 90 天”，然后选择日期范围。</li>
+</ol>
+<p>了解<a href="#cannotfind">如果您没有看到要找的项目</a>或<a href="#unexpected">如果看到意外收费</a>该怎么做。</p>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"></p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="cannotfind">如果您在购买历史记录中找不到项目</h2>
+            <div  ><p>如果找不到想要查找的项目，请在联系 Apple 之前尝试以下方式。</p>
+
+</div>
+            
+                
+    
+        <div class="grid2col">
+    
+
+    
+            <h3>查明是否有家庭成员购买了该项目</h3>
+            <div  ><p>如果您使用“家人共享”，则购买历史记录会显示您使用 Apple ID 进行的购买，但您看不到其他家庭成员购买了哪些项目。要查看其他家庭成员购买的项目，请使用相应家庭成员的 Apple ID 登录。</p>
+<p>如果家庭成员可以使用您的设备，您可能需要<a href="https://support.apple.com/zh-cn/HT204030">在每次购买时都要求输入密码</a>。</p>
+<p>要控制孩子可以在自己的设备上购买哪些项目，请<a href="https://support.apple.com/zh-cn/HT201089">打开“购买前询问”</a>。</p>
+
+</div>
+            
+        </div>
+
+    
+        <div class="grid2col">
+    
+
+    
+            <h3>检查您是否使用其他 Apple ID 购买了项目</h3>
+            <div  ><p>如果您在购买历史记录中没有看到某个项目，则可能是在购买时使用了其他 Apple ID 登录。请使用购买时所用的 Apple ID 登录，以查看您的购买是不是向那个帐户收费了。 </p>
+<p><a href="https://support.apple.com/zh-cn/HT204053">使用您的 Apple ID 登录</a>。</p>
+
+</div>
+            
+        </div>
+
+
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"></p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="unexpected">如果您发现不明购买项目或意外收费</h2>
+            <div  ><ul >
+<li>如果您在购买历史记录中看到不明购买项目，请检查是否有其他人使用您的设备（例如家庭成员）购买了该项目。如果其他人使用您的 Apple ID 和密码，请<a href="https://support.apple.com/zh-cn/HT201355">更改您的 Apple ID 密码</a>。</li>
+<li>了解<a href="https://support.apple.com/zh-cn/HT201382">如果您在银行或金融机构对账单上发现不明收费</a>，该怎么做。</li>
+<li><a href="https://support.apple.com/zh-cn/HT204084">了解如何请求退款</a>。</li>
+</ul>
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            
+            <div  ><p><img alt="" src="/library/content/dam/edam/applecare/images/en_US/il/spacer.png" width="800"></p>
+<hr>
+
+
+</div>
+            
+        </div>
+
+    
+        <div >
+    
+
+    
+            <h2 id="learnmore">进一步了解</h2>
+            <div  ><ul>
+<li>如果您在购买历史记录中看到了某个 App 内购买项目，但在 App 中看不到，请<a href="https://support.apple.com/zh-cn/HT204530">恢复 App 内购买项目</a>。</li>
+<li>了解 <a href="https://support.apple.com/zh-cn/HT201359">App Store 和 iTunes Store 购买的收费方式</a>。</li>
+<li>如果您收到有关购买项目的可疑电子邮件通知，这封电子邮件可能不是来自 Apple 或者并没有反映您帐户的实际扣款金额。<a href="https://support.apple.com/zh-cn/HT201679">了解如何识别来自 App Store 或 iTunes Store 的合法电子邮件</a>。</li>
+</ul>
+<p><span class="note"><br>
+商店的适用情况和相关功能可能因国家或地区而异。了解<a href="https://support.apple.com/zh-cn/HT204411">您所在的国家或地区提供哪些内容</a>。</span>
+
+</div>
+            
+        </div>
+
+
+                                        </div>
+                                        
+                                            
+                                               <div class="sosumi"><p>有关非 Apple 制造的产品或非 Apple 控制或测试的独立网站的信息仅供参考，不代表 Apple 的任何建议或保证。Apple 对于第三方网站或产品的选择、性能或使用不承担任何责任。Apple 对于第三方网站的准确性和可靠性不作任何担保。<a href="https://support.apple.com/zh-cn/HT2693">联系供应商</a>以了解其他信息。</p>
+
+</div>
+                                            
+                                        
+                                        
+                                            <div class='mod-date'>
+                                                <span>发布日期：</span>&nbsp;<time dateTime=2021-04-15 itemprop='datePublished'>2021 年 04 月 15 日</time>
+                                            </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+            
+            <div id='helpful-rating-wrapper'>
+                
+<div id='helpful' class='ratings okapi-enabled'>
+    <div id='question-state' class='show'>
+        <fieldset>
+            <legend>
+                <div id="okapi-a">
+                    <span>有帮助?</span>
+                </div>
+                
+            </legend>
+            <div class='helpful-btn-grp'>
+                <button class='button' id='yes-button' 
+                    data-ss-analytics-link-component_name='helpful'
+                    data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='yes'
+                    data-ss-analytics-event=acs.link_click
+                    title='解决了我的问题'>
+                    是
+                </button>
+                <button class='button' id='no-button'
+                    data-ss-analytics-link-component_name='helpful'
+                    data-ss-analytics-link-component_type='helpful'
+                    data-ss-analytics-link-text='no'
+                    data-ss-analytics-event=acs.link_click
+                    title='没有帮助'>
+                    否
+                </button>
+            </div>
+        </fieldset>
+    </div>
+
+    <div id='feedback-state' class="form-element form-textbox-labelbelow hide">
+        <form autocomplete="off">
+            <input type='hidden' id='form-counter-error-message' 
+                value="最多 250 个字符。"
+            />
+            <label id='feedback-label' htmlFor='feedback' 
+                data-no-label="非常感谢您向我们提供反馈意见。"
+                data-yes-label="我们很高兴这篇文章能帮到您。"
+            ></label>
+            <div class='form-element form-textbox-labelbelow' id='feedback'>
+                <textarea
+                  class='form-textbox form-textbox-textarea form-counter-textarea form-textbox-entered'
+                  data-no-placeholder="我们可以如何使这篇文章更有帮助？（选答题）"
+                  data-yes-placeholder="您还有什么想要告诉我们的吗？（选答题）"
+                  data-max-length='250'
+                  aria-labelledby='optional_label'
+                  aria-describedby='char_limit_counter'
+                ></textarea>
+                <div class='form-textarea-paddingcover'>
+                    <div class='form-textarea-paddingcover-color'></div>
+                </div>
+                <span class='form-label' id='optional_label' aria-hidden='true'></span>
+                <div class='form-textbox-counter' id='char_limit_counter'>
+                    <span class='visuallyhidden' id="char-limit-message">字符限制：</span>
+                    <span class='form-counter'>250</span>
+                </div>
+                <label htmlFor='feedback-note'>请不要在评论中包含任何个人信息。</label>
+                <div class='form-message-wrapper'>
+                    <span class='form-message'>最多 250 个字符。</span>
+                </div>
+                <button type='submit' class='button' id="submit-feedback">
+                    提交
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <div id='rating-done' class="hide">
+        感谢您的反馈。
+    </div>
+
+    <div id='results-helpful' class='show'>
+    
+    </div>
+</div>
+
+
+            </div>
+   
+            
+
+            
+            <div id='cas'>
+                <div id='promo' class='one'></div>
+            </div>
+            
+            <div id='flexbanner-wrapper'>
+                <div id='flexbanner'></div>
+            </div>
+            
+                
+    
+        <div class="footer-wrapper">
+            <footer
+                    id="ac-globalfooter"
+                    lang="zh-cn"
+                    dir="ltr"
+                    class="js no-touch svg no-ie7 no-ie8 footer-global"
+                    data-analytics-region="global footer"
+                    role="contentinfo"
+                    aria-labelledby="ac-gf-label">
+                <div class="ac-gf-content">
+                    <h2 class="ac-gf-label" id="ac-gf-label">Apple Footer</h2>
+                    <nav class="ac-gf-breadcrumbs" aria-label="Breadcrumbs" role="navigation">
+                        <a href="https://www.apple.com.cn/" class="home ac-gf-breadcrumbs-home">
+                            <span class="ac-gf-breadcrumbs-home-icon" aria-hidden="true"></span>
+                            <span class="ac-gf-breadcrumbs-home-label">Apple</span>
+                            <span class="ac-gf-breadcrumbs-home-chevron"></span>
+                            <span class="ac-gf-breadcrumbs-home-mask"></span>
+                        </a>
+                        <div class="ac-gf-breadcrumbs-path">
+                            <ol class="ac-gf-breadcrumbs-list" vocab="http://schema.org/" typeof="BreadcrumbList">
+                                <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                    <span property="name">
+                                        <a href="https://support.apple.com/zh-cn">支持</a>
+                                    </span>
+                                    <meta property="position" content="1"/>
+                                </li>
+
+                                
+
+                                
+                                    <li class="ac-gf-breadcrumbs-item" property="itemListElement" typeof="ListItem">
+                                        <span property="name">查看您在 App Store、iTunes Store 等平台上的购买历史记录</span>
+                                        <meta property="position" content="2" />
+                                    </li>
+                                
+
+                            </ol>
+                        </div>
+                    </nav>
+                    <section class="ac-gf-footer" vocab="https://schema.org/" typeof="Organization">          <div class="ac-gf-footer-shop" x-ms-format-detection="none"></div>          <div class="ac-gf-footer-legal">             <div class="ac-gf-footer-legal-copyright">                Copyright © 2021 Apple Inc. 保留所有权利。             </div>             <div class="ac-gf-footer-legal-links">                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/legal/privacy/szh/">隐私政策</a>                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/cn/legal/terms/site.html">使用条款</a>                <a class="ac-gf-footer-legal-link analytics-exitlink" href="https://www.apple.com/cn/shop/goto/help/sales_refunds">销售和退款</a>                <a class="ac-gf-footer-legal-link" href="https://www.apple.com/cn/sitemap/">站点地图</a>             </div>          </div>          <meta content="Apple " property="name" />          <meta content="400-666-8800" property="telephone" />       </section>
+                </div>
+            </footer>
+        </div>
+    
+
+
+
+            
+            
+                <script src="https://support.apple.com/clientside/build/FujiStitchPath.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="https://support.apple.com/clientside/build/app-ht-route.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="https://www.apple.com/ac/globalnav/5/zh_CN/scripts/ac-globalnav.built.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="/etc/designs/support/publish/JS/pattern/accsoffer.js" type="text/javascript" charset="utf-8"></script>
+            
+                <script src="https://km.support.apple.com/clientside/build/launch.js" type="text/javascript" charset="utf-8"></script>
+            
+            <div id="apd-aria-live-region" aria-live="polite" role="status" class="a11y"></div>
+        </body>
+    </html>
+
