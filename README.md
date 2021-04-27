@@ -25,7 +25,7 @@ class yourMDB(MarkdownBuilder):
 
 #### 使用
 
-```
+```python
 mdb = myMDB(html)
 markdownString = mdb.tranverse(mdb.soup.body)
 ```
@@ -36,11 +36,11 @@ markdownString = mdb.tranverse(mdb.soup.body)
 
 ####  小测试
 
-URL: `https://support.apple.com/zh-cn/HT204088`
+测试[`URL`](https://support.apple.com/zh-cn/HT204088)
 
 `main.py`的测试结果：
 
-```
+```bash
 python main.py > result.md
 ```
 
