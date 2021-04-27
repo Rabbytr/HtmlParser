@@ -33,3 +33,15 @@ markdownString = mdb.tranverse(mdb.soup.body)
 目前代码还比较粗糙
 
 `tranverse(mdb.soup.body)`这种垃圾api让人看着想揍人
+
+####  小测试
+
+URL: `https://support.apple.com/zh-cn/HT204088`
+
+`main.py`的测试结果：
+
+```
+python main.py > result.md
+```
+
+点击[result.md](./result.md)查看
