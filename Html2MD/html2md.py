@@ -1,23 +1,20 @@
 from __future__ import print_function
 import re
-import bs4
+import sys
+sys.path.append('..')
+from HtmlTree import HtmlTree
 
-class MarkdownBuilder(object):
+class Html2MD(HtmlTree):
     """docstring for MarkdownBuilder"""
     TAGFUNCMAPPING = '_{}'
-
-    def __init__(self, html):
-        super(MarkdownBuilder, self).__init__()
-        self.html = html
-        self.soup = bs4.BeautifulSoup(self.html, features="html.parser")
 
     def tranverse(self,node):
         childMD = list()
         for child in node.children:
-            if isinstance(child,bs4.Tag):
+            if Html2MD.isTag(child):
                 childrenMD = self.tranverse(child)
                 if childrenMD != '':childMD.append(childrenMD)
-            elif isinstance(child,bs4.NavigableString):
+            elif Html2MD.isNavString(child):
                 string = child.string.strip()
                 if string == '':continue
                 childMD.append(string)
@@ -38,7 +35,7 @@ class MarkdownBuilder(object):
             return self._normal_tag(node,childMD)
 
     def _normal_tag(self,node,childMD):
-        return '\n'.join(childMD)
+        raise NotImplementedError
 
 
 

@@ -1,9 +1,9 @@
-from html2md import MarkdownBuilder
+from html2md import Html2MD
 import urllib2
 import urlparse
 
 
-class myMDB(MarkdownBuilder):
+class myMDB(Html2MD):
     def _h(self, lv,node, childMD):
         return '#' * lv + ' ' + '\n'.join(childMD)
 
@@ -28,11 +28,14 @@ class myMDB(MarkdownBuilder):
     def _span(self,node,childMD):
         return self._p(node,childMD)
 
+    def _normal_tag(self,node,childMD):
+        return '\n'.join(childMD)
+
 if __name__ == '__main__':
     url = 'https://support.apple.com/zh-cn/HT204088'
     # html = urllib2.urlopen(url).read()
 
-    with open('./text.txt','r') as f:
+    with open('./text.txt', 'r') as f:
         html = f.read()
         # f.write(html)
 

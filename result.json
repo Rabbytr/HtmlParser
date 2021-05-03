@@ -1,8 +1,3 @@
-测试[小米云便签概览](https://i.mi.com/guide/zh-CN/note/overview)
-
-初步结果：
-
-```json
 {
   "path": null, 
   "data_list": {
@@ -80,7 +75,3 @@
   }, 
   "query": null
 }
-
-```
-
-目前实现了**小米**和**华为**的网站
