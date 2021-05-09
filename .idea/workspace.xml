@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00c5a9eb-f67d-4580-a30f-1ca988c30ac5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/html2md.py" beforeDir="false" afterPath="$PROJECT_DIR$/Html2MD/html2md.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Html2MD/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.json" beforeDir="false" afterPath="$PROJECT_DIR$/result.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.toJson">
+  <component name="RunManager" selected="Python.wxJson">
     <configuration name="HtmlTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HtmlParser" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,14 +123,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wxJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HtmlParser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxJson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.html2md" />
       <item itemvalue="Python.HtmlTree" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.toJson" />
+      <item itemvalue="Python.wxJson" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wxJson" />
         <item itemvalue="Python.toJson" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.html2md" />
@@ -156,22 +179,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1620017514792" />
-    <state width="1659" height="444" key="GridCell.Tab.0.bottom" timestamp="1620050897003">
+    <state width="1659" height="395" key="GridCell.Tab.0.bottom" timestamp="1620542385891">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="444" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1620050897003" />
-    <state width="1659" height="444" key="GridCell.Tab.0.center" timestamp="1620050897002">
+    <state width="1659" height="395" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1620542385891" />
+    <state width="1659" height="395" key="GridCell.Tab.0.center" timestamp="1620542385890">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="444" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1620050897002" />
-    <state width="1659" height="444" key="GridCell.Tab.0.left" timestamp="1620050897001">
+    <state width="1659" height="395" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1620542385890" />
+    <state width="1659" height="395" key="GridCell.Tab.0.left" timestamp="1620542385889">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="444" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1620050897001" />
-    <state width="1659" height="444" key="GridCell.Tab.0.right" timestamp="1620050897002">
+    <state width="1659" height="395" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1620542385889" />
+    <state width="1659" height="395" key="GridCell.Tab.0.right" timestamp="1620542385891">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="444" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1620050897002" />
+    <state width="1659" height="395" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1620542385891" />
     <state x="349" y="164" key="SettingsEditor" timestamp="1619793461979">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
