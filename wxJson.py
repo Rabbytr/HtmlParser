@@ -149,6 +149,45 @@ class Hw2Json(baseHtml2Json):
         for child in node.children:
             self._hw_tranverse(child,dic)
 
+
+class Ap2Json(baseHtml2Json):
+    def getExtractInfos(self):
+        self.MainContent = self.soup.find('body')
+        if self.MainContent is None:
+            return list()
+        extinfos = [WXJson.ExtractInfo()]
+        self._ap_tranverse(self.MainContent, extinfos)
+        return [i for i in extinfos if len(i['content'])!=0 and i['title'] not in [u'进一步了解',u'Apple Footer',None]]
+
+    def _ap_is_que(self,node):
+        if node.name in ['h1','h2','h3']:
+            return True
+        # elif node.name == 'h4' and ''.join(list(node.stripped_strings)).startswith(u'相关阅读'):
+        #     return True
+        return False
+
+    def _ap_tranverse(self, node, extinfos):
+        if isinstance(node,bs4.NavigableString):
+            if not Hw2Json.usefulContent(node):
+                return
+            extinfos[-1]['intro_answer'].append(node)
+            extinfos[-1]['content'].append(node)
+            return
+        tagname = node.name
+        if self._ap_is_que(node):
+            extinfos.append(WXJson.ExtractInfo())
+            extinfos[-1]['title'] = ' '.join(list(node.strings))
+            return
+        elif tagname == 'li':
+            s = ' '.join(list(node.stripped_strings))
+            extinfos[-1].get('step_answer').append(s)
+            extinfos[-1]['content'].append(s)
+            return
+        elif tagname == 'img':
+            extinfos[-1].get('imgurl').append(urlparse.urljoin(self.url, node.get('src')))
+        for child in node.children:
+            self._ap_tranverse(child, extinfos)
+
 if __name__ == '__main__':
     # url = 'https://i.mi.com/guide/zh-CN/note/overview'
     # # url = 'https://i.mi.com/guide/zh-CN/gallery/overview'
@@ -166,6 +205,7 @@ if __name__ == '__main__':
 
     MiUrl = list()
     HwUrl = list()
+    ApURl = list()
     with open('urls.csv','r') as f:
         for line in f:
             url = line.split(',')[1]
@@ -173,9 +213,12 @@ if __name__ == '__main__':
             hostname =  urlparse.urlparse(url).hostname
             if hostname == 'i.mi.com':MiUrl.append(url)
             elif hostname == 'consumer.huawei.com':HwUrl.append(url)
+            elif hostname == 'support.apple.com':ApURl.append(url)
 
     MiUrl = [random.choice(MiUrl) for _ in range(5)]
     HwUrl = [random.choice(HwUrl) for _ in range(5)]
+    ApURl = [random.choice(ApURl) for _ in range(5)]
+    # for i in ApURl:print(i)
 
     results = list()
     for i,url in enumerate(MiUrl[:]):
@@ -193,4 +236,14 @@ if __name__ == '__main__':
         results.extend(r)
         time.sleep(0.5)
         logging.info('HwaWei: {:3}/{:3}'.format(i, len(HwUrl)))
+
+    for i, url in enumerate(ApURl[:]):
+        html = urllib2.urlopen(url).read()
+        # print(url)
+        fuck = Ap2Json(html, url=url)
+        r = fuck.toJson()
+        results.extend(r)
+        time.sleep(0.5)
+        logging.info('Applee: {:3}/{:3}'.format(i, len(ApURl)))
+
     print(WXJson.toJson(results))

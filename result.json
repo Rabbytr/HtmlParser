@@ -1,118 +1,6 @@
 [
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/find/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "什么是查找手机/查找设备？", 
-    "cover_img": [], 
-    "mainbody": {
-      "answer_content": "查找手机是内置在小米设备中的查找设备服务，在i.mi.com里，该功能叫“查找设备”。如果您的登录设备丢失或被盗，“查找手机”功能可以帮助您定位并保护您设备上的数据。【注】实现上述功能，需先确保手机或平板已开启“查找手机/平板”。查看如何开启查找手机。开启查找功能后，通过i.mi.com，点击“查找设备”，可以执行以下操作：定位设备 ：在地图上找到您的设备设备发声 ：在设备上播放声音来寻找该设备开启丢失模式 ：使用“丢失模式”来锁定并追踪您的设备远程抹掉您数据 ：远程清除设备上所有数据，保护您的隐私要使用 i.mi.com 上的“查找设备”，请先登录您授权查找功能的小米帐号 。"
-    }, 
-    "update": 1, 
-    "time_modify": null, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "定位设备 ：在地图上找到您的设备", 
-        "设备发声 ：在设备上播放声音来寻找该设备", 
-        "开启丢失模式 ：使用“丢失模式”来锁定并追踪您的设备", 
-        "远程抹掉您数据 ：远程清除设备上所有数据，保护您的隐私"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "查找手机是内置在小米设备中的查找设备服务，在i.mi.com里，该功能叫“查找设备”。如果您的登录设备丢失或被盗，“查找手机”功能可以帮助您定位并保护您设备上的数据。【注】实现上述功能，需先确保手机或平板已开启“查找手机/平板”。查看如何开启查找手机。开启查找功能后，通过i.mi.com，点击“查找设备”，可以执行以下操作：要使用 i.mi.com 上的“查找设备”，请先登录您授权查找功能的小米帐号 。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/find/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": null
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/membership/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "云服务会员权益", 
-    "cover_img": [], 
-    "mainbody": {
-      "answer_content": "通过升级小米云服务会员，您可以在小米云服务内享受会员权益及特色服务，包括但不限于云空间扩充、备份频率提升、回收站保留期延长、面孔相册识别加速等。当您的云空间已满，无法同步数据时，您可以升级会员，扩大存储空间，以保证云服务的正常使用。当您想要找回之前删除的数据时，您可以升级会员，最长可恢复半年内删除的数据。【友情提示】如果数据删除时间过长，即超过回收站保留期，此时购买会员也无法找回数据。用户属性普通用户黄金会员白金会员钻石会员会员价格免费72元/年252元/年816元/年储存空间5G50G200G2048G云相册回收站保留30天60天90天180天通讯录回收站保留30天60天90天180天录音回收站保留30天60天90天180天便签回收站保留30天60天90天180天短信回收站保留30天60天90天180天小米云盘回收站保留30天60天90天180天面孔相册识别加速无有有有云备份应用+桌面布局应用+桌面布局应用+桌面布局应用+桌面布局云备份频率次/7天次/1天次/1天次/1天【注】普通用户升级会员后，将在会员有效期内，在免费空间基础上增加云储存空间50G/200G/2048G。"
-    }, 
-    "update": 1, 
-    "time_modify": null, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "通过升级小米云服务会员，您可以在小米云服务内享受会员权益及特色服务，包括但不限于云空间扩充、备份频率提升、回收站保留期延长、面孔相册识别加速等。当您的云空间已满，无法同步数据时，您可以升级会员，扩大存储空间，以保证云服务的正常使用。当您想要找回之前删除的数据时，您可以升级会员，最长可恢复半年内删除的数据。【友情提示】如果数据删除时间过长，即超过回收站保留期，此时购买会员也无法找回数据。用户属性普通用户黄金会员白金会员钻石会员会员价格免费72元/年252元/年816元/年储存空间5G50G200G2048G云相册回收站保留30天60天90天180天通讯录回收站保留30天60天90天180天录音回收站保留30天60天90天180天便签回收站保留30天60天90天180天短信回收站保留30天60天90天180天小米云盘回收站保留30天60天90天180天面孔相册识别加速无有有有云备份应用+桌面布局应用+桌面布局应用+桌面布局应用+桌面布局云备份频率次/7天次/1天次/1天次/1天【注】普通用户升级会员后，将在会员有效期内，在免费空间基础上增加云储存空间50G/200G/2048G。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/membership/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": null
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/family/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "什么是家人共享？", 
-    "cover_img": [], 
-    "mainbody": {
-      "answer_content": "开通家人共享后，可以通过位置共享功能与您的家人、朋友轻松共享小米的服务、内容及购买项目，如云空间共享、位置共享、云相册共享等。由家庭中一名成员担当家人共享组织者，可邀请最多5位家庭成员加入，完成创建家人组合，然后选择想要共享的功能，即可邀请家人使用。"
-    }, 
-    "update": 1, 
-    "time_modify": null, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "开通家人共享后，可以通过位置共享功能与您的家人、朋友轻松共享小米的服务、内容及购买项目，如云空间共享、位置共享、云相册共享等。由家庭中一名成员担当家人共享组织者，可邀请最多5位家庭成员加入，完成创建家人组合，然后选择想要共享的功能，即可邀请家人使用。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/family/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": null
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/family/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "家人共享可以共享什么内容？", 
-    "cover_img": [], 
-    "mainbody": {
-      "answer_content": "1，云空间共享：空间共享：“家人共享”可让您和家庭成员轻松共享小米云服务存储空间等服务。若组织者是小米云服务白金会员或钻石会员，在开通家人共享时可默认开通空间共享服务。若组织者是非会员，必须升级到白金或钻石会员后才能邀请家人共享自己的云空间。开通后，所有的家庭成员可共用组织者空间，成员之间不能互相查看彼此的存储照片，文件等数据。查看如何升级会员。若家庭成员无法共享空间，请提示家人需要加入家庭并开启共享云空间后，即可共享该功能。2，位置共享：为了方便了解家人的地理位置信息，您也可以选择共享地理位置给家人，同时家人也可以选择共享自己的位置给你或其他家人。为此，我们会收集您的小米ID、当前地理位置、被邀请人的小米ID/手机号码。更多家庭共享功能正在开发中，敬请期待。"
-    }, 
-    "update": 1, 
-    "time_modify": null, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "1，云空间共享：空间共享：“家人共享”可让您和家庭成员轻松共享小米云服务存储空间等服务。若组织者是小米云服务白金会员或钻石会员，在开通家人共享时可默认开通空间共享服务。若组织者是非会员，必须升级到白金或钻石会员后才能邀请家人共享自己的云空间。开通后，所有的家庭成员可共用组织者空间，成员之间不能互相查看彼此的存储照片，文件等数据。查看如何升级会员。若家庭成员无法共享空间，请提示家人需要加入家庭并开启共享云空间后，即可共享该功能。2，位置共享：为了方便了解家人的地理位置信息，您也可以选择共享地理位置给家人，同时家人也可以选择共享自己的位置给你或其他家人。为此，我们会收集您的小米ID、当前地理位置、被邀请人的小米ID/手机号码。更多家庭共享功能正在开发中，敬请期待。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/family/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": null
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/family/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "如何开启家人共享？", 
-    "cover_img": [], 
-    "mainbody": {
-      "answer_content": "在小米手机上，请前往 “设置” > “帐号” > “推荐服务” >“家人共享”，点击“开始使用”。【注】组织者需升级云服务白金或钻石会员后才可开启“云空间”共享功能。马上升级会员。升级云服务会员后，不仅可以提升自己的云空间，还可以使用家人共享功能，将扩充的空间分享给自己的家人。查看如何创建家人共享。"
-    }, 
-    "update": 1, 
-    "time_modify": null, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "在小米手机上，请前往 “设置” > “帐号” > “推荐服务” >“家人共享”，点击“开始使用”。【注】组织者需升级云服务白金或钻石会员后才可开启“云空间”共享功能。马上升级会员。升级云服务会员后，不仅可以提升自己的云空间，还可以使用家人共享功能，将扩充的空间分享给自己的家人。查看如何创建家人共享。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/family/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": null
-  }, 
-  {
-    "category_id": 8, 
     "h5_url": "https://i.mi.com/guide/zh-CN/contact/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
     "title": "云联系人概览？", 
@@ -250,6 +138,48 @@
   }, 
   {
     "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/account/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "云服务帐号概览", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "小米云服务帐号即小米帐号。使用小米手机和服务时，您注册/登录的小米帐号可以帮您登录并使用小米的所有业务，如小米电视、小米商城、小米手环、小米云服务等。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "小米云服务帐号即小米帐号。使用小米手机和服务时，您注册/登录的小米帐号可以帮您登录并使用小米的所有业务，如小米电视、小米商城、小米手环、小米云服务等。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/account/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/account/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "小米帐号能干什么？", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "登录小米云服务需要小米帐号和密码登录您的个人帐号，小米云服务可以为您存储个人数据。同步备份数据以及应用设置等功能也需要登录您的小米帐号才能使用。通过帐号可以管理云数据小米云服务随时都在帮用户同步手机里面的照片、联系人、便签、录音、短信等资料，您也可以通过使用小米帐号登录到网页端i.mi.com管理自己的文档或者照片。通过帐号绑定设备，防止丢失用户最怕手机丢失或被盗，不但是资产损失，更造成珍贵数据的丢失，小米云服务的查找手机可以帮您定位手机，使用该功能前就需要您的小米帐号授权开启该功能。【友情提示】设置自己专属的小米帐号，一方面可以帮您快速的管理个人数据，另一方面也可以防止自己的个人隐私泄露。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "登录小米云服务需要小米帐号和密码登录您的个人帐号，小米云服务可以为您存储个人数据。同步备份数据以及应用设置等功能也需要登录您的小米帐号才能使用。通过帐号可以管理云数据小米云服务随时都在帮用户同步手机里面的照片、联系人、便签、录音、短信等资料，您也可以通过使用小米帐号登录到网页端i.mi.com管理自己的文档或者照片。通过帐号绑定设备，防止丢失用户最怕手机丢失或被盗，不但是资产损失，更造成珍贵数据的丢失，小米云服务的查找手机可以帮您定位手机，使用该功能前就需要您的小米帐号授权开启该功能。【友情提示】设置自己专属的小米帐号，一方面可以帮您快速的管理个人数据，另一方面也可以防止自己的个人隐私泄露。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/account/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
     "h5_url": "https://i.mi.com/guide/zh-CN/find/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
     "title": "什么是查找手机/查找设备？", 
@@ -278,43 +208,185 @@
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn15757286/", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/cloudspace/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "华为运动健康App找不到训练课程", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PTU7DMBhE7-J1W_nf_lhhJ7HKBrEoB3Adt7VUnCpxiiji7sQoYvn0RpqZbzRPcTx83SJ6QgRtUD985hXZgqd0ja_-o2IKQ97mocTddD-v6s2Xy6JAAJe4Z4xT4IC5pvpEpQygqAzqKJf0MT1e-iW6N8-PyzZkIpRQVFcVxuhLGvIh1R4iMXCGOSYY4w2a0jn7Mo91AXWklVgL1xrLlWYdtEIa6AhrHGG6Edpi5iy3QEljmVFcQqfBOWKl5qx23f019e__l8s4x79t6-W9QT-_9yRY3RMBAAA%3D.svg"
-      }
-    ], 
+    "title": "什么是小米云服务存储空间？", 
+    "cover_img": [], 
     "mainbody": {
-      "answer_content": ""
+      "answer_content": "首次激活小米云服务后，您会自动获得 5GB 的免费云存储空间。用于存储照片、联系人、便签、桌面备份等数据，并让您的数据在多设备间同步，保持最新。以下数据会占用您的云存储空间：桌面云备份，包括备份的桌面应用列表、桌面布局、系统设置各业务云同步数据，如相册照片、录音、便签等小米云盘存储的数据，包括自动备份的目录文档，如QQ、微信文档等云空间用满后，您的设备数据不会再同步到云空间，相关云服务同步备份功能将会暂停，如桌面云备份、相册、联系人等数据同步，小米云盘同步等都将停止服务。您可以随时 升级会员 获得更多云空间。开启云服务会员，您还可以 与家人共享您的云空间 。 了解更多会员方案 。您还可以通过删除已储存的数据，以释放更多云空间。【警告】删除已同步至云端的数据，您开启云同步的所有设备的数据也会被删除。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "桌面云备份，包括备份的桌面应用列表、桌面布局、系统设置", 
+        "各业务云同步数据，如相册照片、录音、便签等", 
+        "小米云盘存储的数据，包括自动备份的目录文档，如QQ、微信文档等", 
+        "您可以随时 升级会员 获得更多云空间。开启云服务会员，您还可以 与家人共享您的云空间 。 了解更多会员方案 。", 
+        "您还可以通过删除已储存的数据，以释放更多云空间。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "首次激活小米云服务后，您会自动获得 5GB 的免费云存储空间。用于存储照片、联系人、便签、桌面备份等数据，并让您的数据在多设备间同步，保持最新。以下数据会占用您的云存储空间：云空间用满后，您的设备数据不会再同步到云空间，相关云服务同步备份功能将会暂停，如桌面云备份、相册、联系人等数据同步，小米云盘同步等都将停止服务。【警告】删除已同步至云端的数据，您开启云同步的所有设备的数据也会被删除。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/cloudspace/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "云“短信”概览", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "“短信”云同步功能，可以将您手机的“短信”数据安全存储至云端，并保持实时更新，实现随时随地多设备同步。在小米品牌手机、平板、网页版i.mi.com上，以及安装了小米云服务电脑端的电脑中，您都可以通过小米云服务中的“短信”功能，查看和管理短信数据。【注】实现上述功能，需先确保已开启“短信”云同步。"
     }, 
     "update": 1, 
     "time_modify": null, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
-      "long_answer": "华为运动健康App找不到训练课程如果您的华为运动健康App找不到训练课程，您可以根据以下场景进行排查：检查语言健身课程当前仅支持简体中文，建议将手机语言设置为简体中文后再进行查看。检查地区健身课程当前仅支持在中国大陆用户使用，请在华为运动健康App>我的>点击最上端头像>再次点击头像进入帐号中心>设置>关于，确认是否登录了中国大陆的华为帐号，如果不是请退出当前帐号，重新登录中国大陆地区的帐号使用。检查路径及课程名称在华为运动健康App升级到10.1.2.548及以上版本后，为了更好地匹配跑步用户和健身用户的需求，华为运动健康App在新版本中将跑步课程和健身课程进行了分离，过往的课程名称、课程内容、课程位置有可能发生变化，但是不会影响您的健身历史记录和统计结果，感谢您对华为的支持与关注。新版本华为运动健康App的健身类课程需要在运动>健身>我的健身课程中进行查看，跑步类课程需要在运动 > 户外跑步/室内跑步> 我的跑步课程中进行查看。华为运动健康App更新到10.1.1.512及以上版本后，在健身中收藏的跑步类课程需要在 运动 > 户外跑步/室内跑步> 我的跑步课程 中进行查看。新老课程名称对应关系可参考以下表格：（新老课程不完全相同，新课程继承了老课程的大部分动作，部分动作从专业性上做了调整。）分类优化后名称老课程名称零基础减脂360°全身燃脂零基础适应性燃脂360°全身激活筋骨舒活大体重高效燃脂大体重燃脂初级HIIT全身燃动训练HIIT全身激活初级新人燃脂初体验忙里偷闲减脂HIIT高效减脂HIIT 5分钟快速热身综合热身HIIT高效减脂初级HIIT燃脂初级HIIT高效减脂中级减脂集中营-HIIT中级训练HIIT高效减脂高级减脂大作战进阶HIIT心肺功能激活减脂大作战初级HIIT心肺功能改善HIIT燃脂进阶HIIT心肺循环进阶减脂集中营-HIIT初级训练HIIT心肺燃脂强化HIIT全身激活进阶Tabata碎片燃脂4分钟Tabata燃脂初体验全身激活减脂4分钟Tabata疾速燃脂-初级TABATA初级4分钟Tabata疾速燃脂-中级TABATA进阶4分钟Tabata疾速燃脂-高级TABATA强化小器械燃脂弹力带燃脂塑形Tabata全身燃脂初级（I）弹力带深度燃脂无哑铃燃脂初级HIIT燃脂强化哑铃燃脂中级大体重燃脂进阶哑铃燃脂高级减脂大作战强化瘦腿懒人瘦腿练习纤细美腿初级10分钟居家瘦腿减脂集中营-TABATA中级训练臀腿燃脂训练臀腿塑造臀腿燃脂进阶大体重燃脂强化弹力带瘦腿训练弹力带快速瘦腿完美曲线 提臀瘦腿训练无消灭小肚子懒人10分钟瘦肚子HIIT全身激活强化周末15分钟瘦腹特训无晨间唤活 瘦腹训练减脂集中营-HICT女生版午间碎片 瘦腹训练减脂集中营-TABATA初级训练晚间提升 腹部燃烧维密女神-核心初级训练减掉拜拜肉弹力带消除拜拜肉弹力带纤细手臂弹力带天鹅臂养成无哑铃瘦手臂入门无哑铃手臂塑形无办公室10分钟瘦手臂无高能手臂燃脂训练纤细双臂马甲线完美马甲线 入门马甲线养成完美马甲线 基础马甲线修炼完美马甲线 进阶马甲线雕刻完美马甲线 强化无腹肌撕裂者 入门无腹肌撕裂者 基础腹肌撕裂者初级腹肌撕裂者 进阶腹肌撕裂者-中级腹肌撕裂者 强化腹肌撕裂者强化10分钟收腹激活训练无15分钟平坦小腹训练无10分钟女团腰速成无纤腰燃脂 腹部紧致无纤腰燃脂 核心训练无细腰瘦腹塑形训练核心训练入门高能虐腹训练呼吸瘦腰腹核心紧腹训练 进阶无核心紧腹训练 强化无翘臀美腿Beauty瘦腿提臀01臀腿入门Beauty瘦腿提臀02维密女神-腿部塑形初级Beauty瘦腿提臀03纤细美腿进阶Beauty瘦腿提臀04美臀强化久坐族臀腿激活维密女神-臀部塑形初级15分钟臀线养成美臀初级完美蜜桃臀打造美臀进阶翘臀不粗腿训练无弹力带塑形▪翘臀养成弹力带翘臀养成弹力带塑形▪完美下身无哑铃臀腿训练无哑铃臀腿进阶无挺拔上身弹力带塑形·气质养成无弹力带塑形·挺拔上身弹力带性感美背气质美胸·舒展完美胸型塑造气质美胸·挺翘维密女神-胸型美化初级10分钟告别含胸驼背肋骨外翻改善性感肩背弹力带肩背塑形弹力带提升肩袖稳定职场仪态·驼背改善无零基础背部塑形维密女神-背部塑形入门纤薄少女背·玉立紧致美背进阶纤薄少女背·开肩无女性哑铃肩部塑形无女性哑铃背部塑形紧致美背初级体态纠正久坐族驼背改善驼背改善久坐族骨盆前倾改善骨盆前倾改善久坐族假胯宽改善骨盆后倾改善久坐族X型腿改善X型腿改善久坐族O型腿改善O型腿改善八块腹肌零基础腹肌训练腹肌训练入门八块腹肌塑造-初级腹肌撕裂者-入门八块腹肌塑造-中级腹肌撕裂者进阶八块腹肌塑造-高级男性专属训练强化核心训练入门腹部入门最强核心打造-初级核心训练初级最强核心打造-中级核心训练进阶最强核心打造-高级核心训练强化巧克力腹肌养成腹肌工厂巧克力腹肌雕刻人鱼线雕刻机人鱼线雕刻男神公狗腰多维燃爆腹肌强化无胸肌打造胸肌训练入门胸肌入门徒手胸肌训练钢铁之躯-胸肌初级训练徒手胸肌进阶无徒手胸肌最强挑战无哑铃胸肌打造初级无哑铃胸肌打造中级钢铁之躯-胸肌中级训练哑铃胸肌打造高级钢铁之躯-胸肌高级训练背部打造徒手型男背部特训无哑铃背部轰炸初级家庭哑铃-背部轰炸初级哑铃背部轰炸中级家庭哑铃-背部轰炸中级哑铃背部轰炸高级家庭哑铃-背部轰炸高级上肢充能哑铃手臂增肌训练手臂后侧入门居家增肌·上肢充能家庭哑铃-手臂轰炸初级居家增肌·肩部打造无哑铃肩部力量轰炸无Strong钢铁手臂塑造家庭哑铃-手臂轰炸中级Strong哑铃手臂轰炸家庭哑铃-手臂轰炸高级腿部强健下肢充能深蹲训练无腿部力量入门训练钢铁之躯-腿部初级训练腿部力量进阶训练钢铁之躯-腿部中级训练腿部力量强化训练钢铁之躯-腿部高级训练拉伸放松晚间疲劳舒缓拉伸睡前垫上拉伸5分钟办公室肩颈放松久坐族身姿改善全身拉伸放松全身拉伸生理期舒缓放松生理期舒缓5分钟办公室久坐舒缓办公室拉伸睡前助眠拉伸全身舒展训练腰背僵硬缓解办公族身姿改善告别疲劳减压放松减压舒缓泡沫轴全身按摩运动后拉伸-上半身身体激活晨间操·身体唤醒清晨唤醒训练晨间操·全身舒展全身舒缓训练臀部肌肉激活无腰背部深层肌肉激活无肩颈部深层肌肉激活肩部稳定性训练办公族工间操办公族工间操下肢肌肉激活无上肢肌肉激活俯卧撑入门腹部肌肉激活平板支撑入门心肺提升零基础心肺功能激活男性专属训练初级零基础心肺功能改善男性专属训练进阶基础体能训练心肺训练强化全身性心肺改善训练心肺训练初级全身性心肺提升训练心肺训练进阶全身性心肺增强训练心肺进阶热身拉伸跑前热身跑前热身跑后拉伸跑后拉伸长距离跑前热身无长距离跑后拉伸无损伤防护跑后泡沫轴放松无下肢拉伸放松运动后拉伸-下半身跑步膝预防跑步防损伤训练足踝防崴伤训练无膝关节稳定性提升下肢关节强化跑者骨盆平衡调整无跟腱疼痛康复训练无膝关节疼痛康复训练无专项力量跑者综合力量提升无跑者综合力量进阶无跑者核心力量训练跑步核心训练初级跑者核心力量进阶跑步核心训练进阶跑者下肢力量训练跑步下肢训练跑者下肢力量进阶无跑者下肢力量强化无跑者上肢力量训练无"
+      "long_answer": "“短信”云同步功能，可以将您手机的“短信”数据安全存储至云端，并保持实时更新，实现随时随地多设备同步。在小米品牌手机、平板、网页版i.mi.com上，以及安装了小米云服务电脑端的电脑中，您都可以通过小米云服务中的“短信”功能，查看和管理短信数据。【注】实现上述功能，需先确保已开启“短信”云同步。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn15757286/", 
+    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
     "@type": "wxsearch_cpdata", 
     "time_publish": null
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00733859/", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "穿戴设备心率检测不准确", 
+    "title": "如何开启“短信”云同步？", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "请前往 “设置”>“小米帐号”>“云服务”>“短信”，根据您的SIM卡，选择开启“同步短信”。您可以根据实际需求，选择是否开启“仅在Wi-Fi下同步短信”。【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "请前往 “设置”>“小米帐号”>“云服务”>“短信”，根据您的SIM卡，选择开启“同步短信”。", 
+        "您可以根据实际需求，选择是否开启“仅在Wi-Fi下同步短信”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何访问小米云“短信”？", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "您可以使用以下几种方式访问小米云服务“短信”。使用前，请务必确保已开启“短信”同步。方法1：手机访问进入小米手机“短信”，查看短信数据。方法2：浏览器访问打开浏览器访问 i.mi.com ，选择“短信”。进行以下任一操作：点击联系人会话信息，界面右侧会显示信息内容，您可以进行查看或收藏。点击页面上方搜索框，根据短信内容关键字搜索您要找的短信。方法3：电脑客户端访问您也可以登录小米云服务电脑客户端，进行以上操作。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "打开浏览器访问 i.mi.com ，选择“短信”。", 
+        "进行以下任一操作：", 
+        "点击联系人会话信息，界面右侧会显示信息内容，您可以进行查看或收藏。", 
+        "点击页面上方搜索框，根据短信内容关键字搜索您要找的短信。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "您可以使用以下几种方式访问小米云服务“短信”。使用前，请务必确保已开启“短信”同步。方法1：手机访问进入小米手机“短信”，查看短信数据。方法2：浏览器访问方法3：电脑客户端访问您也可以登录小米云服务电脑客户端，进行以上操作。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何查看“短信”云同步状态?", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "打开手机“短信”，下拉短信页面，即可看到已经同步的短信数据或正在同步的状态提示或短信同步失败的原因等。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "打开手机“短信”，下拉短信页面，即可看到已经同步的短信数据或正在同步的状态提示或短信同步失败的原因等。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "“短信”快速同步", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "如果您对默认设置的同步效率不满意，可以在“设置”>“小米帐号”>“云服务”中，修改相关短信的同步条件。在同步设置模块，开启快速同步模式。点击通过“立即同步”按钮实现马上同步。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在同步设置模块，开启快速同步模式。", 
+        "点击通过“立即同步”按钮实现马上同步。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "如果您对默认设置的同步效率不满意，可以在“设置”>“小米帐号”>“云服务”中，修改相关短信的同步条件。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "“短信”同步网络设置", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "如果您对数据网络流量有限制，希望不在Wi-Fi下同步，可以在“设置”>“小米帐号”>“云服务”中，对相应业务做Wi-Fi控制，如：短信可以设置只在Wi-Fi下同步彩信。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "如果您对数据网络流量有限制，希望不在Wi-Fi下同步，可以在“设置”>“小米帐号”>“云服务”中，对相应业务做Wi-Fi控制，如：短信可以设置只在Wi-Fi下同步彩信。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00798837/", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "穿戴产品清洁保养指导", 
     "cover_img": [
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PwW7CMBBE_8VnWu3asdfuCbsJopeqB3pGTmIHSxBQSKhK1X-vg6Ien_ZpZ-aHTdcw7L4vgb0wZCvWnr_6BUXGmI7h3Z9mvB-emn6fTr4Le-AkSSEnfL703eJ9-PGQvajRe1krqKUqgKKX3AQlas6jiUUTs12n-1ub1a1dP74CkBBamnxqhuDHdO53aQ5FBaYQUAACwIpdU9f7cRrmOhurtdKiqjiBKx2isboiFBxACSFL64Qma7TDEonI8gKtcWheyXAltc5ZN39M7ef__nGYwqPbsn9r2e8fvAcSHiABAAA%3D.png"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PwU7DMBBE_8XnFq3t9drmRJrEKhfEoXyAm7itpeKgxCmiiH_HQRHHpzfSzHyzeQrj4esjsEfG2Yb1w2daURY8xWt48e8Lxm5I2zTk8DDdzqt69flSlFUWCXopUVi0gEaYkyDqrBbU6SOV9DHen_sS3VdP98u2SwBaSqNsUd0YfI5DOsSlhxNYlIDAAWDDpnhOPs_jsgCaRjqhEY0xjpBcwxu9c0pXEgEFKaitwNbUCqRSrbCat21NvLaOdsap0nXz19i__V_O4xz-tq2X9xX7-QUb-zY2EwEAAA%3D%3D.svg"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PSU7DMBiF7-J1W_2ebVY4g1U2iEU5gBM7raXiVIlTRBF3x0ERy6fv6Q3faJnDdPq6BfSEMNohP36mTdIih3gNr-5jlbEf0z6NORzm-3lDby5fCuJy8B0HzbkPTDuh1eAxdT3tAnacrEFdfLz4Yj2a58dl3ycAqZWisqB-Ci7HMZ3i2oMFaEaBAQaAHZrjObm8TOsC3hDSSmslNbUiFipeCdNCTbFVUrCGMNOKWkgKsm4I58Q2omLCGtwaXWyl6-6u0b__X87TEv62bZePBv38Ago-OBoTAQAA.svg"
       }
     ], 
     "mainbody": {
@@ -325,24 +397,44 @@
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "进行规律性运动 建议您在进行规律性运动（如跑步、走路、骑车等）时测量心率。 非规律运动（如打球等）、腕部力量型运动（如举重等）由于运动规律性没那么强，而且伴随手腕转动、发力等动作，对心率传感器信号干扰较大，所以相对跑步等运动类型，心率准确性相对没那么容易测量准确；同时可能由于测量次数少，样本量不够而导心率数据相较于 自由训练 、跑步等模式有所差异，建议调整佩戴姿势，规范运动方式，多尝试运动几次观察心率测量结果。", 
-        "开启与实际相符的运动模式 因为在运动的时候，穿戴设备在腕部的状态，会产生晃动，从而影响心率测量信号质量，不同的运动类型，运动产生的噪声信号不一样。 选择相应的运动类型，算法可以更好的针对性进行处理，提升信号质量，保证心率测量更准确。 因此建议您开启运动时选择正确的运动类型，以便在运动过程中获得更精准的心率数据。", 
-        "了解正常的运动心率特征 运动后连续测量单次心率，心率值会跳变较大，这是由于人体本身心率的急速下降导致，属于正常现象。 同一环境，相近时间内连续多次测量，心率值会受说话、情绪变化、呼吸、佩戴状态的微小改变、站立动作等因素影响，会导致心率测量值有波动。", 
-        "使用软胶表带 如果您是运动爱好者，建议您使用软胶表带，这样设备可以跟手腕更好的贴合，监测到的数据更准确。", 
-        "保持穿戴设备清洁、干燥 运动中可能出汗较多，穿戴设备上下滑动，汗水遮挡心率监测传感器，可能会导致心率测量出现偏差。 请您擦干手腕和穿戴设备上的汗水，保持穿戴设备背面清洁、干燥，并且无异物遮挡后重新戴紧。", 
-        "检查佩戴方式 请您将穿戴设备正面向上，佩戴在腕骨靠后一点，避开腕骨，舒适服帖。如果您的设备会在手腕上滑动，请您把表带收紧一些，以确保设备不会上下滑动，影响心率监测结果。", 
-        "使用正确测量方式以及心率模式 单次测量心率时请确保手腕静止、避免晃动，有助于获取更稳定和准确的心率值。若需要更加准确的心率数据，建议您开启连续测量实时模式后再进行检测。", 
-        "选取准确的参考设备对比 手环、手表都是和金标准（心电图）对比，误差范围在±10bpm，建议使用心率带或者其他专业设备进行对比。", 
-        "因医疗设备和穿戴产品测量的原理不同，手表是用光束来监测脉搏的，这个光线会受到一些外部环境光线，手臂细微抖动等的影响，医疗设备是动脉压力法（血压计）、金标准（心电图），因此测量出来的结果是有一定误差的。建议您在静止状态下进行心率监测。我们会持续不断优化软件，提升心率测量的准确性，当前请您保证穿戴设备以及华为运动健康App及时更新到最新版本观察使用。", 
-        "医疗设备和穿戴产品取值周期不同，医疗设备是取一分钟的平均值，穿戴产品取实时测量值，因此会有一定差异。您可以将穿戴产品一分钟的心率值获取求均值后，再与医疗设备心率检测值进行对比。", 
-        "当您的实际心率低于37时，穿戴设备的心率检测没有参考性，建议您以医疗设备检测为准。"
+        "运动时，佩戴不可过松但也无需过紧，确保手环/手表不会在手腕上下滑动。", 
+        "日常使用，可稍微放松腕带/表带，保证皮肤透气的舒适体验。", 
+        "保持表体、表带与皮肤的清洁干爽。", 
+        "若接触汗水、肥皂、防晒霜等刺激性液体，请对产品及时清洁并擦干。", 
+        "在保证佩戴舒适的同时也可避免对手表的长期损伤。", 
+        "长时间的摩擦与压力可能使皮肤不适。", 
+        "因此长时间佩戴后可取下半小时，让手腕适当休息。", 
+        "如果您知道自己对金属、塑胶、橡胶过敏或敏感。", 
+        "请在购买前查看各款手环/手表的材质以避免过敏。", 
+        "如您患有湿疹、哮喘或过敏史，则有可能存在佩戴设备引发皮肤不适，一旦发现手腕有红痒或其他配戴皮肤不适，请取下设备让手腕皮肤适当休息，如超过3天仍未缓解，请及时联系皮肤科专家。", 
+        "日常佩戴时请保持手环/手表与皮肤的清洁和干燥，运动后及时清洁汗渍。定期使用柔软的布擦拭手表、清理缝隙中的污垢。可用水冲洗腕带/表带后擦干。", 
+        "请勿使用任何有机溶剂（如洗手液、肥皂水或其他酸碱性溶剂）清洁手表，以避免残留物质积聚在表带或手环下，刺激皮肤。将手环或手表戴回手腕前务必将其擦干。", 
+        "如果腕带/表带沾上顽固污渍、污点或陈垢，可用湿润的软毛牙刷刷洗。", 
+        "请定期使用柔软的布擦拭手环，若有必要，可将布稍微浸湿擦拭。", 
+        "金属手环不防汗、不防水，浸泡可能会导致生锈、褪色或其他损害。", 
+        "避免高温和高湿环境，否则可能导致损害。", 
+        "尽量避免接触香水、驱虫剂、油或洗液，以减轻褪色和其他损害。", 
+        "在高强度锻炼时，不适合佩戴，可能会影响整体使用效果。", 
+        "皮质腕带/表带不防水，应置于通风、透气、干燥处。如将腕带/表带弄脏、弄湿，应及时用干净软棉布抹净表带上的水分或污物，放置于通风阴凉处干燥后，再用皮具光亮保护剂涂刷一层。", 
+        "请勿将腕带/表带暴晒于烈日下或使用微波炉、吹风机等外部加热设备对潮湿的腕带/表带进行干燥处理，否则皮表面会出现收缩或膨胀，导致开胶或其他情况。", 
+        "需避免皮质腕带/表带与粗糙或尖锐物接触及摩擦。", 
+        "超负荷挤压、长期弯曲、反面倒折卷曲过紧，都可使腕带/表带起皱、损伤。", 
+        "需远离易燃物品及各种酸、碱性物质。", 
+        "秋冬季节可在腕带/表带表面涂一层婴儿凡士林，涂之前可先用软布擦一下，一般一周左右上一次油即可。", 
+        "切勿自行给腕带/表带打孔，没有专业的涂油保护会导致打孔后的腕带/表带易破裂。", 
+        "浅色的腕带/表带，请尽量避免直接接触深色衣物，以防被染色。", 
+        "手表的表盘使用玻璃、陶瓷材质，该材质硬度较高，是不易磨损的材料，正常的使用不会被划伤，但仍然要避免手表受到严重撞击或者掉落地面，避免尖锐器物划刻磕碰，如小刀划、刻、石头磕、碰等。", 
+        "充电前请保持手表背面和底座充电触点清洁和干燥，运动后及时擦去手环/手表背部和触点上的汗渍。", 
+        "手环/手表不适用于浮潜、热水淋浴、温泉、桑拿（蒸汽室）、跳水、潜水、滑水，以及面对高速水流的其他涉水活动及深水活动。", 
+        "运动款手环/手表在水中佩戴后，必须彻底晾干，并清除设备上的杂物。", 
+        "皮质或金属表带/腕带若被弄湿，在重新戴上前需彻底擦干。"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "穿戴设备心率检测不准确心率检测不准确与具体使用场景有关，请根据出现心率不准使用场景排查您的问题：运动场景进行规律性运动建议您在进行规律性运动（如跑步、走路、骑车等）时测量心率。非规律运动（如打球等）、腕部力量型运动（如举重等）由于运动规律性没那么强，而且伴随手腕转动、发力等动作，对心率传感器信号干扰较大，所以相对跑步等运动类型，心率准确性相对没那么容易测量准确；同时可能由于测量次数少，样本量不够而导心率数据相较于自由训练、跑步等模式有所差异，建议调整佩戴姿势，规范运动方式，多尝试运动几次观察心率测量结果。开启与实际相符的运动模式因为在运动的时候，穿戴设备在腕部的状态，会产生晃动，从而影响心率测量信号质量，不同的运动类型，运动产生的噪声信号不一样。 选择相应的运动类型，算法可以更好的针对性进行处理，提升信号质量，保证心率测量更准确。因此建议您开启运动时选择正确的运动类型，以便在运动过程中获得更精准的心率数据。了解正常的运动心率特征运动后连续测量单次心率，心率值会跳变较大，这是由于人体本身心率的急速下降导致，属于正常现象。同一环境，相近时间内连续多次测量，心率值会受说话、情绪变化、呼吸、佩戴状态的微小改变、站立动作等因素影响，会导致心率测量值有波动。使用软胶表带如果您是运动爱好者，建议您使用软胶表带，这样设备可以跟手腕更好的贴合，监测到的数据更准确。保持穿戴设备清洁、干燥运动中可能出汗较多，穿戴设备上下滑动，汗水遮挡心率监测传感器，可能会导致心率测量出现偏差。 请您擦干手腕和穿戴设备上的汗水，保持穿戴设备背面清洁、干燥，并且无异物遮挡后重新戴紧。静止场景检查佩戴方式请您将穿戴设备正面向上，佩戴在腕骨靠后一点，避开腕骨，舒适服帖。如果您的设备会在手腕上滑动，请您把表带收紧一些，以确保设备不会上下滑动，影响心率监测结果。使用正确测量方式以及心率模式单次测量心率时请确保手腕静止、避免晃动，有助于获取更稳定和准确的心率值。若需要更加准确的心率数据，建议您开启连续测量实时模式后再进行检测。选取准确的参考设备对比手环、手表都是和金标准（心电图）对比，误差范围在±10bpm，建议使用心率带或者其他专业设备进行对比。特定场景如果您有心脏病史或者其他心脏疾病，心率测量对比医疗设备可能会存在一定差异。因医疗设备和穿戴产品测量的原理不同，手表是用光束来监测脉搏的，这个光线会受到一些外部环境光线，手臂细微抖动等的影响，医疗设备是动脉压力法（血压计）、金标准（心电图），因此测量出来的结果是有一定误差的。建议您在静止状态下进行心率监测。我们会持续不断优化软件，提升心率测量的准确性，当前请您保证穿戴设备以及华为运动健康App及时更新到最新版本观察使用。医疗设备和穿戴产品取值周期不同，医疗设备是取一分钟的平均值，穿戴产品取实时测量值，因此会有一定差异。您可以将穿戴产品一分钟的心率值获取求均值后，再与医疗设备心率检测值进行对比。当您的实际心率低于37时，穿戴设备的心率检测没有参考性，建议您以医疗设备检测为准。游泳场景华为穿戴设备心率监测采用PPG进行测量，该传感器感应的是光线的变化，在水中测量心率时，水（尤其是户外游泳水质不够清澈的情况下）对光线的影响较大，部分场景下可能出现PPG的反射光无法正常接收的情况，进而导致心率无法正常显示或者显示的心率结果不够准确。请您将手表背面擦拭干净后重新偏紧佩戴尝试。寒冷环境在寒冷天气下，手腕部位的毛细血管血流量发生变化，导致心率传感器无法获取到相对有效的信号，影响心率测量结果的准确性。如果外部环境温度较低，建议您佩戴手套/长袖，做好保暖。在运动前充分热身（5min）再启动运动 /尝试室内运动对比看下心率情况。穿戴设备升级版本我们的研发工程师一直在努力提升心率测量的准确性，每一个新版本的发布，都经过严格的测试验证，新版本的算法准确性整体上更优。但受限于心率传感器接收到的信号质量，可能不同版本间会存在一些差异，有的版本表现会偏高，有的版本会偏低。在信号质量较好的情况下，心率测量结果相对准确，此时不同版本的心率测量结果会比较接近；而在信号质量较差的情况下，心率测量的准确性也会受到影响。我们会持续不断优化软件，提升心率测量的准确性，当前请您保证穿戴设备以及华为运动健康App及时更新到最新版本观察使用。如果按照上述操作无效，建议您携带购机相关凭证，前往就近的华为客户服务中心进行处理。穿戴设备监测心率的数据不作为医学参考。"
+      "intro_answer": "穿戴产品清洁保养指导1.舒适佩戴提示：请正确佩戴运动时，佩戴不可过松但也无需过紧，确保手环/手表不会在手腕上下滑动。日常使用，可稍微放松腕带/表带，保证皮肤透气的舒适体验。请保持干爽保持表体、表带与皮肤的清洁干爽。若接触汗水、肥皂、防晒霜等刺激性液体，请对产品及时清洁并擦干。在保证佩戴舒适的同时也可避免对手表的长期损伤。请让手腕适当休息长时间的摩擦与压力可能使皮肤不适。因此长时间佩戴后可取下半小时，让手腕适当休息。请挑选适合的手环/手表如果您知道自己对金属、塑胶、橡胶过敏或敏感。请在购买前查看各款手环/手表的材质以避免过敏。如您患有湿疹、哮喘或过敏史，则有可能存在佩戴设备引发皮肤不适，一旦发现手腕有红痒或其他配戴皮肤不适，请取下设备让手腕皮肤适当休息，如超过3天仍未缓解，请及时联系皮肤科专家。2.如何清洁产品提示：运动款日常佩戴时请保持手环/手表与皮肤的清洁和干燥，运动后及时清洁汗渍。定期使用柔软的布擦拭手表、清理缝隙中的污垢。可用水冲洗腕带/表带后擦干。请勿使用任何有机溶剂（如洗手液、肥皂水或其他酸碱性溶剂）清洁手表，以避免残留物质积聚在表带或手环下，刺激皮肤。将手环或手表戴回手腕前务必将其擦干。如果腕带/表带沾上顽固污渍、污点或陈垢，可用湿润的软毛牙刷刷洗。金属款请定期使用柔软的布擦拭手环，若有必要，可将布稍微浸湿擦拭。金属手环不防汗、不防水，浸泡可能会导致生锈、褪色或其他损害。避免高温和高湿环境，否则可能导致损害。尽量避免接触香水、驱虫剂、油或洗液，以减轻褪色和其他损害。在高强度锻炼时，不适合佩戴，可能会影响整体使用效果。皮质款皮质腕带/表带不防水，应置于通风、透气、干燥处。如将腕带/表带弄脏、弄湿，应及时用干净软棉布抹净表带上的水分或污物，放置于通风阴凉处干燥后，再用皮具光亮保护剂涂刷一层。请勿将腕带/表带暴晒于烈日下或使用微波炉、吹风机等外部加热设备对潮湿的腕带/表带进行干燥处理，否则皮表面会出现收缩或膨胀，导致开胶或其他情况。需避免皮质腕带/表带与粗糙或尖锐物接触及摩擦。超负荷挤压、长期弯曲、反面倒折卷曲过紧，都可使腕带/表带起皱、损伤。需远离易燃物品及各种酸、碱性物质。秋冬季节可在腕带/表带表面涂一层婴儿凡士林，涂之前可先用软布擦一下，一般一周左右上一次油即可。切勿自行给腕带/表带打孔，没有专业的涂油保护会导致打孔后的腕带/表带易破裂。浅色的腕带/表带，请尽量避免直接接触深色衣物，以防被染色。3.佩戴注意事项：防刮防腐手表的表盘使用玻璃、陶瓷材质，该材质硬度较高，是不易磨损的材料，正常的使用不会被划伤，但仍然要避免手表受到严重撞击或者掉落地面，避免尖锐器物划刻磕碰，如小刀划、刻、石头磕、碰等。充电前请保持手表背面和底座充电触点清洁和干燥，运动后及时擦去手环/手表背部和触点上的汗渍。防水防尘手环/手表不适用于浮潜、热水淋浴、温泉、桑拿（蒸汽室）、跳水、潜水、滑水，以及面对高速水流的其他涉水活动及深水活动。运动款手环/手表在水中佩戴后，必须彻底晾干，并清除设备上的杂物。皮质或金属表带/腕带若被弄湿，在重新戴上前需彻底擦干。手环/手表可防如起居室、办公室、实验室、轻工业工作室、仓储室等的灰尘条件，但不适合特殊的扬尘环境。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00733859/", 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00798837/", 
     "@type": "wxsearch_cpdata", 
     "time_publish": null
   }, 
@@ -374,25 +466,33 @@
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00736819/", 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00734069/", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "设置手表通话功能", 
+    "title": "智能关怀App上提示手表当前未连接网络/手表不在线", 
     "cover_img": [
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py2rDMBBF_0XrpMxYD0tdRbZj0k3pIv2AiSUnglQutpzSlP575WC6GbicC3PPD5snPx6_Pz17Zsg2zA1fcY08xz5c_St9LDF0Q9zGIfmn6XZe0RulS0bgTlB01DtOpUAtiXNhgDsC6o0ykNuncH9xuXqwu_tl20WAkiuNJqNu9JTCEI9h-YMKjOAgAAFgw6ZwjpTm8TFI7CXqvc63qXUlrVAFr4y1jYYaocCqbhtZVFIp0RjToi2R21Y11hhZ60XvRtfg3v-V0zj7x7ZV-WDZ7x-F6sZIEwEAAA%3D%3D.svg"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD1Qy27CMBD8F59ptbYXP3qqnRjRS9UDPSM7NsESBBQSqlL13-tEUfc22tG8fsh4S_3u-5rIC6FkReLlq1sgL_CQT-ndnyf4OD413T6ffZv2MB8FDUJQLuTztWsX9ocfjpNWIzF4FOugImKAsMaUfGRMhUP0oAo75MdbLNSteZ21ASRHELq8mj75IV-6XZ6sqQCNHLAYAqzILbedH8Z-CgUSlbOWIaKpKgVOac0cl9Rwyyyr0BquRW3rmhlr9MYCt85QcMJyVbOp8d2fcvz8X2HoxzRnW1bYGvL7BwBQfn4mAQAA.png"
       }, 
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PzW7CMBCE38Vninb9t3ZPdRoQvVQ90DNybBMsQUAhoSpV370xinoc7czsfD9svKZ--31J7JkhW7B4_upmKSa5z8f07k9F3g9Podvlk2_TDpAEJ9RklpeunX0ffjiUWAITEvcKBcggoQkicojUSEwxNfvJ3eT7W5ysG_fyaAUgoQ3a6RT65Id87ra5PEUNVk41gACwYNfcdn4Y-zLHErparda6ksZaDkYLEnXllFAgrTP8VVKlV7auAbiVxKUipwhhLRxHXeBu_pjj5z__0I_psW3m3zj2-wfG80C7IAEAAA%3D%3D.png"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QwW7CMAyG3yVnNjl1Eic7kZJKcJl2YGcU2rREgoBKOzSmvfvSqppvv_zJ3y__sPEe-v33LbA3xtmKNddHWiLm2MZzePeXKT5PL3U6xIvvwgHm4WBAKkRuXm-pW-gPP5wyXcvGcxK8lYGERG1kCNBmFusjEUyqY3zumoxu7Xq-DUAoQJm8qvvgh3hN-zipuQIjEEQWAqzYPXbJD2M_laLKGqU4t6LUm6xzpXNElTagpTZoiRdksVDSVk7IQm0EOSiw1IYrJDfV-PLn2Hz-f2HoxzB3W76wtez3D6_amkwmAQAA.png"
       }, 
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py27CMBBF_8VrisYZP7tqjGPRTdUFXSMndoMlMCgkVKXqv9dBUZd35ug-fsh0jcPu-xLJM6FkRcL5Ky8Si_xMx_jmT7O8H566vE8n38c9UImVrABwfcn9wr378VC4SqOU2os2oGIRUIH0LWWKBmyxY77Qbbq_hoJu65eHK4BEoagur26IfkznvEtzKBWgGQIDCgArck199uM0zHUcp1BjZYRGaLhB1hgpsBwkbIqXqyhXWljbOLsRruYctBXGKdVYJ7g1Jevmjyl8_O8fhyk-ui37tzX5_QP0qUEOIAEAAA%3D%3D.png"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py07DMBBF_8XrgsZvD6s6oVXZIBZlXZl4klpq3SpNQBTx7zhRxPLoHs2988PGG_X77yuxJ8bZisXLV15QFmzTiV7DecL78aHJh3QOHR1AGKGsQOcer7lbvLcwHIvXtFQC4pbHoCIigubUOoHcBSKFxf5I95dY1J1fz1cBrFRgpqjpKQzpkvdpKuUGUElQwAFgxW6py2EY-3ns1ivNK6y1B1fbLWBZI63WXBSoKr8pjZWz0ihpvfQOnaqftfGmNnojfen6DKcU3___H_qR5m3L_zvPfv8AlUKMTCABAAA%3D.png"
       }, 
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py2rDMBBF_0XrpMxYD0tdRbZj0k3pIv2AiSUnglQutpzSlP575WC6GbicC3PPD5snPx6_Pz17Zsg2zA1fcY08xz5c_St9LDF0Q9zGIfmn6XZe0RulS0bgTlB01DtOpUAtiXNhgDsC6o0ykNuncH9xuXqwu_tl20WAkiuNJqNu9JTCEI9h-YMKjOAgAAFgw6ZwjpTm8TFI7CXqvc63qXUlrVAFr4y1jYYaocCqbhtZVFIp0RjToi2R21Y11hhZ60XvRtfg3v-V0zj7x7ZV-WDZ7x-F6sZIEwEAAA%3D%3D.svg"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PzU7DMBCE38XnFq3_dm1OmDZVuSAO5QFc27SWioMSp4gi3h0HRRy_mZFm5ptNYxoOXx-J3TPOViz2n2VB2fAtX9Kzf58xh76sS1_T3Xg9LdaLr-dmWS0DGhMsgVEghddKxGNAQtIQwbT0Md-eYovu3cPtvA4FgKQCtM0KQ_I19-WQ5x6OYJUEBRwAVmzMp-LrNMwLBEnnpDAd34LGzRYEGLCdxUfcODIcd4i7JmgAoaQma8koDWQkUWcltq6rv-T4-n-5DlP627Zc3jv28wsQcTQFEwEAAA%3D%3D.svg"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PwW6DMBBE_8XnNFrba6_pqS5gpZeqh_QcGTDEUkIiAqmaqv9eg1BPq9E87cz8sOkWhv33NbBnxtmGNZevfpUyyTaewrs_z_JxfKr7Qzz7LhxAaIEEWontte9W7sOPx8TpGhF51S6XsDGopFJaZW3lDYU20VV8vDUJ3dmX5SsASQSdJasegh_jpd_HOZRryFACAgeADbvFrvfjNMx1QJhSkSlLygUaUpbQCQLkIi-wMM4WuXQaXTI0F-jca0a8lGVGuTVaiJR196fYfP7vH4cpLN3W_TvLfv8AjiDyfiABAAA%3D.png"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PzU7DMBCE38XnFq3_dm1OmDZVuSAO5QFc27SWioMSp4gi3h0HRRy_mZFm5ptNYxoOXx-J3TPOViz2n2VB2fAtX9Kzf58xh76sS1_T3Xg9LdaLr-dmWS0DGhMsgVEghddKxGNAQtIQwbT0Md-eYovu3cPtvA4FgKQCtM0KQ_I19-WQ5x6OYJUEBRwAVmzMp-LrNMwLBEnnpDAd34LGzRYEGLCdxUfcODIcd4i7JmgAoaQma8koDWQkUWcltq6rv-T4-n-5DlP627Zc3jv28wsQcTQFEwEAAA%3D%3D.svg"
       }
     ], 
     "mainbody": {
@@ -403,18 +503,799 @@
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "当手表与手机正常连接，且蓝牙通话功能开启时，您可以在手表上选择使用手表还是手机拨打电话。", 
-        "当手表离开手机，与手机连接断开时，可以直接使用手表轻松接听、拨打电话、享受网络服务。", 
-        "当手表和手机蓝牙连接时，手表SIM卡或eSIM卡无法接收电话和短信。如果您想手表连接手机同时也可以收到来电，请将移动网络设置为开启。请您注意移动网络设置为开启会增加手表的功耗，减少手表的待机时间。", 
-        "移动网络开启方法：打开您的手表，点击 设置>网络连接>移动网络>移动网络>开启 。", 
-        "为保证通话功能正常，请您确保手表 设置>系统>省电模式 已关闭。"
+        "请在主界面下滑手表屏幕，查看SIM卡的网络信号是否处于4G满格信号，且有上下数据箭头。", 
+        "若手表信号较差，请尝试换个网络信号较好的环境（如室外或窗户边等）。", 
+        "手表信号情况较好，请长按手表电源键重启手表尝试。 华为儿童手表 3/荣耀小K 2/华为儿童手表/荣耀小K ，手表仅支持中国移动2G网络，请确认手表处于2G满格信号。", 
+        "使用 华为儿童手表 3 Pro /3X/3s/3 Pro 超能版 时，请确认手表上移动数据开关是否关闭（可在手表中 设置>高级设置>无线和网络>移动数据 查看），如果关闭，请打开。", 
+        "使用 华为儿童手表 4X 时，请确认手表上移动数据开关是否关闭（可在手表中 设置>高级设置>网络连接>移动数据 查看），如果关闭，请打开。", 
+        "请确认手表是否出国漫游使用过，如果回国后手表不显示4G，请尝试将SIM卡插入手机显示4G后再重新装回手表使用。"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "设置手表通话功能手表独立通话功能当手表与手机正常连接，且蓝牙通话功能开启时，您可以在手表上选择使用手表还是手机拨打电话。当手表离开手机，与手机连接断开时，可以直接使用手表轻松接听、拨打电话、享受网络服务。当手表和手机蓝牙连接时，手表SIM卡或eSIM卡无法接收电话和短信。如果您想手表连接手机同时也可以收到来电，请将移动网络设置为开启。请您注意移动网络设置为开启会增加手表的功耗，减少手表的待机时间。移动网络开启方法：打开您的手表，点击设置>网络连接>移动网络>移动网络>开启。为保证通话功能正常，请您确保手表设置>系统>省电模式已关闭。手表蓝牙通话功能蓝牙版的手表必须与手机正常连接，蓝牙通话功能开启，且手机网络可用时才可以使用通话功能。蓝牙通话功能默认是开启的。可以通过以下两种方式设置。方式一：当您首次使用蓝牙通话功能时，您需要点击手表上的电话应用，您就可以使用蓝牙通话功能了。方式二：进入手表 设置 > 网络连接 > 蓝牙，开启或者关闭 通过手表播放手机上的音频。手表和iPhone配对时，当前不支持通过手表通话。"
+      "intro_answer": "智能关怀App上提示手表当前未连接网络/手表不在线由于手表信号弱/关机/欠费/数据业务不通畅等原因，智能关怀App长时间未收到手表上报的信息，则在智能关怀App上会显示“手表当前未连接网络”或者“手表不在线”，建议按照以下进行解决：确认手表信号正常请在主界面下滑手表屏幕，查看SIM卡的网络信号是否处于4G满格信号，且有上下数据箭头。若手表信号较差，请尝试换个网络信号较好的环境（如室外或窗户边等）。手表信号情况较好，请长按手表电源键重启手表尝试。\n     华为儿童手表 3/荣耀小K 2/华为儿童手表/荣耀小K，手表仅支持中国移动2G网络，请确认手表处于2G满格信号。确认手表SIM卡正常手表SIM卡未安装好，或SIM卡为裁剪卡，请重新插拔SIM卡或更换SIM卡后尝试。确认手表处于开机状态请在智能关怀App的消息通知里查看，手表是否已关机（如低电量关机/定时关机等），请将手表开机后重新尝试。确认手表SIM未欠费请联系手表SIM卡运营商确认手表是否欠费，如欠费，请缴费后长按手表电源键重启手表尝试。1.手表SIM卡缴费后需要确认实际的费用情况，如果缴费后未补齐欠费或只缴纳了欠费部分，没有多出的余额，也会导致网络在短时间内受限，请联系运营商查看网络状态是否正常。2.若是 华为儿童手表 3 Pro/3X/3s/3 Pro 超能版/4X，还需排查：使用华为儿童手表 3 Pro/3X/3s/3 Pro 超能版 时，请确认手表上移动数据开关是否关闭（可在手表中设置>高级设置>无线和网络>移动数据查看），如果关闭，请打开。使用华为儿童手表 4X 时，请确认手表上移动数据开关是否关闭（可在手表中设置>高级设置>网络连接>移动数据查看），如果关闭，请打开。请确认手表是否出国漫游使用过，如果回国后手表不显示4G，请尝试将SIM卡插入手机显示4G后再重新装回手表使用。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00736819/", 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00734069/", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00733911/", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "穿戴设备连接手机时，频繁断连或无法自动重连", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PyU7DMBRF_8XrFr3n53pghYlVlQ1iUT7AsZ3WUnGqDEUU8e_EKGJ5dK_u8M3mMQ3Hr2tijwzZhsX-s6xIC3b5kl79R8Uc-rIt_ZQexttpld78dF6khCH6KDoRDApJ2HYtkozoSURlTA1q8_0lLtaDfbqft6EAKCKDtTIMyU-5L8dce1CCEQQCEAA2bMyn4qd5qAsa0lo7lM8NghNGW6caLbBprNGkgLiSypJ2Bixw6STBTlTDTnC3544vXTd_yfH9__I0zOlv23r5YNnPL_yjkLkTAQAA.svg"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PyU7DMBRF_8XrFr3n53pghYlVlQ1iUT7AsZ3WUnGqDEUU8e_EKGJ5dK_u8M3mMQ3Hr2tijwzZhsX-s6xIC3b5kl79R8Uc-rIt_ZQexttpld78dF6khCH6KDoRDApJ2HYtkozoSURlTA1q8_0lLtaDfbqft6EAKCKDtTIMyU-5L8dce1CCEQQCEAA2bMyn4qd5qAsa0lo7lM8NghNGW6caLbBprNGkgLiSypJ2Bixw6STBTlTDTnC3544vXTd_yfH9__I0zOlv23r5YNnPL_yjkLkTAQAA.svg"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": ""
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "穿戴设备与手机超过蓝牙连接距离时，蓝牙会自动断开。当连接距离处于临界点时，可能会造成蓝牙频繁断连。", 
+        "穿戴设备与手机之间有阻隔或强干扰，可能会造成蓝牙频繁断连，如中间隔墙，同时有多个蓝牙设备在使用、Wi-Fi环境复杂、有多个路由器、附近有微波炉等。", 
+        "非华为手机可能由于手机后台功耗保护机制，不允许 华为运动健康 App在后台运行或进行蓝牙设备重连扫描操作，导致蓝牙频繁断连且无法自动重连；需要将华为 运动健康 App添加到受保护的后台应用程序中，具体操作方式请咨询该品牌手机客服。 2021年后荣耀新发售手机需手动加入后台保护。", 
+        "在 华为运动健康 App> 我的 > 设置 > 消息管理 打开 通知栏实时显示步数 的开关，减少 华为运动健康 App在后台运行时被手机系统清理的概率。", 
+        "请开启手机GPS开关以及打开 华为运动健康 App的位置权限后观察下。 GPS开启方法： iOS ： 以ios13.6手机为例，手机进入 设置 > 隐私 > 定位服务 ，开启 定位服务 ； Android ： 以EMUI11.0的华为手机为例：手机进入 设置 > 隐私 > 定位服务 ，开启 访问我的位置信息 ，点击 提高精确度 ，开启 WLAN扫描，蓝牙扫描； 三方手机： 三星S20 Android11 OneUI3.0为例：手机进入 设置 > 定位服务 ，选择 开启定位服务 。 华为运动健康App位置权限打开方法（建议您选择” 始终允许 ”）： iOS ： 以ios13.6手机为例，手机进入 设置 ，下拉选择 华为运动健康 ，打开 位置权限 ； Android ：以EMUI11.0的华为手机为例，手机进入 设置 > 应用 > 应用管理 > 华为运动健康 > 权限开启 位置信息 开关； 三方手机： 以三星S20 Android11 OneUI3.0为例：手机进入 设置 > 应用程序 > 华为运动健康 > 权限 > 位置信息，打开位置信息。 以上关于手机相关路径仅供参考，如手机品牌或者版本不同，路径会产生变化，建议咨询手机客服如何开启相关权限。", 
+        "GPS开启方法： iOS ： 以ios13.6手机为例，手机进入 设置 > 隐私 > 定位服务 ，开启 定位服务 ； Android ： 以EMUI11.0的华为手机为例：手机进入 设置 > 隐私 > 定位服务 ，开启 访问我的位置信息 ，点击 提高精确度 ，开启 WLAN扫描，蓝牙扫描； 三方手机： 三星S20 Android11 OneUI3.0为例：手机进入 设置 > 定位服务 ，选择 开启定位服务 。", 
+        "华为运动健康App位置权限打开方法（建议您选择” 始终允许 ”）： iOS ： 以ios13.6手机为例，手机进入 设置 ，下拉选择 华为运动健康 ，打开 位置权限 ； Android ：以EMUI11.0的华为手机为例，手机进入 设置 > 应用 > 应用管理 > 华为运动健康 > 权限开启 位置信息 开关； 三方手机： 以三星S20 Android11 OneUI3.0为例：手机进入 设置 > 应用程序 > 华为运动健康 > 权限 > 位置信息，打开位置信息。 以上关于手机相关路径仅供参考，如手机品牌或者版本不同，路径会产生变化，建议咨询手机客服如何开启相关权限。", 
+        "通话手环/手表，如果手机连接了多个设备（手机设置>蓝牙中查看），请删除或断开暂不需要连接的音频设备。", 
+        "以上操作依旧无法连接，建议您参考 手环/运动手表与手机无法连接/配对"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "穿戴设备连接手机时，频繁断连或无法自动重连请按照具体碰到的故障现象进行排查：蓝牙频繁提示断开连接并自动重连穿戴设备与手机超过蓝牙连接距离时，蓝牙会自动断开。当连接距离处于临界点时，可能会造成蓝牙频繁断连。穿戴设备与手机之间有阻隔或强干扰，可能会造成蓝牙频繁断连，如中间隔墙，同时有多个蓝牙设备在使用、Wi-Fi环境复杂、有多个路由器、附近有微波炉等。请保持设备与手机处于可连接范围内，且周围无大功率干扰或强干扰类设备，再观察是否还会出现频繁断连现象。手机蓝牙显示连接，华为运动健康App显示未连接/断连，打开华为运动健康App后设备会立即重连成功穿戴设备的配对软件被系统限制导致无法在后台正常运行，从而引起蓝牙断连。在确保穿戴设备和手机蓝牙已开启的状态下请按以下步骤排查:非华为手机可能由于手机后台功耗保护机制，不允许华为运动健康App在后台运行或进行蓝牙设备重连扫描操作，导致蓝牙频繁断连且无法自动重连；需要将华为运动健康App添加到受保护的后台应用程序中，具体操作方式请咨询该品牌手机客服。\n     2021年后荣耀新发售手机需手动加入后台保护。在 华为运动健康App>我的>设置>消息管理打开 通知栏实时显示步数的开关，减少华为运动健康App在后台运行时被手机系统清理的概率。设备与手机远距离断开后，回到连接范围内不会立即重连成功请开启手机GPS开关以及打开华为运动健康App的位置权限后观察下。\n      GPS开启方法：iOS：以ios13.6手机为例，手机进入 设置 > 隐私 > 定位服务，开启 定位服务；Android：以EMUI11.0的华为手机为例：手机进入 设置> 隐私 > 定位服务，开启 访问我的位置信息 ，点击 提高精确度，开启 WLAN扫描，蓝牙扫描；三方手机：三星S20 Android11 OneUI3.0为例：手机进入 设置 > 定位服务，选择 开启定位服务。华为运动健康App位置权限打开方法（建议您选择”始终允许”）：iOS：以ios13.6手机为例，手机进入 设置，下拉选择 华为运动健康，打开 位置权限；Android：以EMUI11.0的华为手机为例，手机进入 设置> 应用 > 应用管理 > 华为运动健康> 权限开启 位置信息 开关；三方手机：以三星S20 Android11 OneUI3.0为例：手机进入 设置 > 应用程序 > 华为运动健康 > 权限 > 位置信息，打开位置信息。以上关于手机相关路径仅供参考，如手机品牌或者版本不同，路径会产生变化，建议咨询手机客服如何开启相关权限。2. 设备与手机长时间（一般超过10分钟）断连后，设备侧不会频繁发起重连请求，导致无法立即重连成功，请点击设备的侧按键/上按键触发重连。3. 支持蓝牙通话的设备，在手机系统的蓝牙设置中手动关闭设备的通话音频开关后（系统默认关闭通话音频开关的设备除外），会造成断连后无法重连成功。4. 如果不能自动连接上，打开华为运动健康App，在当前穿戴设备的设备详情页面点击 “点击重连”/“重新连接” 进行重连。连接双手机时提示蓝牙断开如果穿戴设备支持连接双手机，连接双手机后，其中一部手机与穿戴设备断连，穿戴设备就会提醒蓝牙断开。若不希望收到其中一部手机和穿戴设备的断连提醒，可在该手机华为运动健康 > 设备管理 > 设备设置中关闭蓝牙断开提醒。手动点击重新连接无法重连通话手环/手表，如果手机连接了多个设备（手机设置>蓝牙中查看），请删除或断开暂不需要连接的音频设备。以上操作依旧无法连接，建议您参考手环/运动手表与手机无法连接/配对"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00733911/", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00733892/", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "手环、手表科学睡眠数据同步慢", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py27CMBRE_8VrqK4fuba7wnlYdFN1QT_AcRywRB2UB6hU_fcaFHV5dEaamR-yTGE8fF8CeSWUbEg33NKKPGMfz-HdfT0w-iFt0zCHl-l6XNWHm09ZOd9C3xdCS4ei9X3LgfUeaeg0ZUphTrfx_tbl6N7s7qetTwCSc6VZVn4Mbo5DOsRHD0XQgoMACgAbMsVjcvMyPgeBLCqlSkaprBsDqqoQsaTCWNMolLRmXBVoZNNIq8E23NZclmWNtqitMbnr6s6x-_y_PI9LeG5bL-8N-f0DRTgEtRMBAAA%3D.svg"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": ""
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "手机上打开华为运动健康App。", 
+        "在华为运动健康App首页下拉，手动刷新。", 
+        "如使用三方手机，建议您将华为运动健康App加入后台保护，以免被手机系统清理掉。（因不同手机加入后台保护方式各不相同，详情请咨询对应手机厂商。）"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "手环、手表科学睡眠数据同步慢因科学睡眠数据量较大，若您的设备长时间没有和手机连接，可能会造成同步时长较长。请您保证手机与穿戴设备正常连接，并通过如下操作尝试同步：手机上打开华为运动健康App。在华为运动健康App首页下拉，手动刷新。如使用三方手机，建议您将华为运动健康App加入后台保护，以免被手机系统清理掉。（因不同手机加入后台保护方式各不相同，详情请咨询对应手机厂商。）科学睡眠数据量较大，如果您的设备连续多天都没有连接App进行同步，一次性同步多天的数据会消耗更多时间，建议您每天都打开华为运动健康App进行数据同步；同时，数据同步速度与手机蓝牙以及CPU性能有关，个别手机数据同步可能会比较慢，请您耐心等待。如科学睡眠数据无法同步至手机，而不是同步慢问题，请参考知识：华为运动健康App睡眠数据显示异常或同步异常 。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00733892/", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "《Safari 浏览器使用手册》", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "在 Mac 上的 Safari 浏览器中保留阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/c65bd596947560de62e4eb57d4e28a06.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "管理阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。", 
+        "显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。", 
+        "将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。", 
+        "从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作："
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "从阅读列表阅读内容", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。", 
+        "阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。", 
+        "隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。", 
+        "将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "《Safari 浏览器使用手册》", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "在 Mac 上的 Safari 浏览器中保留阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/c65bd596947560de62e4eb57d4e28a06.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "管理阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。", 
+        "显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。", 
+        "将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。", 
+        "从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作："
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "从阅读列表阅读内容", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。", 
+        "阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。", 
+        "隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。", 
+        "将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "《Safari 浏览器使用手册》", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "在 Mac 上的 Safari 浏览器中导入其他浏览器中的书签、历史记录和密码", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "如果 Google Chrome 或 Mozilla Firefox 是默认浏览器，您可以在首次开始使用 Safari 浏览器时自动导入书签、历史记录和密码，或者稍后手动导入。您还可以导入以 HTML 格式从 Safari 浏览器、Microsoft Internet Explorer、Netscape Navigator、OmniWeb、Mozilla Firefox 和谷歌 Chrome 中导出的书签。导入的书签会显示在现有书签后面。导入的历史记录会与现有历史记录一起显示。密码则会导入 iCloud 钥匙串，以便您可以在网站上自动填充登录信息。为我打开 Safari 浏览器"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "导入的书签会显示在现有书签后面。", 
+        "导入的历史记录会与现有历史记录一起显示。", 
+        "密码则会导入 iCloud 钥匙串，以便您可以在网站上自动填充登录信息。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "如果 Google Chrome 或 Mozilla Firefox 是默认浏览器，您可以在首次开始使用 Safari 浏览器时自动导入书签、历史记录和密码，或者稍后手动导入。您还可以导入以 HTML 格式从 Safari 浏览器、Microsoft Internet Explorer、Netscape Navigator、OmniWeb、Mozilla Firefox 和谷歌 Chrome 中导出的书签。为我打开 Safari 浏览器"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "自动导入来自 Chrome 或 Firefox 的项目", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "在 Mac 上打开 Safari 浏览器 App 。 如果这是您在使用 Google Chrome 或 Mozilla Firefox 后首次打开 Safari 浏览器，起始页底部会显示一则信息，询问您是否想要保留导入的项目。选择一个选项： 保留导入的项目： Safari 浏览器会保留导入自 Chrome 的书签和历史记录，以及导入自 Firefox 的书签、历史记录和密码。 移除导入的项目： Safari 浏览器将移除导入的项目。 以后再决定： 返回起始页并在下次导入项目。若要查看起始页，请选取“书签”>“显示起始页”。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在 Mac 上打开 Safari 浏览器 App 。 如果这是您在使用 Google Chrome 或 Mozilla Firefox 后首次打开 Safari 浏览器，起始页底部会显示一则信息，询问您是否想要保留导入的项目。", 
+        "选择一个选项： 保留导入的项目： Safari 浏览器会保留导入自 Chrome 的书签和历史记录，以及导入自 Firefox 的书签、历史记录和密码。 移除导入的项目： Safari 浏览器将移除导入的项目。 以后再决定： 返回起始页并在下次导入项目。若要查看起始页，请选取“书签”>“显示起始页”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "手动导入来自 Chrome 或 Firefox 的项目", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器 App 中，选取“文件”>“导入自”>“谷歌 Chrome”或“文件”>“导入自”>“Firefox”。 您可在开始使用 Safari 浏览器后随时执行此操作，甚至在已导入项目后。 Mac 上必须安装了 Chrome 或 Firefox 才能导入。选择想要导入的项目。点按“导入”。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在 Mac 上的 Safari 浏览器 App 中，选取“文件”>“导入自”>“谷歌 Chrome”或“文件”>“导入自”>“Firefox”。 您可在开始使用 Safari 浏览器后随时执行此操作，甚至在已导入项目后。 Mac 上必须安装了 Chrome 或 Firefox 才能导入。", 
+        "选择想要导入的项目。", 
+        "点按“导入”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "导入书签文件", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用 中，选取“文件”>“导入自”>“书签 HTML 文件”。选择要导入的文件。 导入书签后，它们将显示在边栏底部，位于名称以“已导入”开头并以日期结尾的新文件夹中。点按“导入”。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在 Mac 上的 Safari 浏览器应用 中，选取“文件”>“导入自”>“书签 HTML 文件”。", 
+        "选择要导入的文件。 导入书签后，它们将显示在边栏底部，位于名称以“已导入”开头并以日期结尾的新文件夹中。", 
+        "点按“导入”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "导出书签", 
+    "cover_img": [], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器 App 中，选取“文件”>“导出书签”。 导出的文件名为“Safari 浏览器书签.html”。若要在其他浏览器中使用导出的书签，请导入名为“Safari 浏览器书签.html”的文件。另请参阅在 Mac 上的 Safari 浏览器中删除书签在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签在 Mac 上的 Safari 浏览器中将书签排序、按字母顺序排列或重新排列有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在 Mac 上的 Safari 浏览器 App 中，选取“文件”>“导出书签”。 导出的文件名为“Safari 浏览器书签.html”。", 
+        "若要在其他浏览器中使用导出的书签，请导入名为“Safari 浏览器书签.html”的文件。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "另请参阅在 Mac 上的 Safari 浏览器中删除书签在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签在 Mac 上的 Safari 浏览器中将书签排序、按字母顺序排列或重新排列有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw1015/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "《Safari 浏览器使用手册》", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "在 Mac 上的 Safari 浏览器中保留阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/c65bd596947560de62e4eb57d4e28a06.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "管理阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。", 
+        "显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。", 
+        "将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。", 
+        "从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作："
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "从阅读列表阅读内容", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。", 
+        "阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。", 
+        "隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。", 
+        "将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "《Safari 浏览器使用手册》", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "在 Mac 上的 Safari 浏览器中保留阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/c65bd596947560de62e4eb57d4e28a06.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "若要快速存储网页以供稍后阅读，请将其添加到“阅读列表”。若要在即使未接入互联网的情况下阅读位于“阅读列表”中的页面，您可以离线存储。为我打开“Safari 浏览器”"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "管理阅读列表", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "将页面添加到“阅读列表”： 将指针移到 智能搜索栏 上，然后点按出现在该栏左端的“一步式添加”按钮 。 您也可以按住 Shift 键点按网页上的某个链接以快速添加链接的页面。", 
+        "显示或隐藏“阅读列表”： 点按工具栏中的“边栏”按钮 ，然后点按边栏顶部的“阅读列表”按钮 。若要隐藏列表，请再次点按“边栏”按钮。", 
+        "将页面存储在“阅读列表”中，以便在未接入互联网时阅读： 按住 Control 键点按边栏中的页面摘要，然后选取“离线存储”。您也可以在页面摘要上向左轻扫，然后点按“离线存储”。 若要自动存储“阅读列表”中的所有页面，请选取“Safari 浏览器”>“偏好设置”，点按“高级”，然后选择“自动存储文章以便离线阅读”。", 
+        "从“阅读列表”中移除页面： 按住 Control 键点按边栏中的页面摘要，然后选取“移除项目”。 您也可以在页面摘要上向左轻扫，然后点按“移除”。或者，一直向左轻扫直至页面摘要消失。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作："
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": null
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "从阅读列表阅读内容", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
+      }
+    ], 
+    "mainbody": {
+      "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "update": 1, 
+    "time_modify": null, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "搜索“阅读列表”： 在页面摘要列表上方的搜索栏中输入文本。您可能要滚动才能看到搜索栏。", 
+        "阅读列表中的下一页： 持续滚动直至到达“阅读列表”页面的结尾 - 无需点按边栏中的下一个页面摘要。", 
+        "隐藏您已阅读的页面： 点按页面摘要列表上方的“未读”按钮。点按“全部”按钮以在列表中显示您已阅读的页面。您可能要滚动才能看到按钮。", 
+        "将页面标记为已读或未读： 按住 Control 键点按边栏中的页面摘要，然后选取“标记为已读”或“标记为未读”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下任一项操作：【注】通过 iCloud，Safari 浏览器可将您的阅读列表完整同步到在 iCloud 偏好设置中已打开 Safari 浏览器的 iPhone、iPad、iPod touch 以及 Mac 电脑上。使用 iCloud 可以自动归档您的“阅读列表”和书签，并且可以随时从某个较早版本恢复它们。另请参阅在 Mac 上的 Safari 浏览器中阅读文章时隐藏广告Mac 上 Safari 浏览器中的键盘快捷键和手势在 Mac 上的 Safari 浏览器中为您想要再次访问的网页添加书签有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri35905/14.0/mac/11.0", 
     "@type": "wxsearch_cpdata", 
     "time_publish": null
   }
