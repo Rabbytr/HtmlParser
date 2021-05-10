@@ -54,7 +54,7 @@ class baseHtml2Json(HtmlTree):
         for info in tmpinfos:
             datalist = WXJson.DataList()
             datalist['title'] = info['title']
-            datalist['mainbody'] = {'answer_content':''.join(info['content'])}
+            datalist['mainbody'] = [{'answer_content':''.join(info['content'])}]
             if 1:
                 datalist['h5_url'] = datalist['content_id'] = self.url
                 datalist['cpid'] = self.cpid
