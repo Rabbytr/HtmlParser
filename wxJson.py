@@ -57,7 +57,7 @@ class baseHtml2Json(HtmlTree):
             datalist['mainbody'] = {'answer_content':''.join(info['content'])}
             if 1:
                 datalist['h5_url'] = datalist['content_id'] = self.url
-                datalist['cpid'] = 'auto_e19zniht4geblh5v0z'
+                datalist['cpid'] = self.cpid
                 datalist['page_attribute'] = datalist['update'] = 1
                 datalist['page_type'] = 4
                 datalist['category_id'] = 8
@@ -73,7 +73,8 @@ class baseHtml2Json(HtmlTree):
                 answer['step_answer_prefix'] = 'step'
                 answer['intro_answer'] = ''.join(info['intro_answer'])
             datalist['answer'] = answer
-            datalist['cover_img'] = [{'cover_img_url':url,'cover_img_size':2} for url in info['imgurl']]
+            if len(info['imgurl']) != 0:
+                datalist['cover_img'] = [{'cover_img_url':url,'cover_img_size':2} for url in info['imgurl']]
             result.append(datalist)
         # print (WXJson.toJson(result))
         return result
@@ -88,6 +89,7 @@ class baseHtml2Json(HtmlTree):
 
 class Xm2Json(baseHtml2Json):
     def getExtractInfos(self):
+        self.cpid = 'auto_e19zniht4geblh5v0z'
         self.MainContent = self.soup.find('div',{"class": "mainWrapper"})
         hs = self.MainContent.find_all(re.compile(r'^h[23]$'))
         extinfos = [WXJson.ExtractInfo()]
@@ -126,6 +128,7 @@ class Xm2Json(baseHtml2Json):
 
 class Hw2Json(baseHtml2Json):
     def getExtractInfos(self):
+        self.cpid = 'auto_v28dvswtbwpup6j7tn'
         title = self.soup.find('h1')
         extinfo = WXJson.ExtractInfo()
         extinfo['title'] = Hw2Json.gen2str(title.stripped_strings)
@@ -153,6 +156,7 @@ class Hw2Json(baseHtml2Json):
 
 class Ap2Json(baseHtml2Json):
     def getExtractInfos(self):
+        self.cpid = 'auto_etipcnuy55pfi51479'
         self.MainContent = self.soup.find('body')
         if self.MainContent is None:
             return list()
@@ -216,9 +220,9 @@ if __name__ == '__main__':
             elif hostname == 'consumer.huawei.com':HwUrl.append(url)
             elif hostname == 'support.apple.com':ApURl.append(url)
 
-    MiUrl = [random.choice(MiUrl) for _ in range(2)]
-    HwUrl = [random.choice(HwUrl) for _ in range(2)]
-    ApURl = [random.choice(ApURl) for _ in range(2)]
+    MiUrl = [random.choice(MiUrl) for _ in range(5)]
+    HwUrl = [random.choice(HwUrl) for _ in range(5)]
+    ApURl = [random.choice(ApURl) for _ in range(5)]
     # for i in ApURl:print(i)
 
     results = list()
