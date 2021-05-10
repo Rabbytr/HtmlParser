@@ -31,7 +31,7 @@ class WXJson(object):
             'title':None,
             'answer_style':None,
             'step_answer':[],
-            'step_answer_prefix':[],
+            # 'step_answer_prefix':[],
             'long_answer':None,
             'intro_answer':[],
             'content':[],
@@ -75,6 +75,8 @@ class baseHtml2Json(HtmlTree):
             datalist['answer'] = answer
             if len(info['imgurl']) != 0:
                 datalist['cover_img'] = [{'cover_img_url':url,'cover_img_size':2} for url in info['imgurl']]
+            else:
+                del datalist['cover_img']
             result.append(datalist)
         # print (WXJson.toJson(result))
         return result
