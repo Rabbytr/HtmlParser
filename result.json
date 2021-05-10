@@ -1,118 +1,137 @@
+https://support.apple.com/zh-cn/HT203987
+https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0
+https://support.apple.com/zh-cn/HT203051
+780 None
+340 None
+640 None
+https://support.apple.com/zh-cn/HT203987
+https://support.apple.com/zh-cn/guide/safari/ibrw35004465/mac
 [
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/account/overview", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/gallery/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "云服务帐号概览", 
+    "title": "云相册概览", 
     "mainbody": [
       {
-        "answer_content": "小米云服务帐号即小米帐号。使用小米手机和服务时，您注册/登录的小米帐号可以帮您登录并使用小米的所有业务，如小米电视、小米商城、小米手环、小米云服务等。"
+        "answer_content": "相册云同步，支持将设备上的照片和视频安全存储至云空间，方便您享受一键换机迁移数据、相册瘦身节省设备空间、随时随地查看和编辑，以及智能分类、相册共享等功能。使用相册云同步功能，您可以：当您的设备遗失或换机时，小米云相册可以帮您快速找回相册照片和视频原文件。当您苦恼于设备空间太小时，小米云相册支持将照片和视频原文件上传云端，在设备上保留较小的高清图以节省空间。当您想要查看或编辑照片视频时，您可以在小米手机、小米平板、电脑、小米电视和小米智能硬件等任意设备轻松操作。您所做的更改会在您所有设备“相册”中自动同步。【注】若先实现上述功能，需先确保已开启“相册”云同步，其次同步的照片大小要小于100MB，视频大小要小于4GB。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661165, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "小米云服务帐号即小米帐号。使用小米手机和服务时，您注册/登录的小米帐号可以帮您登录并使用小米的所有业务，如小米电视、小米商城、小米手环、小米云服务等。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/account/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661165
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/account/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "小米帐号能干什么？", 
-    "mainbody": [
-      {
-        "answer_content": "登录小米云服务需要小米帐号和密码登录您的个人帐号，小米云服务可以为您存储个人数据。同步备份数据以及应用设置等功能也需要登录您的小米帐号才能使用。通过帐号可以管理云数据小米云服务随时都在帮用户同步手机里面的照片、联系人、便签、录音、短信等资料，您也可以通过使用小米帐号登录到网页端i.mi.com管理自己的文档或者照片。通过帐号绑定设备，防止丢失用户最怕手机丢失或被盗，不但是资产损失，更造成珍贵数据的丢失，小米云服务的查找手机可以帮您定位手机，使用该功能前就需要您的小米帐号授权开启该功能。【友情提示】设置自己专属的小米帐号，一方面可以帮您快速的管理个人数据，另一方面也可以防止自己的个人隐私泄露。"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661165, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "登录小米云服务需要小米帐号和密码登录您的个人帐号，小米云服务可以为您存储个人数据。同步备份数据以及应用设置等功能也需要登录您的小米帐号才能使用。通过帐号可以管理云数据小米云服务随时都在帮用户同步手机里面的照片、联系人、便签、录音、短信等资料，您也可以通过使用小米帐号登录到网页端i.mi.com管理自己的文档或者照片。通过帐号绑定设备，防止丢失用户最怕手机丢失或被盗，不但是资产损失，更造成珍贵数据的丢失，小米云服务的查找手机可以帮您定位手机，使用该功能前就需要您的小米帐号授权开启该功能。【友情提示】设置自己专属的小米帐号，一方面可以帮您快速的管理个人数据，另一方面也可以防止自己的个人隐私泄露。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/account/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661165
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/cloudinput", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "小米云输入概览", 
-    "mainbody": [
-      {
-        "answer_content": "云输入支持在电脑端把文字发送到设备的剪贴板中。在电脑安装并开启小米云服务电脑客户端或登录i.mi.com，在电脑端云输入框中输入需要发送到设备剪贴板中的文字，在手机粘贴即可。"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661166, 
-    "page_type": 4, 
-    "answer": {
-      "answer_style": 2, 
-      "long_answer": "云输入支持在电脑端把文字发送到设备的剪贴板中。在电脑安装并开启小米云服务电脑客户端或登录i.mi.com，在电脑端云输入框中输入需要发送到设备剪贴板中的文字，在手机粘贴即可。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/cloudinput", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661166
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/cloudinput", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "如何使用云输入", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/micloud41/789/9-2.png"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/micloud41/789/9-3-2-2.png"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/micloud41/789/9-2.png"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/micloud41/789/9-5-2-2.png"
-      }
-    ], 
-    "mainbody": [
-      {
-        "answer_content": "方法1：浏览器使用打开电脑浏览器输入 i.mi.com ，登录您的 小米帐号 。点击右下角 \" \" 图标，输入想要同步的文字，点击发送按钮。打开手机任意应用(如微信，短信)，长按即可粘贴云输入对应内容。您也可以在输入框的右下方点击“”图标，即可看见剪贴板云输入内容，点击选择即可，如下图。方法2：电脑客户端使用在云服务电脑客户左侧导航栏，选择“云输入”在 云输入 页面，输入想要发送的文字。输入完成后，点击发送按钮。打开手机任意应用(如微信，短信)，长按粘贴即是云输入内容。您也可以在输入框的右下方点击“”图标，即可看见剪贴板云输入内容，点击选择即可，如下图。"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661166, 
+    "time_modify": 1620664515, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "打开电脑浏览器输入 i.mi.com ，登录您的 小米帐号 。", 
-        "点击右下角 \" \" 图标，输入想要同步的文字，点击发送按钮。", 
-        "打开手机任意应用(如微信，短信)，长按即可粘贴云输入对应内容。", 
-        "在云服务电脑客户左侧导航栏，选择“云输入”", 
-        "在 云输入 页面，输入想要发送的文字。输入完成后，点击发送按钮。", 
-        "打开手机任意应用(如微信，短信)，长按粘贴即是云输入内容。"
+        "当您的设备遗失或换机时，小米云相册可以帮您快速找回相册照片和视频原文件。", 
+        "当您苦恼于设备空间太小时，小米云相册支持将照片和视频原文件上传云端，在设备上保留较小的高清图以节省空间。", 
+        "当您想要查看或编辑照片视频时，您可以在小米手机、小米平板、电脑、小米电视和小米智能硬件等任意设备轻松操作。您所做的更改会在您所有设备“相册”中自动同步。"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "方法1：浏览器使用您也可以在输入框的右下方点击“”图标，即可看见剪贴板云输入内容，点击选择即可，如下图。方法2：电脑客户端使用您也可以在输入框的右下方点击“”图标，即可看见剪贴板云输入内容，点击选择即可，如下图。"
+      "intro_answer": "相册云同步，支持将设备上的照片和视频安全存储至云空间，方便您享受一键换机迁移数据、相册瘦身节省设备空间、随时随地查看和编辑，以及智能分类、相册共享等功能。使用相册云同步功能，您可以：【注】若先实现上述功能，需先确保已开启“相册”云同步，其次同步的照片大小要小于100MB，视频大小要小于4GB。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/cloudinput", 
+    "content_id": "https://i.mi.com/guide/zh-CN/gallery/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661166
+    "time_publish": 1620664515
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何开启相册云同步？", 
+    "mainbody": [
+      {
+        "answer_content": "您可以使用以下两种方式开启相册云同步。方法1：在小米手机上，请前往 “设置”>“帐号”>“云服务”>“相册”，开启“自动同步”。为节省数据流量，建议您开启“仅在WLAN下同步”。在“相册云同步管理”，您可以自定义同步哪些相册和视频。方法2：您也可以在手机相册的“设置”中，进行上述操作。【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664515, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "为节省数据流量，建议您开启“仅在WLAN下同步”。", 
+        "在“相册云同步管理”，您可以自定义同步哪些相册和视频。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "您可以使用以下两种方式开启相册云同步。方法1：在小米手机上，请前往 “设置”>“帐号”>“云服务”>“相册”，开启“自动同步”。方法2：您也可以在手机相册的“设置”中，进行上述操作。【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664515
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何访问小米云相册？", 
+    "mainbody": [
+      {
+        "answer_content": "您可以使用以下几种方式访问小米云相册。使用前，请先确保已开启相册云同步。方法1：手机访问在小米手机上，请前往桌面 “相册” > “相册”，可查看所有云相册数据。方法2：浏览器访问打开浏览器访问i.mi.com，选择“相册”。方法3：电脑访问登录小米云服务电脑客户端，选择“相册”。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664515, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "您可以使用以下几种方式访问小米云相册。使用前，请先确保已开启相册云同步。方法1：手机访问在小米手机上，请前往桌面 “相册” > “相册”，可查看所有云相册数据。方法2：浏览器访问打开浏览器访问i.mi.com，选择“相册”。方法3：电脑访问登录小米云服务电脑客户端，选择“相册”。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664515
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何了解相册云同步状态？", 
+    "mainbody": [
+      {
+        "answer_content": "手机相册\"照片”页面下拉，会出现云同步相关数据，了解数据是否同步完成，由于什么原因没有同步，多少数据没有同步等。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664515, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "手机相册\"照片”页面下拉，会出现云同步相关数据，了解数据是否同步完成，由于什么原因没有同步，多少数据没有同步等。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664515
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "相册快速同步", 
+    "mainbody": [
+      {
+        "answer_content": "如果需要立即同步，可以进入手机系统相册，点击顶部云同步信息，进入子页面，点击“立即同步”按钮，完成同步。也可以前往 “设置”>“帐号”>“云服务”，点击“立即同步”按钮，完成同步。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664515, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "如果需要立即同步，可以进入手机系统相册，点击顶部云同步信息，进入子页面，点击“立即同步”按钮，完成同步。", 
+        "也可以前往 “设置”>“帐号”>“云服务”，点击“立即同步”按钮，完成同步。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/gallery/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664515
   }, 
   {
     "category_id": 8, 
@@ -125,7 +144,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661168, 
+    "time_modify": 1620664516, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
@@ -134,7 +153,7 @@
     "page_attribute": 1, 
     "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661168
+    "time_publish": 1620664516
   }, 
   {
     "category_id": 8, 
@@ -147,7 +166,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661168, 
+    "time_modify": 1620664516, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
@@ -161,7 +180,7 @@
     "page_attribute": 1, 
     "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661168
+    "time_publish": 1620664516
   }, 
   {
     "category_id": 8, 
@@ -174,7 +193,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661168, 
+    "time_modify": 1620664516, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
@@ -183,7 +202,7 @@
     "page_attribute": 1, 
     "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661168
+    "time_publish": 1620664516
   }, 
   {
     "category_id": 8, 
@@ -196,7 +215,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661168, 
+    "time_modify": 1620664516, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
@@ -205,7 +224,7 @@
     "page_attribute": 1, 
     "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661168
+    "time_publish": 1620664516
   }, 
   {
     "category_id": 8, 
@@ -218,7 +237,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661168, 
+    "time_modify": 1620664516, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
@@ -232,149 +251,282 @@
     "page_attribute": 1, 
     "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661168
+    "time_publish": 1620664516
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/find/overview", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/account/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "什么是查找手机/查找设备？", 
+    "title": "云服务帐号概览", 
     "mainbody": [
       {
-        "answer_content": "查找手机是内置在小米设备中的查找设备服务，在i.mi.com里，该功能叫“查找设备”。如果您的登录设备丢失或被盗，“查找手机”功能可以帮助您定位并保护您设备上的数据。【注】实现上述功能，需先确保手机或平板已开启“查找手机/平板”。查看如何开启查找手机。开启查找功能后，通过i.mi.com，点击“查找设备”，可以执行以下操作：定位设备 ：在地图上找到您的设备设备发声 ：在设备上播放声音来寻找该设备开启丢失模式 ：使用“丢失模式”来锁定并追踪您的设备远程抹掉您数据 ：远程清除设备上所有数据，保护您的隐私要使用 i.mi.com 上的“查找设备”，请先登录您授权查找功能的小米帐号 。"
+        "answer_content": "小米云服务帐号即小米帐号。使用小米手机和服务时，您注册/登录的小米帐号可以帮您登录并使用小米的所有业务，如小米电视、小米商城、小米手环、小米云服务等。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661169, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "定位设备 ：在地图上找到您的设备", 
-        "设备发声 ：在设备上播放声音来寻找该设备", 
-        "开启丢失模式 ：使用“丢失模式”来锁定并追踪您的设备", 
-        "远程抹掉您数据 ：远程清除设备上所有数据，保护您的隐私"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "查找手机是内置在小米设备中的查找设备服务，在i.mi.com里，该功能叫“查找设备”。如果您的登录设备丢失或被盗，“查找手机”功能可以帮助您定位并保护您设备上的数据。【注】实现上述功能，需先确保手机或平板已开启“查找手机/平板”。查看如何开启查找手机。开启查找功能后，通过i.mi.com，点击“查找设备”，可以执行以下操作：要使用 i.mi.com 上的“查找设备”，请先登录您授权查找功能的小米帐号 。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/find/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661169
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "云“短信”概览", 
-    "mainbody": [
-      {
-        "answer_content": "“短信”云同步功能，可以将您手机的“短信”数据安全存储至云端，并保持实时更新，实现随时随地多设备同步。在小米品牌手机、平板、网页版i.mi.com上，以及安装了小米云服务电脑端的电脑中，您都可以通过小米云服务中的“短信”功能，查看和管理短信数据。【注】实现上述功能，需先确保已开启“短信”云同步。"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661171, 
+    "time_modify": 1620664517, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
-      "long_answer": "“短信”云同步功能，可以将您手机的“短信”数据安全存储至云端，并保持实时更新，实现随时随地多设备同步。在小米品牌手机、平板、网页版i.mi.com上，以及安装了小米云服务电脑端的电脑中，您都可以通过小米云服务中的“短信”功能，查看和管理短信数据。【注】实现上述功能，需先确保已开启“短信”云同步。"
+      "long_answer": "小米云服务帐号即小米帐号。使用小米手机和服务时，您注册/登录的小米帐号可以帮您登录并使用小米的所有业务，如小米电视、小米商城、小米手环、小米云服务等。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "content_id": "https://i.mi.com/guide/zh-CN/account/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
+    "time_publish": 1620664517
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/account/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "如何开启“短信”云同步？", 
+    "title": "小米帐号能干什么？", 
     "mainbody": [
       {
-        "answer_content": "请前往 “设置”>“小米帐号”>“云服务”>“短信”，根据您的SIM卡，选择开启“同步短信”。您可以根据实际需求，选择是否开启“仅在Wi-Fi下同步短信”。【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+        "answer_content": "登录小米云服务需要小米帐号和密码登录您的个人帐号，小米云服务可以为您存储个人数据。同步备份数据以及应用设置等功能也需要登录您的小米帐号才能使用。通过帐号可以管理云数据小米云服务随时都在帮用户同步手机里面的照片、联系人、便签、录音、短信等资料，您也可以通过使用小米帐号登录到网页端i.mi.com管理自己的文档或者照片。通过帐号绑定设备，防止丢失用户最怕手机丢失或被盗，不但是资产损失，更造成珍贵数据的丢失，小米云服务的查找手机可以帮您定位手机，使用该功能前就需要您的小米帐号授权开启该功能。【友情提示】设置自己专属的小米帐号，一方面可以帮您快速的管理个人数据，另一方面也可以防止自己的个人隐私泄露。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661171, 
+    "time_modify": 1620664517, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "登录小米云服务需要小米帐号和密码登录您的个人帐号，小米云服务可以为您存储个人数据。同步备份数据以及应用设置等功能也需要登录您的小米帐号才能使用。通过帐号可以管理云数据小米云服务随时都在帮用户同步手机里面的照片、联系人、便签、录音、短信等资料，您也可以通过使用小米帐号登录到网页端i.mi.com管理自己的文档或者照片。通过帐号绑定设备，防止丢失用户最怕手机丢失或被盗，不但是资产损失，更造成珍贵数据的丢失，小米云服务的查找手机可以帮您定位手机，使用该功能前就需要您的小米帐号授权开启该功能。【友情提示】设置自己专属的小米帐号，一方面可以帮您快速的管理个人数据，另一方面也可以防止自己的个人隐私泄露。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/account/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664517
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/note/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "小米云便签概览", 
+    "mainbody": [
+      {
+        "answer_content": "小米“便签”云同步功能，可以将您手机的“便签”数据安全存储至云端，并保持实时更新，随时随地实现多设备共享。在小米品牌手机、平板、网页版i.mi.com上，以及安装了云服务电脑端的电脑中，都可以通过小米云服务中的“便签”功能，查看和管理便签数据。【注】实现上述功能，需先确保已开启“便签”云同步。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664519, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "小米“便签”云同步功能，可以将您手机的“便签”数据安全存储至云端，并保持实时更新，随时随地实现多设备共享。在小米品牌手机、平板、网页版i.mi.com上，以及安装了云服务电脑端的电脑中，都可以通过小米云服务中的“便签”功能，查看和管理便签数据。【注】实现上述功能，需先确保已开启“便签”云同步。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664519
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/note/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何开启“便签”云同步？", 
+    "mainbody": [
+      {
+        "answer_content": "在小米手机上，请前往 “手机设置”>“小米帐号”>“云服务”>“便签”，开启“便签”。在小米手机上，在系统“便签”首页下拉，即可看到云服务提示条，点击后开启对应业务云同步。【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664519, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "请前往 “设置”>“小米帐号”>“云服务”>“短信”，根据您的SIM卡，选择开启“同步短信”。", 
-        "您可以根据实际需求，选择是否开启“仅在Wi-Fi下同步短信”。"
+        "在小米手机上，请前往 “手机设置”>“小米帐号”>“云服务”>“便签”，开启“便签”。", 
+        "在小米手机上，在系统“便签”首页下拉，即可看到云服务提示条，点击后开启对应业务云同步。"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
       "intro_answer": "【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
+    "time_publish": 1620664519
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/note/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "如何访问小米云“短信”？", 
+    "title": "如何访问小米云服务“便签”？", 
     "mainbody": [
       {
-        "answer_content": "您可以使用以下几种方式访问小米云服务“短信”。使用前，请务必确保已开启“短信”同步。方法1：手机访问进入小米手机“短信”，查看短信数据。方法2：浏览器访问打开浏览器访问 i.mi.com ，选择“短信”。进行以下任一操作：点击联系人会话信息，界面右侧会显示信息内容，您可以进行查看或收藏。点击页面上方搜索框，根据短信内容关键字搜索您要找的短信。方法3：电脑客户端访问您也可以登录小米云服务电脑客户端，进行以上操作。"
+        "answer_content": "开启便签同步后，您可以通过以下几种方式访问小米云服务“便签”。方法1：手机使用进入小米手机系统“便签”，查看便签数据。方法2：浏览器使用打开浏览器访问i.mi.com，选择“便签”。方法3：电脑客户端使用您也可以登录小米云服务电脑客户端，选择“便签”。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661171, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "打开浏览器访问 i.mi.com ，选择“短信”。", 
-        "进行以下任一操作：", 
-        "点击联系人会话信息，界面右侧会显示信息内容，您可以进行查看或收藏。", 
-        "点击页面上方搜索框，根据短信内容关键字搜索您要找的短信。"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "您可以使用以下几种方式访问小米云服务“短信”。使用前，请务必确保已开启“短信”同步。方法1：手机访问进入小米手机“短信”，查看短信数据。方法2：浏览器访问方法3：电脑客户端访问您也可以登录小米云服务电脑客户端，进行以上操作。"
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
-    "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "如何查看“短信”云同步状态?", 
-    "mainbody": [
-      {
-        "answer_content": "打开手机“短信”，下拉短信页面，即可看到已经同步的短信数据或正在同步的状态提示或短信同步失败的原因等。"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661171, 
+    "time_modify": 1620664519, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
-      "long_answer": "打开手机“短信”，下拉短信页面，即可看到已经同步的短信数据或正在同步的状态提示或短信同步失败的原因等。"
+      "long_answer": "开启便签同步后，您可以通过以下几种方式访问小米云服务“便签”。方法1：手机使用进入小米手机系统“便签”，查看便签数据。方法2：浏览器使用打开浏览器访问i.mi.com，选择“便签”。方法3：电脑客户端使用您也可以登录小米云服务电脑客户端，选择“便签”。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
+    "time_publish": 1620664519
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/note/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "“短信”快速同步", 
+    "title": "如何了解便签云同步状态?", 
     "mainbody": [
       {
-        "answer_content": "如果您对默认设置的同步效率不满意，可以在“设置”>“小米帐号”>“云服务”中，修改相关短信的同步条件。在同步设置模块，开启快速同步模式。点击通过“立即同步”按钮实现马上同步。"
+        "answer_content": "您可以在小米手机“便签”中看到部分云同步提示，在首页下拉，可以了解数据是否同步完成，由于什么原因没有同步，还有多少数据没有同步等。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661171, 
+    "time_modify": 1620664519, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "您可以在小米手机“便签”中看到部分云同步提示，在首页下拉，可以了解数据是否同步完成，由于什么原因没有同步，还有多少数据没有同步等。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664519
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/note/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "便签快速同步", 
+    "mainbody": [
+      {
+        "answer_content": "如果您对默认设置的同步效率不满意，可以在“设置”>“小米帐号”>“云服务”中修改便签相关的同步条件。在同步设置模块，开启快速同步模式通过点击“立即同步”按钮实现马上同步"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664519, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在同步设置模块，开启快速同步模式", 
+        "通过点击“立即同步”按钮实现马上同步"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "如果您对默认设置的同步效率不满意，可以在“设置”>“小米帐号”>“云服务”中修改便签相关的同步条件。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/note/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664519
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "什么是小米云“录音”？", 
+    "mainbody": [
+      {
+        "answer_content": "小米“录音”云同步功能，可以将您手机的“录音”数据安全存储至云端，并保持实时更新，随时随地实现多设备共享。在小米品牌手机、平板、电脑、网页版i.mi.com上，以及安装了云服务电脑端版本的电脑中，您都可以通过小米云服务中的“录音”功能，查看和管理录音数据。【注】实现上述功能，需先确保已开启“录音”云同步。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664520, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "小米“录音”云同步功能，可以将您手机的“录音”数据安全存储至云端，并保持实时更新，随时随地实现多设备共享。在小米品牌手机、平板、电脑、网页版i.mi.com上，以及安装了云服务电脑端版本的电脑中，您都可以通过小米云服务中的“录音”功能，查看和管理录音数据。【注】实现上述功能，需先确保已开启“录音”云同步。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664520
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何开启“录音”云同步？", 
+    "mainbody": [
+      {
+        "answer_content": "请前往手机“设置” > “小米帐号” > “云服务” > “录音机” ，授权开启 “录音同步”。您可以根据实际需求，选择是否开启 仅在Wi-Fi下上传 。【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664520, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "请前往手机“设置” > “小米帐号” > “云服务” > “录音机” ，授权开启 “录音同步”。", 
+        "您可以根据实际需求，选择是否开启 仅在Wi-Fi下上传 。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "【注】此开关只控制当前设备的同步功能，不控制除当前设备外的其他设备。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664520
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何访问小米云“录音”？", 
+    "mainbody": [
+      {
+        "answer_content": "您可以使用以下几种方式访问小米云服务“录音”。使用前，请务必确保已开启“录音”同步。方法1：手机访问进入小米手机系统“录音”，查看录音数据。方法2：浏览器访问打开浏览器访问 i.mi.com ，选择“录音”。根据日期查看和收听录音。方法3：电脑客户端访问您也可以登录小米云服务电脑客户端，进行以上操作。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664520, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "打开浏览器访问 i.mi.com ，选择“录音”。", 
+        "根据日期查看和收听录音。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "您可以使用以下几种方式访问小米云服务“录音”。使用前，请务必确保已开启“录音”同步。方法1：手机访问进入小米手机系统“录音”，查看录音数据。方法2：浏览器访问方法3：电脑客户端访问您也可以登录小米云服务电脑客户端，进行以上操作。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664520
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "如何了解“录音”云同步状态?", 
+    "mainbody": [
+      {
+        "answer_content": "您可以在小米手机系统“录音”中看到部分云同步提示，在录音列表页下拉，可以了解数据是否同步完成，由于什么原因没有同步，还有多少数据没有同步等。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664520, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "您可以在小米手机系统“录音”中看到部分云同步提示，在录音列表页下拉，可以了解数据是否同步完成，由于什么原因没有同步，还有多少数据没有同步等。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664520
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://i.mi.com/guide/zh-CN/record/overview", 
+    "cpid": "auto_e19zniht4geblh5v0z", 
+    "title": "“录音”快速同步", 
+    "mainbody": [
+      {
+        "answer_content": "如果您对默认设置的同步效率不满意，可以在MIUI设置>小米帐号>云服务中修改相关录音的同步条件。在同步设置模块，开启快速同步模式。点击通过“立即同步”按钮实现马上同步。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664520, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
@@ -383,52 +535,44 @@
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "如果您对默认设置的同步效率不满意，可以在“设置”>“小米帐号”>“云服务”中，修改相关短信的同步条件。"
+      "intro_answer": "如果您对默认设置的同步效率不满意，可以在MIUI设置>小米帐号>云服务中修改相关录音的同步条件。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "content_id": "https://i.mi.com/guide/zh-CN/record/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
+    "time_publish": 1620664520
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "h5_url": "https://i.mi.com/guide/zh-CN/record/overview", 
     "cpid": "auto_e19zniht4geblh5v0z", 
-    "title": "“短信”同步网络设置", 
+    "title": "“录音”同步网络设置", 
     "mainbody": [
       {
-        "answer_content": "如果您对数据网络流量有限制，希望不在Wi-Fi下同步，可以在“设置”>“小米帐号”>“云服务”中，对相应业务做Wi-Fi控制，如：短信可以设置只在Wi-Fi下同步彩信。"
+        "answer_content": "如果您的数据网络流量有限，希望在wifi下同步，可以MIUI设置>小米帐号>云服务中对相应业务做wifi控制，如：录音可以设置只在wifi下上传。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661171, 
+    "time_modify": 1620664520, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
-      "long_answer": "如果您对数据网络流量有限制，希望不在Wi-Fi下同步，可以在“设置”>“小米帐号”>“云服务”中，对相应业务做Wi-Fi控制，如：短信可以设置只在Wi-Fi下同步彩信。"
+      "long_answer": "如果您的数据网络流量有限，希望在wifi下同步，可以MIUI设置>小米帐号>云服务中对相应业务做wifi控制，如：录音可以设置只在wifi下上传。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://i.mi.com/guide/zh-CN/sms/overview", 
+    "content_id": "https://i.mi.com/guide/zh-CN/record/overview", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
+    "time_publish": 1620664520
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00733908/", 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn15810164/", 
     "cpid": "auto_v28dvswtbwpup6j7tn", 
-    "title": "穿戴设备睡眠统计数据不准确", 
+    "title": "儿童手表静置时自动关机", 
     "cover_img": [
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QzW7CMBCE38Vnitb2xj89YWwieql6oGdkYidYAoNCQlWqvnsdFHVvn3Y0M7s_ZLzFfvd9jeSVULIg4fKVZ-QF23SK7_484eP40uR9Ovsu7uE5lDKBKJnky2vuZvWHH45F7an2oDFw2UaMh6gaoWnEqhXBc1mxoj6kx1so0q1ZPb0BJOcaVFk1ffRDuuRdmqKpKE4cEGgJXZBb6rIfxn4qVVtjOFNYgayEpUZbVTtkrgbthDPIEJyWFhw6SzdsI6kWcq3qNUqrlZprzAdvTcG7P6Xw-f-UoR_j7x_HwJuNJgEAAA%3D%3D.png"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QwU7DMAyG3yXngZw4SWNOJGvQuCAO4zxlTegibd3UtZsY4t1JR4Vvn_zJv-1vNp5Tv_46JfbEOFuweLx2M2LBz7xPb-Ew4W330HSbfAht2sC9OFSkJSkpHk9dO9vvYdgVO24NREVoBAcZsaKYYqOFoVBxIAzF3ubbayzqyj7fZwNUiASmtJo-hSEfu3WeorkGkgiyBAIs2Dm3XRjGflpqqbysnKAX0EI5rxxgvUTrEWvlUGBtOVqyhOQ4WOe5MQatkYZzI7T3f2vMB69swUvY5_jx_5ShH9PPL6Z6Dp4mAQAA.png"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Qy07DMBBF_8XrthpnPH6wInESlQ1iUT7AiZ3WUnGqPIoo4t9JRMTy6NzR3JlvNo9hOH3dAntinO2Y7z_ThrhgF6_h1X2sGNs-7VM_hcN4P2_qzU2XRSlEwxvfEXVCeOWbltAowyUJYyDTS7qJjxe_RI_58-OybxPAOgSraofgptinU1z3cAlGIAjgALBjYzwnN83D2oAIbAlCcl0KwsIqg7kkW1siiaQrqKpclrUWpspQZwpLXhdUkIC6KKzBvxrbdcd8wbu7Rv_-_4FpmMPPL10kAY8TAQAA.svg"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py07DMBRE_8XrFvl548uqcRKrbBCL8gHGcVpLxUGJU0QR_46DIpajc6SZ-SbLHKbT10cgj4SRHenHz7RFUeIQr-HZva8x-jHt05jDw3w7b-jF5UtBwDkOCp0agpeSAgIq7iqlBy50L32x3-L9qS_qsT7cL3ufmNKMMpAF-Sm4HMd0imsPA4pSUEkZpXRH5nhOLi_TusC2FhlYo5WynRAVWt4ZY7BrKtFI1FqZFnhBWjc1GGYEWG27poViGIql6-ausX_9v5ynJfxt2y4fa_LzC4XVf1ITAQAA.svg"
       }
     ], 
     "mainbody": [
@@ -437,44 +581,68 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661171, 
+    "time_modify": 1620664531, 
     "page_type": 4, 
     "answer": {
-      "step_answer": [
-        "穿戴设备的睡眠统计通过睡眠状态下手腕的动作来判断，可能是您睡眠时手腕动作较多，使设备误判断为非睡眠，导致不记录睡眠。建议在您睡觉时将穿戴设备佩戴在非惯用手上（比如您习惯用右手，请将设备佩戴在左手）。", 
-        "如果睡眠时间低于30分钟，穿戴设备可能监测不到，此时不会记录睡眠数据。", 
-        "在地铁、高铁、大巴上等交通工具上睡眠，可能会因为交通工具的晃动或加速度的影响，出现无法记录睡眠数据的情况。", 
-        "如果过松佩戴可能导致睡眠监测异常。建议您在佩戴时保证设备正面向上，佩戴在腕骨靠后一点，不要压在腕骨上把设备架空，调节好腕带后确保贴合皮肤佩戴，避免佩戴过松或过紧，造成睡眠数据检测不准确。", 
-        "如果以上方案均不能解决您的问题，建议您携带购买凭证及相关穿戴设备前往附近的 华为客户服务中心 进行检测。", 
-        "可能是穿戴设备处于相对比较安静的状态下，并且出现了与睡眠相似的动作幅度，使设备误判断为睡眠状态，导致睡眠时长误增。比如您在看电视、玩手机、看书时出现了误计睡眠，可能是您的动作幅度和频率比较小，和睡觉时的场景比较相似。建议您短时间不使用穿戴设备时，将其侧放或背面向上放在桌子上，可以减少误计睡眠；长时间不使用手环/手表时，将其关机后妥善保管。", 
-        "在您清醒后，如果您的运动量较少或者没有进行屏幕操作，设备未立即退出睡眠模式，可能导致睡眠时长误增。", 
-        "传感器感应的是光线的变化，并非测量生物电信号，传感器本身不能感应活体。 因此当穿戴设备传感器一侧朝下放置（如放在桌子、洗手台、沙发、棉被等上）时，设备接收到的光线变化和手腕比较相似，会被判定当前为佩戴状态，进行睡眠监测，导致出现睡眠数据以及睡眠出入睡时间跟实际睡眠有差异的情况。", 
-        "当穿戴设备底部有物体遮挡或轻微晃动，可能导致设备进入睡眠监测，错误记录睡眠。", 
-        "清醒次数误增：睡觉时如果无意识的连续翻身可能会判断为清醒，出现清醒次数增加的情况。", 
-        "清醒次数减少：如果清醒后活动量比较小，仍然躺在床上不动，设备可能检测不到，出现清醒次数减少的情况。", 
-        "科学睡眠数据是根据整段睡眠数据进行分析，不是分段累加。清醒出睡后重新入睡或者进行打坐等类似睡眠状态的行为后，新产生的睡眠数据会和之前的数据整体合并后重新计算深睡、浅睡、快速眼动等。因新的睡眠总时长发生了变化，对应的深睡、浅睡、快速眼动等数据的比例也会重新计算，存在减少或增加的情况。", 
-        "同时，睡眠结束后数据更新有缓存时间，建议1小时后再观察，以获取更为准确的睡眠数据。", 
-        "睡眠监测是通过穿戴设备获得的加速度信号、心率信号判断您的入睡、出睡和清醒时间。", 
-        "由于算法监测的能力与局限性，穿戴设备判断的睡眠总时长可能和您感知的睡眠总时长有一定差异。该差异如果在一定范围内（30分钟左右 )，是正常现象，请您放心使用。"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "穿戴设备睡眠统计数据不准确首先，请确认穿戴设备和华为运动健康App是否为最新版本，若不是最新版本，请升级至最新版本。穿戴设备睡眠统计数据不准确，请根据具体现象排查您的问题：未记录睡眠数据穿戴设备的睡眠统计通过睡眠状态下手腕的动作来判断，可能是您睡眠时手腕动作较多，使设备误判断为非睡眠，导致不记录睡眠。建议在您睡觉时将穿戴设备佩戴在非惯用手上（比如您习惯用右手，请将设备佩戴在左手）。如果睡眠时间低于30分钟，穿戴设备可能监测不到，此时不会记录睡眠数据。在地铁、高铁、大巴上等交通工具上睡眠，可能会因为交通工具的晃动或加速度的影响，出现无法记录睡眠数据的情况。如果过松佩戴可能导致睡眠监测异常。建议您在佩戴时保证设备正面向上，佩戴在腕骨靠后一点，不要压在腕骨上把设备架空，调节好腕带后确保贴合皮肤佩戴，避免佩戴过松或过紧，造成睡眠数据检测不准确。如果以上方案均不能解决您的问题，建议您携带购买凭证及相关穿戴设备前往附近的华为客户服务中心进行检测。睡眠数据多记录【佩戴穿戴设备时】可能是穿戴设备处于相对比较安静的状态下，并且出现了与睡眠相似的动作幅度，使设备误判断为睡眠状态，导致睡眠时长误增。比如您在看电视、玩手机、看书时出现了误计睡眠，可能是您的动作幅度和频率比较小，和睡觉时的场景比较相似。建议您短时间不使用穿戴设备时，将其侧放或背面向上放在桌子上，可以减少误计睡眠；长时间不使用手环/手表时，将其关机后妥善保管。在您清醒后，如果您的运动量较少或者没有进行屏幕操作，设备未立即退出睡眠模式，可能导致睡眠时长误增。【未佩戴穿戴设备时】传感器感应的是光线的变化，并非测量生物电信号，传感器本身不能感应活体。 因此当穿戴设备传感器一侧朝下放置（如放在桌子、洗手台、沙发、棉被等上）时，设备接收到的光线变化和手腕比较相似，会被判定当前为佩戴状态，进行睡眠监测，导致出现睡眠数据以及睡眠出入睡时间跟实际睡眠有差异的情况。当穿戴设备底部有物体遮挡或轻微晃动，可能导致设备进入睡眠监测，错误记录睡眠。清醒次数统计不准确清醒次数误增：睡觉时如果无意识的连续翻身可能会判断为清醒，出现清醒次数增加的情况。清醒次数减少：如果清醒后活动量比较小，仍然躺在床上不动，设备可能检测不到，出现清醒次数减少的情况。不同时间查看，睡眠阶段的比例发生变化科学睡眠数据是根据整段睡眠数据进行分析，不是分段累加。清醒出睡后重新入睡或者进行打坐等类似睡眠状态的行为后，新产生的睡眠数据会和之前的数据整体合并后重新计算深睡、浅睡、快速眼动等。因新的睡眠总时长发生了变化，对应的深睡、浅睡、快速眼动等数据的比例也会重新计算，存在减少或增加的情况。同时，睡眠结束后数据更新有缓存时间，建议1小时后再观察，以获取更为准确的睡眠数据。备注：左图为6:32查看的数据，右图为再次入睡后7:21查看的数据。睡眠数据比实际睡眠时间少睡眠监测是通过穿戴设备获得的加速度信号、心率信号判断您的入睡、出睡和清醒时间。入睡判断时：可能由于您睡前状态不太安稳，处于睡眠酝酿阶段，设备判断的入睡时间可能和您感知的入睡时间有差异；出睡判断时：早上醒来之前，您可能处于频繁翻身的状态，导致设备判断的出睡时间可能和您感知的出睡时间有差异；清醒判断时：因为您实际的清醒或者夜间翻身较多，设备在夜间记录了长时间的清醒。由于算法监测的能力与局限性，穿戴设备判断的睡眠总时长可能和您感知的睡眠总时长有一定差异。该差异如果在一定范围内（30分钟左右 )，是正常现象，请您放心使用。不同穿戴设备记录睡眠阶段的比例存在差异因不同设备的硬件规格不同，整晚收集的传感器数据存在一定的差异，导致科学睡眠识别的不同睡眠状态的时长和比例会存在差异，此为正常现象，请您放心使用。若您的穿戴设备睡眠数据与运动健康App不同步，请参考如下链接：华为运动健康App睡眠数据显示异常或同步异常"
+      "answer_style": 2, 
+      "long_answer": "儿童手表静置时自动关机如果您的儿童手表静置时会自动关机，请您根据以下场景进行排查：在开机向导界面无任何操作在开机向导界面，不连接充电器和和不安装SIM卡，并且在静置灭屏状态下，1个小时后手表会自动关机。如果您不希望手表自动关机，在此状态下可以进行亮屏操作、连接充电器、安装SIM卡或退出开机向导界面，手表就不会自动关机。设置了定时关机请您检查儿童手表是否设置了定时关机，若是，建议您取消自动关机功能。取消方式如下：打开智能关怀App，点击首页右上角功能界面，然后点击定时开关机。低电量导致自动关机电量过低将会导致手表自动关机，连接充电器进行充电后即可重新开机。建议您为手表充电后，观察能否开机。温度过高引发热保护当儿童手表温度过高时，为保护用户的使用安全，会触发热保护机制导致儿童手表自动关机。建议您检查手表是否有发热现象，如有，建议您待手表温度冷却后再进行使用。日常使用中，也请您避免在充电时过度使用儿童手表，或者在高温环境下连续使用，以免触发热保护机制。如果以上方法未能解决您的问题，建议您携带设备及相关购机凭证到华为客户服务中心进行检测处理。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00733908/", 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn15810164/", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661171
+    "time_publish": 1620664531
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00733892/", 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn15775058/", 
     "cpid": "auto_v28dvswtbwpup6j7tn", 
-    "title": "手环、手表科学睡眠数据同步慢", 
+    "title": "穿戴设备屏幕破碎怎么办？", 
+    "mainbody": [
+      {
+        "answer_content": ""
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664533, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "PC端：点击 华为客户服务中心 ， 查询您附近的华为售后门店；", 
+        "手机端 ： 您可在 我的华为APP/ 服务 APP 中查询您身边的服务网点；", 
+        "PC端：点击 华为官方网站备件价格查询 ，查询备件价格；", 
+        "手机端：登录 我的华为APP/ 服务 APP ，您可在服务页签页 快捷服务 中查询 备件价格 。", 
+        "点击 华为服务体验日 ，享受维修优惠；"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "穿戴设备屏幕破碎怎么办？非常遗憾听到这个消息，如果您的设备屏幕不慎破裂，您可以了解以下信息。关于维修根据三包法规定，意外因素或人为行为导致的产品损坏不在保修范围内。您也可点击可穿戴设备保修政策，了解手环、手表退换货及保修服务政策；门店查询PC端：点击华为客户服务中心，查询您附近的华为售后门店；手机端：您可在我的华为APP/服务APP中查询您身边的服务网点；维修费用PC端：点击华为官方网站备件价格查询，查询备件价格；手机端：登录我的华为APP/服务APP，您可在服务页签页快捷服务中查询备件价格。点击华为服务体验日，享受维修优惠；日常使用建议平时使用穿戴设备，尽量避免设备从高处跌落到坚硬的地面，或撞击到坚硬的物体。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn15775058/", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664533
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00734097/", 
+    "cpid": "auto_v28dvswtbwpup6j7tn", 
+    "title": "儿童手表无法呼出电话", 
     "cover_img": [
       {
         "cover_img_size": 2, 
-        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py27CMBRE_8VrqK4fuba7wnlYdFN1QT_AcRywRB2UB6hU_fcaFHV5dEaamR-yTGE8fF8CeSWUbEg33NKKPGMfz-HdfT0w-iFt0zCHl-l6XNWHm09ZOd9C3xdCS4ei9X3LgfUeaeg0ZUphTrfx_tbl6N7s7qetTwCSc6VZVn4Mbo5DOsRHD0XQgoMACgAbMsVjcvMyPgeBLCqlSkaprBsDqqoQsaTCWNMolLRmXBVoZNNIq8E23NZclmWNtqitMbnr6s6x-_y_PI9LeG5bL-8N-f0DRTgEtRMBAAA%3D.svg"
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QzW7CMBCE38Vninazi396Im6w6KXqgZ6Rg91gCQIKCVWp-u51oqh7G-2nmdH8iOEWu933NYpngWIhwuWrnSVl-ZlO8c2fR_k4Ph3afTr7Ju5hOgQtpQINvLy2zUy_-_6Y6YAUEWsyhQ8cAhhDHpE1B1UjSM50nR6vIaPbcj15AyhiMCq_Dl30fbq0uzRGowTDBJwDARbilprW90M3VbYlOecKbaV92aiKLK-0cyvgSpE0JEEWlWJToAYDhTUlbFiODClrcMy6-1MKH_8r9N0Qp27zCttS_P4BjKl_gCYBAAA%3D.png"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QzU7DMBCE38XngtZZ_2Q54TiOygVxKOfKxG5qqU2rNAFRxLvjRBF7G-2nmdH8sOkWh933NbInxtmGhctXv0rM8pBO8dWfZ3k_PrT9Pp19F_ewHIdSlZqIF4_XvlvpNz8eM60jFYSqDQAkAopSKAolSSWpwEMJmf5I95eQ0a15XrwBNAognV_tEP2YLv0uzdFcZQ8EkQMBNuyWut6P0zCX0tLx2lYktW2gRkInXe2ocUYikZIVaacRXYVkZIXW2oaUc8Y6LoWyJmd9-lMK7_8rjMMUl27rClvDfv8AKI-uDiYBAAA%3D.png"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2PPW_CMBCG_4tnis7O2Sd3qmM7okvVgc7IYBMsQUAhKYKq_70mijrc8OoevR8_bLymfn2_JPbKOFuweL51s6yK3Odj-ginp3wcXnbdJp9CmzYgFAoEFLC8dO3MfYbhULiEJHmUHFM5CUoH4omH_TaJEBXqQm_z4z0WdGXeJlcAqhA0ldeuT2HI526dn6FcgcYKEDgALNg1t10Yxn5qR4KsleSsbZzx1FTGKueQrK_J8qbmWhCgUcJ747RvnDLKkiKppcNalazvcMzx63__0I9p6jbvXxn2-wduMAS5IAEAAA%3D%3D.png"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py07DMBRE_8XrFl0_YveywnUTlQ1iUT7gJnZaS8VBiVNEEf-OgyKWR2ekmflm8xTG09dHYI-Msw3zw2daURbs4zW80PuCsRvSNg05PEy386peKV-KQk_Yth6h67XSlWmFIE_Ug_SaWg4l3cb7sy_Ro326X7ZdAjBSAZqiujFQjkM6xaWHa0AlQQEHgA2b4jlRnsdlgQFAoWrEytbC7ZUxXImdkgWNc1WDeKit5hbEXjSVdmJXG2gOlmtjG-Fc6brRNfq3_8t5nMPftvXy0bKfX3kfPS0TAQAA.svg"
       }
     ], 
     "mainbody": [
@@ -483,52 +651,74 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661174, 
+    "time_modify": 1620664534, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "手机上打开华为运动健康App。", 
-        "在华为运动健康App首页下拉，手动刷新。", 
-        "如使用三方手机，建议您将华为运动健康App加入后台保护，以免被手机系统清理掉。（因不同手机加入后台保护方式各不相同，详情请咨询对应手机厂商。）"
+        "请在主界面下滑手表屏幕，如果信号栏显示如上图，请您移步到室外、阳台等信号良好的区域进行尝试，确保手表网络信号良好。", 
+        "请您查询SIM卡是否欠费。请联系运营商客服查询手表是否欠费，如欠费，请缴费后重启手表再进行尝试。", 
+        "请您在 智能关怀App > 右上角 > 通讯录 ，查看联系人的号码是否存储正确，确保无空格或号码位数不对等现象。", 
+        "请您尝试呼出其他号码（如运营商客服号码），如果可以打通，则可能是手表号码被对方加入到黑名单或对方网络异常，因此无法拨通。", 
+        "荣耀小K/华为儿童手表不识别“86”、“+86”等国家区号，拨打这类号码会显示为空号，请直接添加11位手机号码。", 
+        "个别区域由于运营商网络问题，请您拨打运营商电话开通SIM卡的VoLTE业务，同时打开手表VoLTE（打开方式：华为儿童手表 3pro/3s/3X/3pro 超能版： 点击 设置 > 高级设置 > 无线和网络 > 打开 VoLTE ； 华为儿童手表 4X： 点击 设置 > 高级设置 > 网络连接 > 打开 VoLTE ）。", 
+        "华为儿童手表 3 Pro/3s/3X/3 Pro 超能版 仅支持中国移动VoLTE，华为儿童手表 4X 同时支持中国移动/联通/电信VoLTE，其他产品不支持VoLTE。只有当手表插入对应运营商的SIM卡，才能看到 VoLTE 开关。"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "手环、手表科学睡眠数据同步慢因科学睡眠数据量较大，若您的设备长时间没有和手机连接，可能会造成同步时长较长。请您保证手机与穿戴设备正常连接，并通过如下操作尝试同步：手机上打开华为运动健康App。在华为运动健康App首页下拉，手动刷新。如使用三方手机，建议您将华为运动健康App加入后台保护，以免被手机系统清理掉。（因不同手机加入后台保护方式各不相同，详情请咨询对应手机厂商。）科学睡眠数据量较大，如果您的设备连续多天都没有连接App进行同步，一次性同步多天的数据会消耗更多时间，建议您每天都打开华为运动健康App进行数据同步；同时，数据同步速度与手机蓝牙以及CPU性能有关，个别手机数据同步可能会比较慢，请您耐心等待。如科学睡眠数据无法同步至手机，而不是同步慢问题，请参考知识：华为运动健康App睡眠数据显示异常或同步异常 。"
+      "intro_answer": "儿童手表无法呼出电话儿童手表无法呼出电话，建议按照以下场景排查解决：版本过低请确认将手表和智能关怀App升级为最新版本。主界面显示未识别到SIM卡请在主界面下滑手表屏幕，如果信号栏显示如下图，请您尝试将手表中SIM卡更换到手机上尝试能否正常拨打电话。如果失败，请您联系运营商更换SIM卡，或更换其他SIM卡放入手表使用。主界面显示无信号或无网络请在主界面下滑手表屏幕，如果信号栏显示如上图，请您移步到室外、阳台等信号良好的区域进行尝试，确保手表网络信号良好。请您查询SIM卡是否欠费。请联系运营商客服查询手表是否欠费，如欠费，请缴费后重启手表再进行尝试。呼出号码不正确请您在 智能关怀App > 右上角> 通讯录，查看联系人的号码是否存储正确，确保无空格或号码位数不对等现象。请您尝试呼出其他号码（如运营商客服号码），如果可以打通，则可能是手表号码被对方加入到黑名单或对方网络异常，因此无法拨通。荣耀小K/华为儿童手表不识别“86”、“+86”等国家区号，拨打这类号码会显示为空号，请直接添加11位手机号码。个别区域由于运营商网络问题，请您拨打运营商电话开通SIM卡的VoLTE业务，同时打开手表VoLTE（打开方式：华为儿童手表 3pro/3s/3X/3pro 超能版：点击 设置 > 高级设置 > 无线和网络 > 打开 VoLTE ；华为儿童手表 4X：点击 设置 > 高级设置 > 网络连接 > 打开 VoLTE）。华为儿童手表 3 Pro/3s/3X/3 Pro 超能版 仅支持中国移动VoLTE，华为儿童手表 4X 同时支持中国移动/联通/电信VoLTE，其他产品不支持VoLTE。只有当手表插入对应运营商的SIM卡，才能看到VoLTE 开关。若以上方式依然无法解决您的问题，请您携带相关购机凭证，前往就近的华为客户服务中心进行检测处理。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00733892/", 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00734097/", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661174
+    "time_publish": 1620664534
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00749581/", 
+    "h5_url": "https://consumer.huawei.com/cn/support/content/zh-cn00734135/", 
     "cpid": "auto_v28dvswtbwpup6j7tn", 
-    "title": "穿戴设备如何保养电池、延长使用时间", 
+    "title": "儿童手表搜索不到WLAN、WLAN无法连接、连接后无法上网", 
+    "cover_img": [
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QQU7DMBBF7-J1W81k7NhhVafBKhvEohzAcYbWUnFQ4hRRxN1JRMTy6X3p_5lvMY08nL4-WDwIFBvR9Z9pRZrxLV752b8vGEOftqnPvBtv51W9-HyZVRsCtMCB0LM0EjyzLgwpCF3LpVdzuo33p26OHu3-ftmGBKBJIi0qDOxz7NMpLj1YQiUJJCAAbMQYz8nnaVgWWIMNSdLaYW1Aq8oiFuiqotLOlNYpqgGMa6QtH2tl7AFIFQoLRw2Rruhvxnrd0c5489fYvf5_IA8T__wCsBQagRMBAAA%3D.svg"
+      }, 
+      {
+        "cover_img_size": 2, 
+        "cover_img_url": "https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QQU7DMBBF7-J1W81k7NhhVafBKhvEohzAcYbWUnFQ4hRRxN1JRMTy6X3p_5lvMY08nL4-WDwIFBvR9Z9pRZrxLV752b8vGEOftqnPvBtv51W9-HyZVRsCtMCB0LM0EjyzLgwpCF3LpVdzuo33p26OHu3-ftmGBKBJIi0qDOxz7NMpLj1YQiUJJCAAbMQYz8nnaVgWWIMNSdLaYW1Aq8oiFuiqotLOlNYpqgGMa6QtH2tl7AFIFQoLRw2Rruhvxnrd0c5489fYvf5_IA8T__wCsBQagRMBAAA%3D.svg"
+      }
+    ], 
     "mainbody": [
       {
         "answer_content": ""
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661175, 
+    "time_modify": 1620664537, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "请使用原装充电设备为穿戴设备充电，保证充电电压稳定且符合标准。", 
-        "请尽量避免在充电时使用穿戴设备。边玩边充易导致电池温度较高，高温下长时间放电会加剧电池损耗。", 
-        "请尽量避免等到穿戴设备低电提醒再为电池充电，电池放电放得越尽，电池的损耗就会越大。可以随用随充，以延长穿戴设备电池的使用寿命。", 
-        "请不要长时间闲置，应不定期给穿戴设备充满电。穿戴设备长时间不用/不充电，电池电量会被完全消耗完，会导致充电异常或无法充电。", 
-        "请避免将穿戴设备放置在低温、高温或温差较大的环境中，否则容易影响穿戴设备电池的使用寿命。"
+        "请确认您的手表是否超出热点覆盖范围或者热点已关闭。", 
+        "手表不支持连接酒店、机场等场所的Portal热点（即需要在手机浏览器上进行验证的热点）。", 
+        "手表仅支持连接2.4G频段的WLAN热点，不支持5G频段热点。如果您连接的热点是5G热点，则需要打开热点的2.4G频段。具体设置方法请联系路由器客服进行咨询。", 
+        "如果手表在WLAN覆盖范围内，但智能关怀App上搜索不到，可尝试手动填写 添加WLAN 。", 
+        "手机分享热点时，该手机作为管理员，搜索不到这个WLAN，可以手动添加。", 
+        "请检查手表是否在WLAN的覆盖区域内。", 
+        "请确认WLAN是否正常开启，网络状态是否正常。", 
+        "请确认在智能关怀App上选择的WLAN名称，即手表需连接的WLAN名称。", 
+        "请检查WLAN的密码是否输入错误。", 
+        "请确认手表数据业务正常，且手表可以正常上网（华为儿童手表 3 Pro/3s/3X/3 Pro 超能版/4X请打开 数据业务开关 ）。", 
+        "请检查手机连接该WLAN后是否可以正常上网；若不能上网，则路由器WLAN有问题，需要确认路由器WLAN网络状况。", 
+        "请确认手机连接WLAN时，如需跳转至输入认证登录页面（比如星巴克或者酒店的网络），则手表无法连接该WLAN。", 
+        "若手机连接WLAN时均未出现上述2种情况，则重启路由器，在智能关怀App中删除该WLAN，重新连接一次尝试。"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "穿戴设备如何保养电池、延长使用时间以下方法可以有效保养穿戴设备的电池，延长使用时间，请参考：请使用原装充电设备为穿戴设备充电，保证充电电压稳定且符合标准。请尽量避免在充电时使用穿戴设备。边玩边充易导致电池温度较高，高温下长时间放电会加剧电池损耗。请尽量避免等到穿戴设备低电提醒再为电池充电，电池放电放得越尽，电池的损耗就会越大。可以随用随充，以延长穿戴设备电池的使用寿命。请不要长时间闲置，应不定期给穿戴设备充满电。穿戴设备长时间不用/不充电，电池电量会被完全消耗完，会导致充电异常或无法充电。请避免将穿戴设备放置在低温、高温或温差较大的环境中，否则容易影响穿戴设备电池的使用寿命。"
+      "intro_answer": "儿童手表搜索不到WLAN、WLAN无法连接、连接后无法上网手表搜索不到WLAN请确认您的手表是否超出热点覆盖范围或者热点已关闭。手表不支持连接酒店、机场等场所的Portal热点（即需要在手机浏览器上进行验证的热点）。手表仅支持连接2.4G频段的WLAN热点，不支持5G频段热点。如果您连接的热点是5G热点，则需要打开热点的2.4G频段。具体设置方法请联系路由器客服进行咨询。如果手表在WLAN覆盖范围内，但智能关怀App上搜索不到，可尝试手动填写添加WLAN。手机分享热点时，该手机作为管理员，搜索不到这个WLAN，可以手动添加。WLAN无法连接请检查手表是否在WLAN的覆盖区域内。请确认WLAN是否正常开启，网络状态是否正常。请确认在智能关怀App上选择的WLAN名称，即手表需连接的WLAN名称。请检查WLAN的密码是否输入错误。请确认手表数据业务正常，且手表可以正常上网（华为儿童手表 3 Pro/3s/3X/3 Pro 超能版/4X请打开数据业务开关）。华为儿童手表 4X/ 3 Pro超能版 可以通过手表直接配置WLAN。WLAN连接后无法上网请检查手机连接该WLAN后是否可以正常上网；若不能上网，则路由器WLAN有问题，需要确认路由器WLAN网络状况。请确认手机连接WLAN时，如需跳转至输入认证登录页面（比如星巴克或者酒店的网络），则手表无法连接该WLAN。若手机连接WLAN时均未出现上述2种情况，则重启路由器，在智能关怀App中删除该WLAN，重新连接一次尝试。由于荣耀小K 2、华为儿童手表 3仅支持移动2G网络，2G网络下数据传输较慢或2G信号不好会导致WLAN连接中断，请移步到阳台等信号较好的地方重新尝试。如果以上方案仍无法解决您的问题，请您携带相关购机凭证和儿童手表，前往就近的华为客户服务中心进行检测处理。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00749581/", 
+    "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00734135/", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661175
+    "time_publish": 1620664537
   }, 
   {
     "category_id": 8, 
@@ -547,7 +737,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661178, 
+    "time_modify": 1620664540, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
@@ -556,248 +746,229 @@
     "page_attribute": 1, 
     "content_id": "https://consumer.huawei.com/cn/support/content/zh-cn00794762/", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661178
+    "time_publish": 1620664540
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri40732/14.0/mac/11.0", 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
     "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "《Safari 浏览器使用手册》", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
-      }
-    ], 
+    "title": "关于 Safari 浏览器中的弹出式广告和窗口", 
     "mainbody": [
       {
-        "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+        "answer_content": "了解如何在 iPhone、iPad、iPod touch 或 Mac 上阻止弹出式窗口和处理持续出现的广告。弹出式窗口可能是广告、通知、优惠活动或提醒，这类窗口会在您当前的浏览器窗口中打开、在新窗口中打开，或者在另一个标签页中打开。有些弹出式窗口是第三方广告，采用钓鱼手段（例如警告或奖品）来诱使您相信它们来自 Apple 或其他可信任的公司，进而让您透露个人信息或财务信息。还有一些弹出式窗口可能会声称提供免费下载、软件更新或插件，以此来诱骗您安装垃圾软件。 除非您确认广告是合法的，否则应避免与那些疑似要控制您屏幕的弹出式窗口或网页进行互动。下面提供了一些其他提示来帮助您管控弹出式窗口和其他对您产生干扰的垃圾内容。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661179, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "欢迎使用", 
-        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
-        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
-        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
-        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
-        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
-        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
-        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
-        "更改 Safari 浏览器偏好设置", 
-        "键盘及其他快捷键", 
-        "故障排除", 
-        "版权"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": ""
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri40732/14.0/mac/11.0", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661179
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri40732/14.0/mac/11.0", 
-    "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "在 Mac 上的 Safari 浏览器中阻止跨站跟踪", 
-    "mainbody": [
-      {
-        "answer_content": "部分网站使用第三方内容提供商。您可以让第三方内容提供商停止跨网站跟踪您以提供产品和服务广告。为我打开“Safari 浏览器”在 Mac 上的 Safari 浏览器 App 中，选取“Safari 浏览器”>“偏好设置”，然后点按“隐私”。选择“阻止跨站跟踪”。 除非您将第三方内容提供商作为第一方网站进行访问和交互，否则其 Cookie 和网站数据 将被删除。 社交媒体站点会经常将“分享”、“点赞”或“评论”按钮放在其他网站上。即使您不使用这些按钮，它们也可用于跟踪您的网页浏览记录。Safari 浏览器会阻止该跟踪行为。如果您仍想要使用这些按钮，系统会询问您是否允许站点查看您在其他网站上的活动记录。有关显示被阻止跟踪您的已知跟踪器列表的“隐私报告”，请参阅查看被阻止跟踪您的跟踪器。【注】您每次访问网站时，该网站都会收集您设备的相关数据（如系统配置），并使用该数据来向您显示兼容您设备的网页。某些公司会使用此数据来尝试唯一辨识您的设备，称为指纹识别。为此，访问网页时，Safari 浏览器会提供简化版的系统配置。您的 Mac 看起来会更像其他人的 Mac，这极大地削弱了跟踪器唯一辨识您设备的能力。另请参阅在 Mac 上的 Safari 浏览器中管理 Cookie 和网站数据在 Mac 上的 Safari 浏览器中使用“无痕浏览”有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661179, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "在 Mac 上的 Safari 浏览器 App 中，选取“Safari 浏览器”>“偏好设置”，然后点按“隐私”。", 
-        "选择“阻止跨站跟踪”。 除非您将第三方内容提供商作为第一方网站进行访问和交互，否则其 Cookie 和网站数据 将被删除。 社交媒体站点会经常将“分享”、“点赞”或“评论”按钮放在其他网站上。即使您不使用这些按钮，它们也可用于跟踪您的网页浏览记录。Safari 浏览器会阻止该跟踪行为。如果您仍想要使用这些按钮，系统会询问您是否允许站点查看您在其他网站上的活动记录。"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "部分网站使用第三方内容提供商。您可以让第三方内容提供商停止跨网站跟踪您以提供产品和服务广告。为我打开“Safari 浏览器”有关显示被阻止跟踪您的已知跟踪器列表的“隐私报告”，请参阅查看被阻止跟踪您的跟踪器。【注】您每次访问网站时，该网站都会收集您设备的相关数据（如系统配置），并使用该数据来向您显示兼容您设备的网页。某些公司会使用此数据来尝试唯一辨识您的设备，称为指纹识别。为此，访问网页时，Safari 浏览器会提供简化版的系统配置。您的 Mac 看起来会更像其他人的 Mac，这极大地削弱了跟踪器唯一辨识您设备的能力。另请参阅在 Mac 上的 Safari 浏览器中管理 Cookie 和网站数据在 Mac 上的 Safari 浏览器中使用“无痕浏览”有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri40732/14.0/mac/11.0", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661179
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri11471/mac", 
-    "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "《Safari 浏览器使用手册》", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
-      }
-    ], 
-    "mainbody": [
-      {
-        "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661180, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "欢迎使用", 
-        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
-        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
-        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
-        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
-        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
-        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
-        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
-        "更改 Safari 浏览器偏好设置", 
-        "键盘及其他快捷键", 
-        "故障排除", 
-        "版权"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": ""
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri11471/mac", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661180
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/sfri11471/mac", 
-    "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "在 Mac 上的 Safari 浏览器中管理 Cookie 和网站数据", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
-      }
-    ], 
-    "mainbody": [
-      {
-        "answer_content": "您可以更改 Safari 浏览器偏好设置中的选项，从而让 Safari 浏览器始终接受或始终阻止 Cookie 和网站数据。为我打开“Safari 浏览器”在 Mac 上的 Safari 浏览器 App  中，选取“Safari 浏览器”>“偏好设置”，点按“隐私”，然后执行以下任一项操作：防止跟踪器使用 Cookie 和网站数据跟踪您： 选择“阻止跨站跟踪”。 Cookie 和网站数据会被删除，除非您访问跟踪器的网站并与之交互。始终阻止 Cookie： 选择“阻止所有 Cookie”。 网站、第三方和广告商不能将 Cookie 和其他数据储存在您的 Mac 上。这可能会使得某些网站无法正常工作。始终允许 Cookie： 取消选择“阻止所有 Cookie”。 网站、第三方和广告商可以将 Cookie 和其他数据储存在您的 Mac 上。移除储存的 Cookie 和数据： 点按“管理网站数据”，选择一个或多个网站，然后点按“移除”或“全部移除”。 移除数据可能会减少跟踪，但也可能会将您从网站退出登录或更改网站行为。查看哪些网站储存 Cookie 或数据： 点按“管理网站数据”。【注】在 Safari 浏览器中更改您的 Cookie 偏好设置或移除 Cookie 和网站数据可能会导致在其他 App 中更改或移除它们。另请参阅在 Mac 上的 Safari 浏览器中阻止跨站跟踪有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661180, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "防止跟踪器使用 Cookie 和网站数据跟踪您： 选择“阻止跨站跟踪”。 Cookie 和网站数据会被删除，除非您访问跟踪器的网站并与之交互。", 
-        "始终阻止 Cookie： 选择“阻止所有 Cookie”。 网站、第三方和广告商不能将 Cookie 和其他数据储存在您的 Mac 上。这可能会使得某些网站无法正常工作。", 
-        "始终允许 Cookie： 取消选择“阻止所有 Cookie”。 网站、第三方和广告商可以将 Cookie 和其他数据储存在您的 Mac 上。", 
-        "移除储存的 Cookie 和数据： 点按“管理网站数据”，选择一个或多个网站，然后点按“移除”或“全部移除”。 移除数据可能会减少跟踪，但也可能会将您从网站退出登录或更改网站行为。", 
-        "查看哪些网站储存 Cookie 或数据： 点按“管理网站数据”。"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "您可以更改 Safari 浏览器偏好设置中的选项，从而让 Safari 浏览器始终接受或始终阻止 Cookie 和网站数据。为我打开“Safari 浏览器”在 Mac 上的 Safari 浏览器 App  中，选取“Safari 浏览器”>“偏好设置”，点按“隐私”，然后执行以下任一项操作：【注】在 Safari 浏览器中更改您的 Cookie 偏好设置或移除 Cookie 和网站数据可能会导致在其他 App 中更改或移除它们。另请参阅在 Mac 上的 Safari 浏览器中阻止跨站跟踪有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/sfri11471/mac", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661180
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw646b2ca2/14.0/mac/11.0", 
-    "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "《Safari 浏览器使用手册》", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://help.apple.com/assets/5FC7BA6A0946225611C6FEFA/5FC7BA710946225611C6FF02/zh_CN/6846073fc6f766d1ad3f66ae757c5e24.png"
-      }
-    ], 
-    "mainbody": [
-      {
-        "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661181, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "欢迎使用", 
-        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
-        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
-        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
-        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
-        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
-        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
-        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
-        "更改 Safari 浏览器偏好设置", 
-        "键盘及其他快捷键", 
-        "故障排除", 
-        "版权"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": ""
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw646b2ca2/14.0/mac/11.0", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661181
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw646b2ca2/14.0/mac/11.0", 
-    "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "翻译网页", 
-    "mainbody": [
-      {
-        "answer_content": "在 Mac 上的 Safari 浏览器 App 中，前往您想要翻译的网页。 如果网页可被翻译， 智能搜索栏 会显示“翻译”按钮 。点按“翻译”按钮 ，然后选取一种语言。 如果您认为翻译可能需要改进，请点按“翻译”按钮 ，然后选取“报告翻译问题”。 翻译会发送给 Apple 进行检查。"
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661181, 
-    "page_type": 4, 
-    "answer": {
-      "step_answer": [
-        "在 Mac 上的 Safari 浏览器 App 中，前往您想要翻译的网页。 如果网页可被翻译， 智能搜索栏 会显示“翻译”按钮 。", 
-        "点按“翻译”按钮 ，然后选取一种语言。 如果您认为翻译可能需要改进，请点按“翻译”按钮 ，然后选取“报告翻译问题”。 翻译会发送给 Apple 进行检查。"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": ""
-    }, 
-    "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw646b2ca2/14.0/mac/11.0", 
-    "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661181
-  }, 
-  {
-    "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw646b2ca2/14.0/mac/11.0", 
-    "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "如果某种语言的翻译不可用", 
-    "mainbody": [
-      {
-        "answer_content": "您可以在“语言与地区”偏好设置中添加语言，让更多语言在“翻译”菜单中可用。 当您将某种语言添加到首选语言列表后，如果该语言的翻译可用，则其会显示在 Safari 浏览器的“翻译”菜单中。若要添加语言，请参阅更改“语言与地区”中的“通用”偏好设置。【注】翻译的可用性以及可以翻译的语言数量可能因国家或地区而异。另请参阅Mac 上 Safari 浏览器中的网页翻译（Beta 版）有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
-      }
-    ], 
-    "update": 1, 
-    "time_modify": 1620661181, 
+    "time_modify": 1620664541, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
-      "long_answer": "您可以在“语言与地区”偏好设置中添加语言，让更多语言在“翻译”菜单中可用。 当您将某种语言添加到首选语言列表后，如果该语言的翻译可用，则其会显示在 Safari 浏览器的“翻译”菜单中。若要添加语言，请参阅更改“语言与地区”中的“通用”偏好设置。【注】翻译的可用性以及可以翻译的语言数量可能因国家或地区而异。另请参阅Mac 上 Safari 浏览器中的网页翻译（Beta 版）有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+      "long_answer": "了解如何在 iPhone、iPad、iPod touch 或 Mac 上阻止弹出式窗口和处理持续出现的广告。弹出式窗口可能是广告、通知、优惠活动或提醒，这类窗口会在您当前的浏览器窗口中打开、在新窗口中打开，或者在另一个标签页中打开。有些弹出式窗口是第三方广告，采用钓鱼手段（例如警告或奖品）来诱使您相信它们来自 Apple 或其他可信任的公司，进而让您透露个人信息或财务信息。还有一些弹出式窗口可能会声称提供免费下载、软件更新或插件，以此来诱骗您安装垃圾软件。 除非您确认广告是合法的，否则应避免与那些疑似要控制您屏幕的弹出式窗口或网页进行互动。下面提供了一些其他提示来帮助您管控弹出式窗口和其他对您产生干扰的垃圾内容。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw646b2ca2/14.0/mac/11.0", 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661181
+    "time_publish": 1620664541
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "检查并更新您的软件", 
+    "mainbody": [
+      {
+        "answer_content": "务必确保为您的所有 Apple 产品都安装最新的软件更新。许多软件发布都提供了重要的安全更新，并可能包含一些有助于控制弹出式窗口的改进功能。App Store 是为 Mac 安全下载 App 的首选之地。如果您需要为 Mac 获取第三方软件，而 App Store 中没有提供这款软件，请直接从开发者或其他可靠来源那里获取，而不要通过广告或链接来获取。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664541, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "务必确保为您的所有 Apple 产品都安装最新的软件更新。许多软件发布都提供了重要的安全更新，并可能包含一些有助于控制弹出式窗口的改进功能。App Store 是为 Mac 安全下载 App 的首选之地。如果您需要为 Mac 获取第三方软件，而 App Store 中没有提供这款软件，请直接从开发者或其他可靠来源那里获取，而不要通过广告或链接来获取。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664541
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "检查 Safari 浏览器设置和安全性偏好设置", 
+    "mainbody": [
+      {
+        "answer_content": "确保 Safari 浏览器的安全性设置已打开，尤其是“阻止弹出式窗口”（适用于弹出式窗口）和“欺骗性网站警告”。在 iPhone、iPad 或 iPod touch 上，请前往“设置”>“Safari 浏览器”，然后打开“阻止弹出式窗口”和“欺骗性网站警告”。在 Mac 上，您可以在“Safari 浏览器”>“偏好设置”中找到这些选项。“网站”标签中包含用于阻止部分或所有弹出式窗口的选项，您也可以在“安全性”标签中打开欺骗性网站警告。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664541, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "确保 Safari 浏览器的安全性设置已打开，尤其是“阻止弹出式窗口”（适用于弹出式窗口）和“欺骗性网站警告”。在 iPhone、iPad 或 iPod touch 上，请前往“设置”>“Safari 浏览器”，然后打开“阻止弹出式窗口”和“欺骗性网站警告”。在 Mac 上，您可以在“Safari 浏览器”>“偏好设置”中找到这些选项。“网站”标签中包含用于阻止部分或所有弹出式窗口的选项，您也可以在“安全性”标签中打开欺骗性网站警告。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664541
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "Safari 浏览器中的弹出式窗口和广告", 
+    "mainbody": [
+      {
+        "answer_content": "如果您在 Safari 浏览器中看到令人厌烦的弹出式广告，可以前往搜索栏，然后输入一个新的 URL 或搜索词以浏览新的网站。如果您在 iPhone、iPad 或 iPod touch 上没有看到搜索栏，请轻点屏幕顶部以使它显示。某些弹出式窗口和广告具有类似于关闭按钮的虚假按钮，因此，如果您尝试关闭某个弹出式窗口或广告，请务必要小心。如果您无法确定如何进行处理，请避免与这个弹出式窗口或广告进行互动，并关闭 Safari 浏览器窗口或标签页。在 Mac 上，您还可以将设置更新为在您关闭 Safari 浏览器后阻止窗口重新打开，也可以在打开 Safari 浏览器时按住 Shift 键。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664541, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "如果您在 Safari 浏览器中看到令人厌烦的弹出式广告，可以前往搜索栏，然后输入一个新的 URL 或搜索词以浏览新的网站。如果您在 iPhone、iPad 或 iPod touch 上没有看到搜索栏，请轻点屏幕顶部以使它显示。某些弹出式窗口和广告具有类似于关闭按钮的虚假按钮，因此，如果您尝试关闭某个弹出式窗口或广告，请务必要小心。如果您无法确定如何进行处理，请避免与这个弹出式窗口或广告进行互动，并关闭 Safari 浏览器窗口或标签页。在 Mac 上，您还可以将设置更新为在您关闭 Safari 浏览器后阻止窗口重新打开，也可以在打开 Safari 浏览器时按住 Shift 键。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664541
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "如果您在 Mac 上安装了恶意软件或其他垃圾软件", 
+    "mainbody": [
+      {
+        "answer_content": "如果您在 Mac 上看到一直显示的弹出式窗口，可能是您之前无意中下载并安装了广告软件（即支持广告的软件）或其他垃圾软件。某些第三方下载网站可能包含一些您不希望与您安装的软件一同安装的程序。如果您认为自己可能在 Mac 上安装了恶意软件或广告软件，请更新到最新版本的 macOS。如果您的 Mac 已在运行最新版本，请重新启动 Mac。macOS 包含一个内建的工具，可在您重新启动 Mac 时移除已知的恶意软件。请检查您的“应用程序”文件夹，以确认其中有没有您不希望安装的 App，然后将它们卸载。您还可以查看 Safari 浏览器偏好设置中的“扩展”标签，以确认您是不是安装了想要关闭的任何非必要扩展。如果您在 Mac 上仍看到广告或其他垃圾程序，请联系 Apple。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664541, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "如果您在 Mac 上看到一直显示的弹出式窗口，可能是您之前无意中下载并安装了广告软件（即支持广告的软件）或其他垃圾软件。某些第三方下载网站可能包含一些您不希望与您安装的软件一同安装的程序。如果您认为自己可能在 Mac 上安装了恶意软件或广告软件，请更新到最新版本的 macOS。如果您的 Mac 已在运行最新版本，请重新启动 Mac。macOS 包含一个内建的工具，可在您重新启动 Mac 时移除已知的恶意软件。请检查您的“应用程序”文件夹，以确认其中有没有您不希望安装的 App，然后将它们卸载。您还可以查看 Safari 浏览器偏好设置中的“扩展”标签，以确认您是不是安装了想要关闭的任何非必要扩展。如果您在 Mac 上仍看到广告或其他垃圾程序，请联系 Apple。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664541
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "《Safari 浏览器使用手册》", 
+    "mainbody": [
+      {
+        "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664542, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": ""
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664542
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "在 Mac 上的 Safari 浏览器中自动填充用户名和密码", 
+    "mainbody": [
+      {
+        "answer_content": "借助“自动填充”，您可以轻松填充先前存储的用户名和密码。您还可以在网站上设置密码时创建强密码。已输入信息的栏以黄色高亮显示。为我打开“Safari 浏览器”"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664542, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "借助“自动填充”，您可以轻松填充先前存储的用户名和密码。您还可以在网站上设置密码时创建强密码。已输入信息的栏以黄色高亮显示。为我打开“Safari 浏览器”"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664542
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "填充用户名和密码", 
+    "mainbody": [
+      {
+        "answer_content": "在 Mac 上的 Safari 浏览器应用  中，执行以下一项操作：如果您先前储存了网站的用户名和密码，请使用“自动填充”输入信息并登录。点按用户名栏，然后选取您的用户名（或使用 触控栏 ）。 如果您的 Mac 配备了触控 ID，则可以使用触控 ID 填充您储存的用户名和密码并登录。如果网页有选项可用于记住您的信息（如“记住我”复选框）且您想要使用该选项，请在使用触控 ID 前选择它。如果您的 Mac 在内建显示器关闭时连接到一台外部显示器，请输入 Mac 的帐户密码，然后点按“自动填充”。如果未储存网站的用户名和密码，请存储该信息以便下次使用“自动填充”功能。输入用户名和密码，或自动创建强密码（如下所述），然后在系统询问时点按“使用强密码”。 【提示】 您还可以使用您的 Apple ID 和“通过 Apple 登录”来创建网站的帐户。请参阅 在 Mac 上使用“通过 Apple 登录” 。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664542, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "如果您先前储存了网站的用户名和密码，请使用“自动填充”输入信息并登录。点按用户名栏，然后选取您的用户名（或使用 触控栏 ）。 如果您的 Mac 配备了触控 ID，则可以使用触控 ID 填充您储存的用户名和密码并登录。如果网页有选项可用于记住您的信息（如“记住我”复选框）且您想要使用该选项，请在使用触控 ID 前选择它。如果您的 Mac 在内建显示器关闭时连接到一台外部显示器，请输入 Mac 的帐户密码，然后点按“自动填充”。", 
+        "如果未储存网站的用户名和密码，请存储该信息以便下次使用“自动填充”功能。输入用户名和密码，或自动创建强密码（如下所述），然后在系统询问时点按“使用强密码”。 【提示】 您还可以使用您的 Apple ID 和“通过 Apple 登录”来创建网站的帐户。请参阅 在 Mac 上使用“通过 Apple 登录” 。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器应用  中，执行以下一项操作："
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664542
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "自动创建强密码", 
+    "mainbody": [
+      {
+        "answer_content": "在 Mac 上的 Safari 浏览器 App  中：当您开始创建新的网站密码时，若您已在 Mac 上 设置 iCloud 钥匙串 ，那么系统会为您建议一个唯一且难以猜到的密码。若您未设置 iCloud 钥匙串，请点按密码栏，点按“自动填充密钥” ，然后选取“建议新密码”。【重要事项】Safari 浏览器会自动为通过您的用户登录信息使用 Mac 的每个人自动填充您的信息。如果设备和 Mac 设置了 iCloud 钥匙串，它还会为使用您其他设备的任何人自动填充您的信息。出于安全性考虑，请将 Mac 设置为在启动时显示登录窗口，并在进入睡眠或开始屏幕保护程序后要求输入密码。将 iPhone、iPad 和 iPod touch 设置为需要密码才能解锁屏幕。【提示】如果在 Mac 和其他设备上使用 iCloud 钥匙串保护信息安全，则可以在所有这些设备上使用“自动填充”输入先前存储的用户名和密码。在 macOS 钥匙串中加密的用户名和密码。如果在 Mac 上设置，它们在 iCloud 钥匙串中也会加密。如果您在 Safari 浏览器中移除用户名和密码，则其将从 macOS 钥匙串中删除。如果 Mac 和其他设备设置了 iCloud 钥匙串，还将从您的其他设备中移除它们。另请参阅在 Mac 上自动填充安全码在 Mac 上的 Safari 浏览器中更改“自动填充”偏好设置在 Mac 上的 Safari 浏览器中自动填充信用卡信息如果 Mac 上 Safari 浏览器中的自动填充不能正常使用有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664542, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "当您开始创建新的网站密码时，若您已在 Mac 上 设置 iCloud 钥匙串 ，那么系统会为您建议一个唯一且难以猜到的密码。若您未设置 iCloud 钥匙串，请点按密码栏，点按“自动填充密钥” ，然后选取“建议新密码”。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "在 Mac 上的 Safari 浏览器 App  中：【重要事项】Safari 浏览器会自动为通过您的用户登录信息使用 Mac 的每个人自动填充您的信息。如果设备和 Mac 设置了 iCloud 钥匙串，它还会为使用您其他设备的任何人自动填充您的信息。出于安全性考虑，请将 Mac 设置为在启动时显示登录窗口，并在进入睡眠或开始屏幕保护程序后要求输入密码。将 iPhone、iPad 和 iPod touch 设置为需要密码才能解锁屏幕。【提示】如果在 Mac 和其他设备上使用 iCloud 钥匙串保护信息安全，则可以在所有这些设备上使用“自动填充”输入先前存储的用户名和密码。在 macOS 钥匙串中加密的用户名和密码。如果在 Mac 上设置，它们在 iCloud 钥匙串中也会加密。如果您在 Safari 浏览器中移除用户名和密码，则其将从 macOS 钥匙串中删除。如果 Mac 和其他设备设置了 iCloud 钥匙串，还将从您的其他设备中移除它们。另请参阅在 Mac 上自动填充安全码在 Mac 上的 Safari 浏览器中更改“自动填充”偏好设置在 Mac 上的 Safari 浏览器中自动填充信用卡信息如果 Mac 上 Safari 浏览器中的自动填充不能正常使用有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrwf71ba236/14.0/mac/11.0", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664542
   }, 
   {
     "category_id": 8, 
@@ -820,7 +991,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661181, 
+    "time_modify": 1620664543, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
@@ -829,7 +1000,7 @@
     "page_attribute": 1, 
     "content_id": "https://support.apple.com/zh-cn/HT203051", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661181
+    "time_publish": 1620664543
   }, 
   {
     "category_id": 8, 
@@ -848,7 +1019,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661181, 
+    "time_modify": 1620664543, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
@@ -867,7 +1038,7 @@
     "page_attribute": 1, 
     "content_id": "https://support.apple.com/zh-cn/HT203051", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661181
+    "time_publish": 1620664543
   }, 
   {
     "category_id": 8, 
@@ -880,7 +1051,7 @@
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661181, 
+    "time_modify": 1620664543, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
@@ -894,103 +1065,180 @@
     "page_attribute": 1, 
     "content_id": "https://support.apple.com/zh-cn/HT203051", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661181
+    "time_publish": 1620664543
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/HT203051", 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
     "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "如何在 Mac 上安装 Safari 浏览器扩展", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://support.apple.com/library/content/dam/edam/applecare/images/zh_CN/mac_apps/safari/macos-catalina-mba-app-store-safari-extensions.jpg"
-      }, 
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://support.apple.com/library/content/dam/edam/applecare/images/zh_CN/mac_apps/safari/macos-catalina-mba-safari-menu-bar-safari-extensions.jpg"
-      }
-    ], 
+    "title": "关于 Safari 浏览器中的弹出式广告和窗口", 
     "mainbody": [
       {
-        "answer_content": "Safari 浏览器扩展可以增强并定制您的 Mac 浏览体验。Safari 浏览器扩展可以增加 Safari 浏览器的功能，以便您可以按照自己的方式浏览网络。这些扩展可以显示有关网页的实用信息、展示新闻头条、帮助您使用收藏的服务、更改网页的外观，等等。因此，这些扩展是实现个性化浏览体验的绝佳方式。使用 App Store 可以方便地下载和安装 Safari 浏览器扩展。为了您的安全起见，App Store 中的所有扩展均经过 Apple 的审核、签名并托管。 "
+        "answer_content": "了解如何在 iPhone、iPad、iPod touch 或 Mac 上阻止弹出式窗口和处理持续出现的广告。弹出式窗口可能是广告、通知、优惠活动或提醒，这类窗口会在您当前的浏览器窗口中打开、在新窗口中打开，或者在另一个标签页中打开。有些弹出式窗口是第三方广告，采用钓鱼手段（例如警告或奖品）来诱使您相信它们来自 Apple 或其他可信任的公司，进而让您透露个人信息或财务信息。还有一些弹出式窗口可能会声称提供免费下载、软件更新或插件，以此来诱骗您安装垃圾软件。 除非您确认广告是合法的，否则应避免与那些疑似要控制您屏幕的弹出式窗口或网页进行互动。下面提供了一些其他提示来帮助您管控弹出式窗口和其他对您产生干扰的垃圾内容。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661182, 
+    "time_modify": 1620664544, 
     "page_type": 4, 
     "answer": {
       "answer_style": 2, 
-      "long_answer": "Safari 浏览器扩展可以增强并定制您的 Mac 浏览体验。Safari 浏览器扩展可以增加 Safari 浏览器的功能，以便您可以按照自己的方式浏览网络。这些扩展可以显示有关网页的实用信息、展示新闻头条、帮助您使用收藏的服务、更改网页的外观，等等。因此，这些扩展是实现个性化浏览体验的绝佳方式。使用 App Store 可以方便地下载和安装 Safari 浏览器扩展。为了您的安全起见，App Store 中的所有扩展均经过 Apple 的审核、签名并托管。 "
+      "long_answer": "了解如何在 iPhone、iPad、iPod touch 或 Mac 上阻止弹出式窗口和处理持续出现的广告。弹出式窗口可能是广告、通知、优惠活动或提醒，这类窗口会在您当前的浏览器窗口中打开、在新窗口中打开，或者在另一个标签页中打开。有些弹出式窗口是第三方广告，采用钓鱼手段（例如警告或奖品）来诱使您相信它们来自 Apple 或其他可信任的公司，进而让您透露个人信息或财务信息。还有一些弹出式窗口可能会声称提供免费下载、软件更新或插件，以此来诱骗您安装垃圾软件。 除非您确认广告是合法的，否则应避免与那些疑似要控制您屏幕的弹出式窗口或网页进行互动。下面提供了一些其他提示来帮助您管控弹出式窗口和其他对您产生干扰的垃圾内容。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/HT203051", 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661182
+    "time_publish": 1620664544
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/HT203051", 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
     "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "如何安装扩展", 
-    "cover_img": [
-      {
-        "cover_img_size": 2, 
-        "cover_img_url": "https://support.apple.com/library/content/dam/edam/applecare/images/zh_CN/mac_apps/safari/macos-catalina-safari-13-preferences-extensions.jpg"
-      }
-    ], 
+    "title": "检查并更新您的软件", 
     "mainbody": [
       {
-        "answer_content": "首先，安装 macOS 的最新更新，以确保 Safari 浏览器为最新状态。您需要 Safari 浏览器 12 或更高版本才能从 App Store 获取 Safari 浏览器扩展。查找并安装扩展：打开 Safari 浏览器，然后从菜单栏中选取“Safari 浏览器”>“Safari 浏览器扩展”。如上图所示，App Store 将打开并显示“Safari 浏览器扩展”页面。要下载并安装扩展，请点按“获取”或点按价格。系统可能会要求您使用 Apple ID 登录。点按“安装”。扩展安装完成后，点按“打开”，然后按照扩展提供的屏幕上的说明进行操作。接下来，返回 Safari 浏览器，打开您安装的扩展：选取“Safari 浏览器”>“偏好设置”。点按“扩展”。选中扩展名称旁边的复选框。所有从 App Store 安装的扩展都会自动保持最新状态。"
+        "answer_content": "务必确保为您的所有 Apple 产品都安装最新的软件更新。许多软件发布都提供了重要的安全更新，并可能包含一些有助于控制弹出式窗口的改进功能。App Store 是为 Mac 安全下载 App 的首选之地。如果您需要为 Mac 获取第三方软件，而 App Store 中没有提供这款软件，请直接从开发者或其他可靠来源那里获取，而不要通过广告或链接来获取。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661182, 
+    "time_modify": 1620664544, 
     "page_type": 4, 
     "answer": {
-      "step_answer": [
-        "打开 Safari 浏览器，然后从菜单栏中选取“Safari 浏览器”>“Safari 浏览器扩展”。", 
-        "如上图所示，App Store 将打开并显示“Safari 浏览器扩展”页面。要下载并安装扩展，请点按“获取”或点按价格。系统可能会要求您使用 Apple ID 登录。", 
-        "点按“安装”。", 
-        "扩展安装完成后，点按“打开”，然后按照扩展提供的屏幕上的说明进行操作。", 
-        "选取“Safari 浏览器”>“偏好设置”。", 
-        "点按“扩展”。", 
-        "选中扩展名称旁边的复选框。"
-      ], 
-      "step_answer_prefix": "step", 
-      "answer_style": 3, 
-      "intro_answer": "首先，安装 macOS 的最新更新，以确保 Safari 浏览器为最新状态。您需要 Safari 浏览器 12 或更高版本才能从 App Store 获取 Safari 浏览器扩展。查找并安装扩展：接下来，返回 Safari 浏览器，打开您安装的扩展：所有从 App Store 安装的扩展都会自动保持最新状态。"
+      "answer_style": 2, 
+      "long_answer": "务必确保为您的所有 Apple 产品都安装最新的软件更新。许多软件发布都提供了重要的安全更新，并可能包含一些有助于控制弹出式窗口的改进功能。App Store 是为 Mac 安全下载 App 的首选之地。如果您需要为 Mac 获取第三方软件，而 App Store 中没有提供这款软件，请直接从开发者或其他可靠来源那里获取，而不要通过广告或链接来获取。"
     }, 
     "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/HT203051", 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661182
+    "time_publish": 1620664544
   }, 
   {
     "category_id": 8, 
-    "h5_url": "https://support.apple.com/zh-cn/HT203051", 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
     "cpid": "auto_etipcnuy55pfi51479", 
-    "title": "如何关闭或卸载扩展", 
+    "title": "检查 Safari 浏览器设置和安全性偏好设置", 
     "mainbody": [
       {
-        "answer_content": "选取“Safari 浏览器”>“偏好设置”，然后点按“扩展”。如需关闭某个扩展，请取消选中其复选框。如需卸载某个扩展，请选择该扩展，然后点按“卸载”按钮。如果您不确定某个扩展的功能，或者您不想再使用这个扩展，则应该卸载这个扩展。"
+        "answer_content": "确保 Safari 浏览器的安全性设置已打开，尤其是“阻止弹出式窗口”（适用于弹出式窗口）和“欺骗性网站警告”。在 iPhone、iPad 或 iPod touch 上，请前往“设置”>“Safari 浏览器”，然后打开“阻止弹出式窗口”和“欺骗性网站警告”。在 Mac 上，您可以在“Safari 浏览器”>“偏好设置”中找到这些选项。“网站”标签中包含用于阻止部分或所有弹出式窗口的选项，您也可以在“安全性”标签中打开欺骗性网站警告。"
       }
     ], 
     "update": 1, 
-    "time_modify": 1620661182, 
+    "time_modify": 1620664544, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "确保 Safari 浏览器的安全性设置已打开，尤其是“阻止弹出式窗口”（适用于弹出式窗口）和“欺骗性网站警告”。在 iPhone、iPad 或 iPod touch 上，请前往“设置”>“Safari 浏览器”，然后打开“阻止弹出式窗口”和“欺骗性网站警告”。在 Mac 上，您可以在“Safari 浏览器”>“偏好设置”中找到这些选项。“网站”标签中包含用于阻止部分或所有弹出式窗口的选项，您也可以在“安全性”标签中打开欺骗性网站警告。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664544
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "Safari 浏览器中的弹出式窗口和广告", 
+    "mainbody": [
+      {
+        "answer_content": "如果您在 Safari 浏览器中看到令人厌烦的弹出式广告，可以前往搜索栏，然后输入一个新的 URL 或搜索词以浏览新的网站。如果您在 iPhone、iPad 或 iPod touch 上没有看到搜索栏，请轻点屏幕顶部以使它显示。某些弹出式窗口和广告具有类似于关闭按钮的虚假按钮，因此，如果您尝试关闭某个弹出式窗口或广告，请务必要小心。如果您无法确定如何进行处理，请避免与这个弹出式窗口或广告进行互动，并关闭 Safari 浏览器窗口或标签页。在 Mac 上，您还可以将设置更新为在您关闭 Safari 浏览器后阻止窗口重新打开，也可以在打开 Safari 浏览器时按住 Shift 键。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664544, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "如果您在 Safari 浏览器中看到令人厌烦的弹出式广告，可以前往搜索栏，然后输入一个新的 URL 或搜索词以浏览新的网站。如果您在 iPhone、iPad 或 iPod touch 上没有看到搜索栏，请轻点屏幕顶部以使它显示。某些弹出式窗口和广告具有类似于关闭按钮的虚假按钮，因此，如果您尝试关闭某个弹出式窗口或广告，请务必要小心。如果您无法确定如何进行处理，请避免与这个弹出式窗口或广告进行互动，并关闭 Safari 浏览器窗口或标签页。在 Mac 上，您还可以将设置更新为在您关闭 Safari 浏览器后阻止窗口重新打开，也可以在打开 Safari 浏览器时按住 Shift 键。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664544
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/HT203987", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "如果您在 Mac 上安装了恶意软件或其他垃圾软件", 
+    "mainbody": [
+      {
+        "answer_content": "如果您在 Mac 上看到一直显示的弹出式窗口，可能是您之前无意中下载并安装了广告软件（即支持广告的软件）或其他垃圾软件。某些第三方下载网站可能包含一些您不希望与您安装的软件一同安装的程序。如果您认为自己可能在 Mac 上安装了恶意软件或广告软件，请更新到最新版本的 macOS。如果您的 Mac 已在运行最新版本，请重新启动 Mac。macOS 包含一个内建的工具，可在您重新启动 Mac 时移除已知的恶意软件。请检查您的“应用程序”文件夹，以确认其中有没有您不希望安装的 App，然后将它们卸载。您还可以查看 Safari 浏览器偏好设置中的“扩展”标签，以确认您是不是安装了想要关闭的任何非必要扩展。如果您在 Mac 上仍看到广告或其他垃圾程序，请联系 Apple。"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664544, 
+    "page_type": 4, 
+    "answer": {
+      "answer_style": 2, 
+      "long_answer": "如果您在 Mac 上看到一直显示的弹出式窗口，可能是您之前无意中下载并安装了广告软件（即支持广告的软件）或其他垃圾软件。某些第三方下载网站可能包含一些您不希望与您安装的软件一同安装的程序。如果您认为自己可能在 Mac 上安装了恶意软件或广告软件，请更新到最新版本的 macOS。如果您的 Mac 已在运行最新版本，请重新启动 Mac。macOS 包含一个内建的工具，可在您重新启动 Mac 时移除已知的恶意软件。请检查您的“应用程序”文件夹，以确认其中有没有您不希望安装的 App，然后将它们卸载。您还可以查看 Safari 浏览器偏好设置中的“扩展”标签，以确认您是不是安装了想要关闭的任何非必要扩展。如果您在 Mac 上仍看到广告或其他垃圾程序，请联系 Apple。"
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/HT203987", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664544
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw35004465/mac", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "《Safari 浏览器使用手册》", 
+    "mainbody": [
+      {
+        "answer_content": "欢迎使用开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告更改 Safari 浏览器偏好设置键盘及其他快捷键故障排除版权"
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664546, 
     "page_type": 4, 
     "answer": {
       "step_answer": [
-        "如需关闭某个扩展，请取消选中其复选框。", 
-        "如需卸载某个扩展，请选择该扩展，然后点按“卸载”按钮。如果您不确定某个扩展的功能，或者您不想再使用这个扩展，则应该卸载这个扩展。"
+        "欢迎使用", 
+        "开始使用 更改主页 导入书签、历史记录和密码 将 Safari 浏览器设置为默认网页浏览器", 
+        "浏览网页 前往网站 找到您所查找的内容 查看在其他设备上打开的网页 为您想要再次访问的网页添加书签 查看个人收藏网站 使用网页标签页 固定经常访问的网站 播放网页视频 使标签页中的音频静音", 
+        "在网页上购物 用 Apple Pay 付款 自动填充信用卡信息 自动填充联系人信息", 
+        "阅读文章 保留阅读列表 在 iPhone 或 iPad 上的“图书”中阅读网页 阅读文章时隐藏广告 翻译网页（Beta 版）", 
+        "下载、共享和存储内容 从网页下载项目 共享网页或通过帖子发布网页 将凭证添加到“钱包” 存储网页的一部分或整个网页 打印或创建网页的 PDF", 
+        "自定 Safari 浏览器 自定起始页 自定 Safari 浏览器窗口 自定每个网站的设置 放大网页 获取扩展", 
+        "隐私和安全性 管理 Cookie 和网站数据 阻止弹出式窗口 清除您的浏览历史记录 使用“无痕浏览” 自动填充用户名和密码信息 阻止跨站跟踪 查看隐私报告", 
+        "更改 Safari 浏览器偏好设置", 
+        "键盘及其他快捷键", 
+        "故障排除", 
+        "版权"
       ], 
       "step_answer_prefix": "step", 
       "answer_style": 3, 
-      "intro_answer": "选取“Safari 浏览器”>“偏好设置”，然后点按“扩展”。"
+      "intro_answer": ""
     }, 
     "page_attribute": 1, 
-    "content_id": "https://support.apple.com/zh-cn/HT203051", 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw35004465/mac", 
     "@type": "wxsearch_cpdata", 
-    "time_publish": 1620661182
+    "time_publish": 1620664546
+  }, 
+  {
+    "category_id": 8, 
+    "h5_url": "https://support.apple.com/zh-cn/guide/safari/ibrw35004465/mac", 
+    "cpid": "auto_etipcnuy55pfi51479", 
+    "title": "在 Mac 上的 Safari 浏览器中查看被阻止跟踪您的跟踪器", 
+    "mainbody": [
+      {
+        "answer_content": "您可以查看在访问网站时被阻止跟踪您的跟踪器。为我打开“Safari 浏览器”在 Mac 上的 Safari 浏览器 App 中，在 智能搜索栏 中输入页面的名称或 URL。点按工具栏中的“隐私报告”按钮 。有关显示被阻止跟踪您的已知跟踪器列表的“隐私报告”，请选取“Safari 浏览器”>“隐私报告”。若要开始阻止跟踪器，请参阅在 Safari 浏览器中阻止跨站跟踪。有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+      }
+    ], 
+    "update": 1, 
+    "time_modify": 1620664546, 
+    "page_type": 4, 
+    "answer": {
+      "step_answer": [
+        "在 Mac 上的 Safari 浏览器 App 中，在 智能搜索栏 中输入页面的名称或 URL。", 
+        "点按工具栏中的“隐私报告”按钮 。"
+      ], 
+      "step_answer_prefix": "step", 
+      "answer_style": 3, 
+      "intro_answer": "您可以查看在访问网站时被阻止跟踪您的跟踪器。为我打开“Safari 浏览器”有关显示被阻止跟踪您的已知跟踪器列表的“隐私报告”，请选取“Safari 浏览器”>“隐私报告”。若要开始阻止跟踪器，请参阅在 Safari 浏览器中阻止跨站跟踪。有帮助?\n                    是\n                \n                    否\n                字符限制：250请不要在评论中包含任何个人信息。最多 250 个字符。\n                    提交\n                \n        感谢您的反馈。\n    "
+    }, 
+    "page_attribute": 1, 
+    "content_id": "https://support.apple.com/zh-cn/guide/safari/ibrw35004465/mac", 
+    "@type": "wxsearch_cpdata", 
+    "time_publish": 1620664546
   }
 ]

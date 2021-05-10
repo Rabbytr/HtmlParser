@@ -191,7 +191,10 @@ class Ap2Json(baseHtml2Json):
             extinfos[-1]['content'].append(s)
             return
         elif tagname == 'img':
-            extinfos[-1].get('imgurl').append(urlparse.urljoin(self.url, node.get('src')))
+            w,h = node.get('width'),node.get('height')
+            if ((w is not None) and int(w)>100) or ((h is not None) and int(h)>100):
+                print (w,h)
+                extinfos[-1].get('imgurl').append(urlparse.urljoin(self.url, node.get('src')))
         for child in node.children:
             self._ap_tranverse(child, extinfos)
 
@@ -228,6 +231,7 @@ if __name__ == '__main__':
     # for i in ApURl:print(i)
 
     results = list()
+
     for i,url in enumerate(MiUrl[:]):
         html = urllib2.urlopen(url).read()
         fuck = Xm2Json(html, url=url)
@@ -246,7 +250,7 @@ if __name__ == '__main__':
 
     for i, url in enumerate(ApURl[:]):
         html = urllib2.urlopen(url).read()
-        # print(url)
+        print(url)
         fuck = Ap2Json(html, url=url)
         r = fuck.toJson()
         results.extend(r)
