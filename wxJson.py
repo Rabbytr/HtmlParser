@@ -62,6 +62,7 @@ class baseHtml2Json(HtmlTree):
                 datalist['page_type'] = 4
                 datalist['category_id'] = 8
                 datalist['@type'] = 'wxsearch_cpdata'
+                datalist['time_publish'] = datalist['time_modify'] = int(time.time())
             answer = {}
             if len(info.get('step_answer')) == 0:
                 answer['long_answer'] = ''.join(info['intro_answer'])
@@ -215,9 +216,9 @@ if __name__ == '__main__':
             elif hostname == 'consumer.huawei.com':HwUrl.append(url)
             elif hostname == 'support.apple.com':ApURl.append(url)
 
-    MiUrl = [random.choice(MiUrl) for _ in range(5)]
-    HwUrl = [random.choice(HwUrl) for _ in range(5)]
-    ApURl = [random.choice(ApURl) for _ in range(5)]
+    MiUrl = [random.choice(MiUrl) for _ in range(2)]
+    HwUrl = [random.choice(HwUrl) for _ in range(2)]
+    ApURl = [random.choice(ApURl) for _ in range(2)]
     # for i in ApURl:print(i)
 
     results = list()
